@@ -1,0 +1,3311 @@
+[
+  {
+    "id": "alcohol",
+    "name": "Alcohol (Ethanol)",
+    "category": "food",
+    "aliases": [
+      "alcohol",
+      "ethanol",
+      "ethyl alcohol",
+      "wine",
+      "beer",
+      "spirits",
+      "liquor",
+      "alcool"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "No known safe amount in pregnancy",
+    "detail": "No amount of alcohol is known to be safe at any point in pregnancy, and exposure can cause fetal alcohol spectrum disorders. The risk applies in all three trimesters, including the earliest weeks before pregnancy is recognized. While breastfeeding, not drinking is safest; if you do have an occasional drink, waiting about 2 hours per drink before nursing limits the amount in milk.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "category": "food",
+    "aliases": [
+      "caffeine",
+      "coffee",
+      "coffee extract",
+      "kola nut extract",
+      "caffeine anhydrous",
+      "cafeina"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Limit to about 200 mg per day",
+    "detail": "Most guidelines advise keeping caffeine below about 200 mg per day throughout pregnancy; higher intakes have been linked with miscarriage and low birth weight in some studies. Caffeine adds up across coffee, tea, cola, chocolate, and energy drinks. While breastfeeding, up to about 300 mg per day is generally considered compatible, though newborns and preterm infants clear caffeine slowly and may become irritable at higher intakes.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "aspartame",
+    "name": "Aspartame",
+    "category": "food",
+    "aliases": [
+      "aspartame",
+      "e951",
+      "nutrasweet",
+      "equal",
+      "aspartame-acesulfame salt",
+      "e962"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Approved sweetener; moderation is prudent",
+    "detail": "FDA and EFSA consider aspartame safe within the acceptable daily intake, and typical diet-drink consumption falls well below it. In 2023 the WHO cancer agency classified it as possibly carcinogenic at a hazard level, while the joint WHO/FAO committee kept the existing intake limit; a cautious approach is to keep intake moderate in pregnancy and while breastfeeding. People with phenylketonuria (PKU) must avoid it because it contains phenylalanine.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "World Health Organization",
+        "url": "https://www.who.int"
+      }
+    ]
+  },
+  {
+    "id": "saccharin",
+    "name": "Saccharin",
+    "category": "food",
+    "aliases": [
+      "saccharin",
+      "e954",
+      "sodium saccharin",
+      "calcium saccharin",
+      "sweet n low"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Crosses placenta; limit during pregnancy",
+    "detail": "Saccharin crosses the placenta and clears slowly from fetal tissue, so many clinicians suggest limiting it during pregnancy even though regulators permit it. Data in breastfeeding are limited; small occasional amounts are unlikely to harm, but other sweeteners have stronger safety records. Choosing products without saccharin is a reasonable conservative choice at all stages.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "sucralose",
+    "name": "Sucralose",
+    "category": "food",
+    "aliases": [
+      "sucralose",
+      "e955",
+      "splenda"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Approved sweetener with reassuring data",
+    "detail": "Sucralose is mostly not absorbed or metabolized, and reproductive studies have not shown harm at food-use levels. FDA and EFSA consider it safe in pregnancy within the acceptable daily intake. Only small amounts appear in breast milk and no infant problems have been reported; as with all sweeteners, moderation is sensible.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "acesulfame-k",
+    "name": "Acesulfame K",
+    "category": "food",
+    "aliases": [
+      "acesulfame k",
+      "acesulfame potassium",
+      "e950",
+      "ace-k",
+      "acesulfame-k"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Approved sweetener; fine within normal intake",
+    "detail": "Acesulfame potassium is approved by FDA and EFSA, and studies have not shown reproductive harm at food-use levels. It passes into breast milk in small amounts without reported infant effects. Typical dietary exposure is well below the acceptable daily intake; heavy daily consumption of sweetened drinks is still worth moderating.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "stevia",
+    "name": "Stevia (Steviol Glycosides)",
+    "category": "food",
+    "aliases": [
+      "stevia",
+      "steviol glycosides",
+      "e960",
+      "rebaudioside a",
+      "reb a",
+      "stevia extract",
+      "stevia leaf extract"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Purified stevia considered safe in pregnancy",
+    "detail": "Purified steviol glycosides are considered safe by FDA and EFSA within the acceptable daily intake, including during pregnancy. Whole-leaf stevia and crude extracts are not approved and lack safety data, so stick to purified forms found in commercial products. Breastfeeding data are limited but no problems are expected at food levels.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "cyclamate",
+    "name": "Cyclamate",
+    "category": "food",
+    "aliases": [
+      "cyclamate",
+      "sodium cyclamate",
+      "e952",
+      "calcium cyclamate",
+      "cyclamic acid"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Banned in the US; skip when pregnant/nursing",
+    "detail": "Cyclamate has been banned in the United States since 1970 over cancer concerns, although it remains permitted in some countries. Reproductive safety data are limited and it crosses the placenta. Because well-studied alternatives exist, the conservative choice is to avoid cyclamate throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "erythritol",
+    "name": "Erythritol",
+    "category": "food",
+    "aliases": [
+      "erythritol",
+      "e968"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Sugar alcohol with limited pregnancy data",
+    "detail": "Erythritol is a sugar alcohol generally regarded as safe, but there is little research specifically in pregnancy or breastfeeding. Research published in 2023 raised questions about cardiovascular effects at high blood levels, which regulators are still evaluating. Occasional amounts in foods are unlikely to be harmful; heavy daily intake is worth limiting until more is known.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "xylitol",
+    "name": "Xylitol",
+    "category": "food",
+    "aliases": [
+      "xylitol",
+      "e967",
+      "birch sugar"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Generally safe; large amounts upset digestion",
+    "detail": "Xylitol has a long history of use, including in chewing gum where it may help dental health, and no reproductive harm has been shown at food levels. Large amounts can cause gas, bloating, and laxative effects, which is a comfort issue rather than a fetal risk. Normal food and gum amounts are considered fine in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "sodium-nitrite",
+    "name": "Sodium Nitrite",
+    "category": "food",
+    "aliases": [
+      "sodium nitrite",
+      "e250",
+      "potassium nitrite",
+      "e249",
+      "nitrite",
+      "nitrites",
+      "curing salt"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Cured-meat preservative; limit processed meats",
+    "detail": "Nitrites preserve cured meats like bacon, ham, and hot dogs and can form nitrosamines, some of which are probable carcinogens, especially with high-heat cooking. Separately, chilled ready-to-eat processed meats carry listeria risk in pregnancy unless heated until steaming hot. Occasional, well-heated servings are reasonable, but limiting overall processed-meat intake is prudent in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "sodium-nitrate",
+    "name": "Sodium Nitrate",
+    "category": "food",
+    "aliases": [
+      "sodium nitrate",
+      "e251",
+      "potassium nitrate",
+      "e252",
+      "nitrate",
+      "nitrates",
+      "saltpeter",
+      "saltpetre"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Converts to nitrite; limit cured meats",
+    "detail": "Nitrates used in cured meats and some cheeses convert partly to nitrite in the body, with the same nitrosamine concerns. Vegetables also naturally contain nitrates, and vegetable sources are not a concern. The practical advice is to limit cured processed meats during pregnancy and breastfeeding rather than worry about produce.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "World Health Organization",
+        "url": "https://www.who.int"
+      }
+    ]
+  },
+  {
+    "id": "sodium-benzoate",
+    "name": "Sodium Benzoate",
+    "category": "food",
+    "aliases": [
+      "sodium benzoate",
+      "e211",
+      "benzoic acid",
+      "e210",
+      "potassium benzoate",
+      "e212",
+      "calcium benzoate",
+      "e213",
+      "sodium-benzoate",
+      "benzoates"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Soft-drink preservative; fine occasionally",
+    "detail": "Benzoates are permitted preservatives and normal dietary exposure sits within safety limits. In soft drinks that also contain vitamin C, small amounts of benzene can form, and benzoate-color mixtures were linked to hyperactivity in children in one well-known study. Occasional intake is unlikely to matter; making benzoate-preserved soft drinks a daily habit during pregnancy or breastfeeding is worth avoiding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "sulfites",
+    "name": "Sulfites (Sulfur Dioxide)",
+    "category": "food",
+    "aliases": [
+      "sulfites",
+      "sulphites",
+      "sulfur dioxide",
+      "sulphur dioxide",
+      "e220",
+      "e221",
+      "e222",
+      "e223",
+      "e224",
+      "e225",
+      "e226",
+      "e227",
+      "e228",
+      "sodium sulfite",
+      "sodium metabisulfite",
+      "potassium metabisulfite",
+      "sodium bisulfite"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Can trigger asthma and sensitivity reactions",
+    "detail": "Sulfites preserve dried fruit, wine, and some packaged foods. They are not known to harm the fetus at permitted levels, but they can trigger wheezing and allergic-type reactions, particularly in people with asthma, which matters more when pregnant. If you have asthma or sulfite sensitivity, avoid sulfited foods; otherwise typical dietary amounts are acceptable in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "bha",
+    "name": "BHA (Butylated Hydroxyanisole)",
+    "category": "food",
+    "aliases": [
+      "bha",
+      "butylated hydroxyanisole",
+      "e320"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Antioxidant flagged as possible carcinogen",
+    "detail": "BHA is a synthetic antioxidant that keeps fats from going rancid. The WHO cancer agency lists it as possibly carcinogenic to humans based on high-dose animal studies, while food regulators still permit small amounts. Amounts in food are tiny, but because it is easy to avoid, minimizing regular intake during pregnancy and breastfeeding is a reasonable conservative choice.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "World Health Organization",
+        "url": "https://www.who.int"
+      }
+    ]
+  },
+  {
+    "id": "bht",
+    "name": "BHT (Butylated Hydroxytoluene)",
+    "category": "food",
+    "aliases": [
+      "bht",
+      "butylated hydroxytoluene",
+      "e321"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Synthetic antioxidant; minimize regular intake",
+    "detail": "BHT is a synthetic preservative related to BHA, used in cereals, snack foods, and packaging. High-dose animal studies have raised questions that regulators consider not relevant at the small permitted food levels. There is no direct evidence of harm in pregnancy, but limiting frequent intake of BHT-preserved foods is an easy precaution while pregnant or nursing.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "msg",
+    "name": "MSG (Monosodium Glutamate)",
+    "category": "food",
+    "aliases": [
+      "msg",
+      "monosodium glutamate",
+      "e621",
+      "monosodium-glutamate",
+      "glutamate",
+      "sodium glutamate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Flavor enhancer considered safe at food levels",
+    "detail": "MSG is the sodium salt of glutamate, an amino acid naturally abundant in foods like tomatoes and cheese. Regulators classify it as safe, and the placenta largely metabolizes glutamate, so normal dietary MSG does not meaningfully reach the fetus. Some people report headaches or flushing after large amounts, which is a comfort issue rather than a pregnancy risk.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "carrageenan",
+    "name": "Carrageenan",
+    "category": "food",
+    "aliases": [
+      "carrageenan",
+      "e407",
+      "carrageen",
+      "irish moss extract",
+      "processed eucheuma seaweed",
+      "e407a"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Thickener with debated gut-inflammation data",
+    "detail": "Food-grade carrageenan, a seaweed-derived thickener in plant milks and dairy products, is permitted by FDA and EFSA. Some laboratory and animal research suggests degraded forms may promote gut inflammation, and this debate is unresolved. Typical dietary amounts are unlikely to pose a pregnancy-specific risk, but people who consume many carrageenan-containing products daily may prefer alternatives.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "phosphoric-acid",
+    "name": "Phosphoric Acid",
+    "category": "food",
+    "aliases": [
+      "phosphoric acid",
+      "e338",
+      "orthophosphoric acid",
+      "phosphates",
+      "sodium phosphate",
+      "e339"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Cola acidulant; heavy intake may affect bones",
+    "detail": "Phosphoric acid gives colas their sharp taste and is safe in small amounts. Heavy, regular cola intake has been associated with lower bone mineral density, and calcium needs are higher in pregnancy and lactation. Colas also usually contain caffeine and sugar, so keeping them occasional is the practical advice at every stage.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "titanium-dioxide-e171",
+    "name": "Titanium Dioxide",
+    "category": "food",
+    "aliases": [
+      "titanium dioxide",
+      "e171",
+      "ci 77891",
+      "titanium-dioxide"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "EU no longer considers this whitener safe",
+    "detail": "Titanium dioxide is a white pigment used in candies, icings, and coated tablets. In 2021 EFSA concluded it could no longer be considered safe as a food additive because genotoxicity, damage to DNA, could not be ruled out, and the EU banned it in food; it remains permitted in the US. Given readily available alternatives, avoiding it during pregnancy and breastfeeding is the conservative choice.",
+    "sources": [
+      {
+        "name": "EFSA on Titanium Dioxide (E171)",
+        "url": "https://www.efsa.europa.eu/en/news/titanium-dioxide-e171-no-longer-considered-safe-when-used-food-additive"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "potassium-bromate",
+    "name": "Potassium Bromate",
+    "category": "food",
+    "aliases": [
+      "potassium bromate",
+      "e924",
+      "bromated flour",
+      "bromate"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Flour additive banned in much of the world",
+    "detail": "Potassium bromate is a flour improver classified as possibly carcinogenic to humans and banned in the EU, UK, Canada, and many other countries, though some US flours still use it. Properly baked bread should contain little residue, but this cannot be verified from a label. Choosing bromate-free products is an easy, sensible precaution during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "World Health Organization",
+        "url": "https://www.who.int"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "brominated-vegetable-oil",
+    "name": "Brominated Vegetable Oil (BVO)",
+    "category": "food",
+    "aliases": [
+      "brominated vegetable oil",
+      "bvo",
+      "brominated soybean oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Citrus-soda additive; US authorization revoked",
+    "detail": "BVO kept citrus flavoring suspended in some sodas. The FDA revoked its authorization in 2024 after studies showed bromine accumulates in body fat and affects the thyroid, an organ especially important for fetal brain development. Some older or imported products may still contain it, so avoid it entirely during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "polysorbate-80",
+    "name": "Polysorbate 80",
+    "category": "food",
+    "aliases": [
+      "polysorbate 80",
+      "e433",
+      "tween 80",
+      "polysorbate-80",
+      "polysorbates",
+      "polysorbate 60",
+      "e435"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Emulsifier with emerging gut-microbiome questions",
+    "detail": "Polysorbate 80 is an approved emulsifier found in ice cream, sauces, and baked goods. Animal studies suggest some emulsifiers may alter the gut microbiome and promote low-grade inflammation, though human evidence is limited and regulators still permit it. Typical intakes are unlikely to be harmful, but favoring less-processed options during pregnancy and breastfeeding is a mild, reasonable precaution.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "carboxymethylcellulose",
+    "name": "Carboxymethylcellulose (Cellulose Gum)",
+    "category": "food",
+    "aliases": [
+      "carboxymethylcellulose",
+      "cellulose gum",
+      "e466",
+      "sodium carboxymethyl cellulose",
+      "cmc",
+      "carboxymethyl cellulose"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Thickener with emerging gut-microbiome questions",
+    "detail": "Cellulose gum is a widely used thickener that is poorly absorbed. Like polysorbate 80, some animal and small human studies suggest high intakes may alter gut bacteria, and this research is ongoing; regulators continue to permit it. There is no specific evidence of pregnancy harm, so occasional intake is fine, while heavy daily consumption of highly processed foods is worth moderating.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "potassium-sorbate",
+    "name": "Potassium Sorbate",
+    "category": "food",
+    "aliases": [
+      "potassium sorbate",
+      "e202",
+      "sorbic acid",
+      "e200",
+      "calcium sorbate",
+      "e203",
+      "sorbates"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Well-studied preservative, metabolized like fat",
+    "detail": "Sorbates are among the best-tolerated preservatives; the body breaks them down like ordinary fatty acids. Long-term studies have not shown reproductive or developmental harm at food levels. No special precautions are needed during pregnancy or breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "calcium-propionate",
+    "name": "Calcium Propionate",
+    "category": "food",
+    "aliases": [
+      "calcium propionate",
+      "e282",
+      "propionic acid",
+      "e280",
+      "sodium propionate",
+      "e281",
+      "propionates"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Bread mold inhibitor with a long safety record",
+    "detail": "Calcium propionate prevents mold in bread and baked goods and is metabolized like naturally occurring short-chain fatty acids. Decades of use and safety reviews have not identified reproductive concerns at food levels. It is considered safe throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "tartrazine",
+    "name": "Tartrazine (Yellow 5)",
+    "category": "food",
+    "aliases": [
+      "tartrazine",
+      "e102",
+      "yellow 5",
+      "fd&c yellow no. 5",
+      "yellow no 5",
+      "ci 19140"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Azo dye linked to hyperactivity in children",
+    "detail": "Tartrazine is an azo food dye included in the mixture linked to hyperactivity in children in the Southampton study; the EU requires a warning label on foods containing it. It can also trigger hives in a small number of sensitive people. There is no direct evidence of fetal harm at permitted levels, but it adds no nutrition and is easy to avoid during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "sunset-yellow",
+    "name": "Sunset Yellow (Yellow 6)",
+    "category": "food",
+    "aliases": [
+      "sunset yellow",
+      "sunset yellow fcf",
+      "e110",
+      "yellow 6",
+      "fd&c yellow no. 6",
+      "ci 15985"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Azo dye; EU requires a hyperactivity warning",
+    "detail": "Sunset Yellow is an azo dye that was part of the color mixtures associated with hyperactivity in children, and EU products containing it carry a warning label. Permitted levels are considered safe by regulators, and no specific fetal harm has been shown. As a purely cosmetic additive, minimizing it is a simple precaution in pregnancy and while nursing.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "carmoisine",
+    "name": "Carmoisine (Azorubine)",
+    "category": "food",
+    "aliases": [
+      "carmoisine",
+      "azorubine",
+      "e122",
+      "ci 14720"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Azo dye not permitted in the US; minimize",
+    "detail": "Carmoisine is a red azo dye permitted in the EU with a hyperactivity warning label but not approved for food use in the United States. It has no nutritional value and was among the dyes studied for behavioral effects in children. Avoiding products colored with it is an easy conservative choice during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "ponceau-4r",
+    "name": "Ponceau 4R",
+    "category": "food",
+    "aliases": [
+      "ponceau 4r",
+      "e124",
+      "cochineal red a",
+      "ci 16255",
+      "new coccine"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Azo dye not permitted in the US; minimize",
+    "detail": "Ponceau 4R is a red azo dye linked with the Southampton hyperactivity findings and carries an EU warning label; it is not approved in the United States. Regulators consider permitted levels safe for the general population, and no specific pregnancy harm is documented. Because it is purely cosmetic, limiting it while pregnant or nursing costs nothing.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "allura-red",
+    "name": "Allura Red (Red 40)",
+    "category": "food",
+    "aliases": [
+      "allura red",
+      "allura red ac",
+      "e129",
+      "red 40",
+      "fd&c red no. 40",
+      "ci 16035"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Common azo dye; behavioral-effects debate",
+    "detail": "Allura Red is the most widely used red dye in the US and is included in the group of colors debated for effects on childrens behavior; the EU requires a warning label. Reproductive studies at permitted levels have not shown fetal harm. It is safe by regulatory standards but easy to skip, which is the cautious path in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "brilliant-blue",
+    "name": "Brilliant Blue (Blue 1)",
+    "category": "food",
+    "aliases": [
+      "brilliant blue",
+      "brilliant blue fcf",
+      "e133",
+      "blue 1",
+      "fd&c blue no. 1",
+      "ci 42090"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Poorly absorbed dye with no pregnancy signal",
+    "detail": "Brilliant Blue is very poorly absorbed from the gut and was not among the dyes linked to hyperactivity in the Southampton research. FDA and EFSA reviews have not identified reproductive or developmental concerns at food levels. Normal dietary exposure is considered safe in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "caramel-color-e150d",
+    "name": "Caramel Color (Class IV)",
+    "category": "food",
+    "aliases": [
+      "caramel color",
+      "caramel colour",
+      "e150d",
+      "e150c",
+      "sulfite ammonia caramel",
+      "sulphite ammonia caramel",
+      "ammonia caramel",
+      "class iv caramel",
+      "caramel iv"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Cola coloring with trace 4-MEI byproduct",
+    "detail": "Class III and IV caramel colors, used mainly in colas and dark sodas, can contain traces of 4-methylimidazole (4-MEI), a substance that caused cancer in high-dose animal studies. Regulators judge typical exposure to be low risk, and plain caramel (E150a) does not carry this concern. Keeping dark soft drinks occasional during pregnancy and breastfeeding also limits their caffeine and sugar.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "beta-carotene",
+    "name": "Beta-Carotene",
+    "category": "food",
+    "aliases": [
+      "beta-carotene",
+      "beta carotene",
+      "e160a",
+      "carotenes",
+      "mixed carotenes",
+      "provitamin a"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Plant vitamin A source without retinol risks",
+    "detail": "Beta-carotene is a plant pigment the body converts to vitamin A only as needed, so it does not carry the birth-defect risk of high-dose preformed retinol. As a food color and nutrient it is considered safe at all stages of pregnancy and while breastfeeding. Very high supplement doses are discouraged in smokers, but food levels are not a concern.",
+    "sources": [
+      {
+        "name": "NHS Vitamins and Supplements in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/vitamins-supplements-and-nutrition/"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "annatto",
+    "name": "Annatto",
+    "category": "food",
+    "aliases": [
+      "annatto",
+      "e160b",
+      "annatto extract",
+      "bixin",
+      "norbixin",
+      "achiote"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Natural cheese coloring; rare allergy only",
+    "detail": "Annatto is a natural orange color from achiote seeds, common in cheeses and snack foods. Safety reviews have not found reproductive concerns at food levels, and it is considered safe in pregnancy and breastfeeding. A small number of people have allergic reactions to it, which is unrelated to pregnancy.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "carmine",
+    "name": "Carmine (Cochineal)",
+    "category": "food",
+    "aliases": [
+      "carmine",
+      "cochineal",
+      "carminic acid",
+      "e120",
+      "cochineal extract",
+      "crimson lake",
+      "natural red 4"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Insect-derived red color; safe, rare allergy",
+    "detail": "Carmine is a natural red pigment derived from cochineal insects, used in yogurts, drinks, and candies. It has no known reproductive toxicity at food levels and is considered safe during pregnancy and breastfeeding. Rare allergic reactions, including in people with certain insect allergies, are the main documented issue.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "tuna",
+    "name": "Tuna",
+    "category": "food",
+    "aliases": [
+      "tuna",
+      "canned tuna",
+      "tuna fish",
+      "skipjack tuna",
+      "light tuna",
+      "albacore tuna",
+      "white tuna",
+      "yellowfin tuna",
+      "bigeye tuna",
+      "tuna flakes"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Mercury varies by species; limit servings",
+    "detail": "Tuna contains mercury, which can affect the developing brain, and levels vary widely by species. Canned light or skipjack tuna is a best choice at 2-3 servings per week, while albacore, white, and yellowfin should be limited to about one serving per week; bigeye tuna should be avoided. The same limits apply while breastfeeding because mercury passes into milk, and fish is otherwise a valuable source of protein and omega-3s.",
+    "sources": [
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      }
+    ]
+  },
+  {
+    "id": "swordfish",
+    "name": "Swordfish",
+    "category": "food",
+    "aliases": [
+      "swordfish",
+      "espada",
+      "emperador"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "High-mercury fish; avoid pregnant/nursing",
+    "detail": "Swordfish is one of the highest-mercury fish and is on the FDA list of choices to avoid for people who are pregnant or breastfeeding. Mercury accumulates and can harm the developing brain and nervous system in any trimester and through breast milk. Choose low-mercury fish such as salmon or sardines instead.",
+    "sources": [
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "king-mackerel",
+    "name": "King Mackerel",
+    "category": "food",
+    "aliases": [
+      "king mackerel",
+      "kingfish",
+      "king mackerel fillet"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "High-mercury fish on the FDA avoid list",
+    "detail": "King mackerel is a large predatory fish with high mercury levels and is on the FDA list of fish to avoid during pregnancy and breastfeeding. Smaller mackerel species such as Atlantic mackerel are low in mercury and are good alternatives. The concern applies at all stages because mercury harms the developing nervous system.",
+    "sources": [
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      }
+    ]
+  },
+  {
+    "id": "shark",
+    "name": "Shark",
+    "category": "food",
+    "aliases": [
+      "shark",
+      "flake",
+      "shark meat",
+      "dogfish"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Very high mercury; avoid at all stages",
+    "detail": "Shark (sometimes sold as flake) accumulates very high mercury levels and is listed by the FDA and NHS among fish to avoid entirely in pregnancy; the FDA avoid list also applies to breastfeeding. Mercury exposure can impair fetal and infant brain development. Other high-mercury fish to skip include marlin, tilefish from the Gulf of Mexico, and orange roughy.",
+    "sources": [
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "salmon",
+    "name": "Salmon (Cooked)",
+    "category": "food",
+    "aliases": [
+      "salmon",
+      "atlantic salmon",
+      "wild salmon",
+      "canned salmon",
+      "salmon fillet",
+      "pink salmon",
+      "sockeye salmon"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Low-mercury fish; 2-3 servings a week encouraged",
+    "detail": "Salmon is low in mercury and rich in DHA omega-3 fats that support fetal and infant brain development, so 2-3 servings per week are actively encouraged in pregnancy and breastfeeding. Cook it fully; raw or cold-smoked salmon carries separate infection risks covered under those entries. Canned salmon is an easy, safe option.",
+    "sources": [
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "sardines",
+    "name": "Sardines",
+    "category": "food",
+    "aliases": [
+      "sardines",
+      "sardine",
+      "canned sardines",
+      "pilchards",
+      "brisling"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Low-mercury oily fish, rich in omega-3 and calcium",
+    "detail": "Sardines are small, short-lived fish that accumulate very little mercury and are an FDA best choice during pregnancy and breastfeeding. They provide DHA for brain development plus calcium and vitamin D when eaten with bones. Canned sardines are cooked and safe as packaged.",
+    "sources": [
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      }
+    ]
+  },
+  {
+    "id": "cold-smoked-salmon",
+    "name": "Cold-Smoked Salmon (Lox)",
+    "category": "food",
+    "aliases": [
+      "smoked salmon",
+      "cold-smoked salmon",
+      "cold smoked salmon",
+      "lox",
+      "gravlax",
+      "gravadlax",
+      "smoked trout",
+      "nova lox"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Listeria risk in pregnancy unless cooked hot",
+    "detail": "Cold-smoked fish is not cooked and can carry listeria, which in pregnancy can cause miscarriage, stillbirth, or severe newborn infection even when the mother has mild symptoms; UK guidance now advises avoiding it in pregnancy. It becomes safe when cooked until steaming hot, for example in a fully baked dish. While breastfeeding the fetus is no longer at risk, but normal food-safety care still applies.",
+    "sources": [
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "raw-milk",
+    "name": "Raw (Unpasteurized) Milk",
+    "category": "food",
+    "aliases": [
+      "raw milk",
+      "unpasteurized milk",
+      "unpasteurised milk",
+      "raw cream",
+      "raw goat milk",
+      "raw sheep milk"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Listeria and E. coli risk; choose pasteurized",
+    "detail": "Unpasteurized milk can carry listeria, E. coli, salmonella, and campylobacter. Listeriosis in pregnancy is far more dangerous than in the general population and can cause miscarriage, stillbirth, or newborn infection in any trimester. Pasteurized milk has the same nutrition without the risk; while breastfeeding, raw milk mainly risks making the mother ill.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "unpasteurized-soft-cheese",
+    "name": "Unpasteurized / Soft-Ripened Cheese",
+    "category": "food",
+    "aliases": [
+      "unpasteurized cheese",
+      "unpasteurised cheese",
+      "raw milk cheese",
+      "soft ripened cheese",
+      "mould-ripened cheese",
+      "brie",
+      "camembert",
+      "queso fresco",
+      "blue cheese",
+      "gorgonzola",
+      "chevre"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Soft and raw-milk cheeses carry listeria risk",
+    "detail": "Soft mold-ripened cheeses (brie, camembert), soft blue cheeses, and any cheese made from unpasteurized milk carry a listeria risk and are advised against throughout pregnancy. Hard cheeses and pasteurized processed cheeses such as cheddar, mozzarella, halloumi, and cream cheese are fine, and risky cheeses become safe when cooked until steaming hot. After delivery the listeria danger to the baby largely resolves, though standard food safety still applies while nursing.",
+    "sources": [
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "pasteurized-milk",
+    "name": "Pasteurized Milk",
+    "category": "food",
+    "aliases": [
+      "milk",
+      "pasteurized milk",
+      "pasteurised milk",
+      "whole milk",
+      "skim milk",
+      "semi-skimmed milk",
+      "milk powder",
+      "skimmed milk powder",
+      "uht milk"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Safe, valuable calcium and protein source",
+    "detail": "Pasteurized milk is safe and beneficial throughout pregnancy and breastfeeding, providing calcium, protein, iodine, and vitamin B12. Pasteurization kills the bacteria that make raw milk risky. It is a core food for meeting increased calcium needs at every stage.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "raw-egg",
+    "name": "Raw or Undercooked Egg",
+    "category": "food",
+    "aliases": [
+      "raw egg",
+      "raw eggs",
+      "unpasteurized egg",
+      "raw egg white",
+      "raw egg yolk",
+      "homemade mayonnaise",
+      "raw cookie dough",
+      "aioli with raw egg"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Salmonella risk; cook eggs or use pasteurized",
+    "detail": "Raw or runny eggs can carry salmonella, and food poisoning in pregnancy can cause dehydration and, rarely, complications; it is unpleasant at any stage. Products made with pasteurized egg, including commercial mayonnaise, are fine, and in the UK, Lion-mark eggs are considered lower risk though cooking remains the conservative choice. While breastfeeding, salmonella mainly threatens the mother rather than passing through milk.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "eggs-cooked",
+    "name": "Eggs (Cooked or Pasteurized)",
+    "category": "food",
+    "aliases": [
+      "egg",
+      "eggs",
+      "whole egg",
+      "egg white",
+      "egg yolk",
+      "dried egg",
+      "egg powder",
+      "pasteurized egg",
+      "liquid egg"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Excellent protein and choline when fully cooked",
+    "detail": "Fully cooked eggs and pasteurized egg ingredients are safe and nutritious throughout pregnancy and breastfeeding, supplying protein, choline, and vitamin D that support fetal brain development. Cook until whites and yolks are firm to remove salmonella risk. Egg ingredients in baked goods are cooked and pose no concern.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "unpasteurized-juice",
+    "name": "Unpasteurized Juice / Cider",
+    "category": "food",
+    "aliases": [
+      "unpasteurized juice",
+      "unpasteurised juice",
+      "raw juice",
+      "fresh-pressed juice",
+      "cold-pressed juice",
+      "unpasteurized apple cider",
+      "raw cider"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Can carry E. coli and listeria; pick pasteurized",
+    "detail": "Juices that have not been pasteurized or otherwise treated can carry E. coli, salmonella, and listeria, and the FDA advises pregnant people to avoid them at all stages. Nearly all shelf-stable and most refrigerated juices are pasteurized; unpasteurized products must carry a warning label in the US. While breastfeeding the main risk is maternal illness rather than harm through milk.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "raw-sprouts",
+    "name": "Raw Sprouts",
+    "category": "food",
+    "aliases": [
+      "raw sprouts",
+      "sprouts",
+      "alfalfa sprouts",
+      "bean sprouts",
+      "mung bean sprouts",
+      "clover sprouts",
+      "radish sprouts",
+      "sprouted seeds"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Bacteria grow inside the seed; cook them first",
+    "detail": "Raw sprouts, including alfalfa, clover, radish, and mung bean, have caused repeated salmonella and E. coli outbreaks because bacteria can live inside the seed where washing cannot reach. Health authorities advise pregnant people to avoid raw sprouts in all trimesters; thoroughly cooked sprouts are fine. After delivery the risk is ordinary food poisoning for the mother.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "kombucha",
+    "name": "Kombucha",
+    "category": "food",
+    "aliases": [
+      "kombucha",
+      "kombucha tea",
+      "raw kombucha",
+      "unpasteurized fermented tea",
+      "scoby"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Unpasteurized, plus trace alcohol and caffeine",
+    "detail": "Most kombucha is unpasteurized, so it carries the same live-microbe risk as other raw ferments, and it also contains trace alcohol (sometimes above the labeled amount) and caffeine. Because pregnancy advice is to avoid both unpasteurized products and alcohol, skipping kombucha in all trimesters is the conservative choice. While breastfeeding, small amounts of pasteurized kombucha are likely low risk, but home-brewed versions are harder to vouch for.",
+    "sources": [
+      {
+        "name": "Mayo Clinic Pregnancy Week by Week",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "liver",
+    "name": "Liver and Liver Products",
+    "category": "food",
+    "aliases": [
+      "liver",
+      "liver pate",
+      "pate",
+      "chicken liver",
+      "beef liver",
+      "liver sausage",
+      "liverwurst",
+      "cod liver oil",
+      "foie gras"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "safe"
+    },
+    "summary": "Very high vitamin A can cause birth defects",
+    "detail": "Liver and liver products such as pate contain very high levels of preformed vitamin A (retinol), and excess retinol can cause birth defects, with the first trimester most sensitive; NHS advice is to avoid liver products throughout pregnancy. Pate of any kind also carries a listeria risk. After delivery liver is a nutritious food again, and normal servings are fine while breastfeeding.",
+    "sources": [
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "category": "food",
+    "aliases": [
+      "honey",
+      "raw honey",
+      "manuka honey",
+      "honey powder"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Safe for mom; never feed directly to babies",
+    "detail": "Honey is safe for pregnant and breastfeeding women; adult digestive systems handle the botulism spores that make honey dangerous for infants. The warning applies only to feeding honey directly to babies under 12 months, and botulism is not transmitted through breast milk. Treat honey as an added sugar and enjoy it in moderation.",
+    "sources": [
+      {
+        "name": "Mayo Clinic Pregnancy Week by Week",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "licorice-root",
+    "name": "Licorice Root (Glycyrrhizin)",
+    "category": "food",
+    "aliases": [
+      "licorice",
+      "liquorice",
+      "licorice root",
+      "liquorice root",
+      "glycyrrhizin",
+      "glycyrrhizic acid",
+      "glycyrrhiza glabra",
+      "licorice extract",
+      "e958"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Glycyrrhizin linked to preterm birth, worse late",
+    "detail": "Real licorice contains glycyrrhizin, which can raise blood pressure and, in a well-known Finnish study, was linked to earlier delivery and effects on child cognition and stress hormones when eaten heavily in pregnancy. Concern grows in later pregnancy, so high intake should be avoided, especially in the third trimester. Most US candy uses anise flavoring rather than real licorice; while breastfeeding, occasional small amounts are likely fine but large daily intakes are discouraged.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "guarana",
+    "name": "Guarana",
+    "category": "food",
+    "aliases": [
+      "guarana",
+      "guarana extract",
+      "paullinia cupana",
+      "guarana seed extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Concentrated caffeine source in energy drinks",
+    "detail": "Guarana is a plant with very high natural caffeine content and is common in energy drinks and some supplements. Its caffeine counts toward the roughly 200 mg daily pregnancy limit, but labels rarely quantify how much guarana contributes, making total intake hard to track. Because energy drinks often stack guarana with added caffeine and other stimulants, they are best avoided in pregnancy and limited while breastfeeding.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "taurine",
+    "name": "Taurine",
+    "category": "food",
+    "aliases": [
+      "taurine",
+      "l-taurine"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Energy-drink additive; the drinks are the concern",
+    "detail": "Taurine is an amino acid found naturally in the body and in food, and moderate dietary amounts are not considered harmful. The caution is that it is concentrated in energy drinks alongside high caffeine and other stimulants, and the safety of large added doses in pregnancy has not been established. Avoiding energy drinks rather than dietary taurine is the practical advice in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "ginseng",
+    "name": "Ginseng",
+    "category": "food",
+    "aliases": [
+      "ginseng",
+      "panax ginseng",
+      "korean ginseng",
+      "asian ginseng",
+      "american ginseng",
+      "ginseng extract"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Herbal stimulant; animal data raise concern",
+    "detail": "Ginseng is a stimulant herb in some teas, tonics, and energy products. A compound in ginseng caused malformations in some animal studies, and human safety data in pregnancy are inadequate, so it is generally advised against, particularly in the first trimester. It may also interact with blood-sugar and blood-thinning medicines. Given limited breastfeeding data, avoiding ginseng products is the cautious choice at all stages.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "ginkgo-biloba",
+    "name": "Ginkgo Biloba",
+    "category": "food",
+    "aliases": [
+      "ginkgo",
+      "ginkgo biloba",
+      "ginkgo extract",
+      "ginkgo leaf"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Blood-thinning herb; avoid in pregnancy/nursing",
+    "detail": "Ginkgo is sold for memory and circulation and appears in some functional drinks. It can thin the blood and increase bleeding risk, a particular concern around delivery, and it lacks safety data in pregnancy and breastfeeding. Some products may also contain a natural toxin. Avoiding ginkgo at all stages is the recommended conservative approach.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "chamomile",
+    "name": "Chamomile",
+    "category": "food",
+    "aliases": [
+      "chamomile",
+      "camomile",
+      "chamomile tea",
+      "matricaria",
+      "german chamomile",
+      "roman chamomile",
+      "chamomile extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Popular tea with limited pregnancy safety data",
+    "detail": "Chamomile tea is widely used for relaxation, and occasional cups are generally considered low risk. However, safety data in pregnancy are limited, some sources raise theoretical concerns about uterine effects with large amounts, and it may interact with blood thinners. Keeping intake occasional rather than habitual is prudent in pregnancy, and moderate use is generally regarded as compatible with breastfeeding.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "hibiscus",
+    "name": "Hibiscus",
+    "category": "food",
+    "aliases": [
+      "hibiscus",
+      "hibiscus tea",
+      "roselle",
+      "hibiscus extract",
+      "hibiscus sabdariffa",
+      "sorrel drink"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "May affect hormones; limit in pregnancy",
+    "detail": "Hibiscus tea is tart and popular but has limited pregnancy safety data, and animal studies suggest possible hormonal and uterine effects; it may also lower blood pressure. Because of these uncertainties, avoiding it in the first trimester and limiting it later is a cautious approach. Small culinary amounts as flavoring are less concerning, and moderate intake while breastfeeding is likely low risk.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "black-cohosh",
+    "name": "Black Cohosh",
+    "category": "food",
+    "aliases": [
+      "black cohosh",
+      "cimicifuga racemosa",
+      "actaea racemosa",
+      "black cohosh extract"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Can stimulate the uterus; avoid entirely",
+    "detail": "Black cohosh is an herb sometimes used for menopausal symptoms or to try to induce labor. It can act on hormones and stimulate uterine contractions, has been associated with rare liver injury, and lacks safety data in pregnancy and breastfeeding. It should be avoided throughout pregnancy and while nursing unless a clinician specifically directs otherwise.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "dong-quai",
+    "name": "Dong Quai",
+    "category": "food",
+    "aliases": [
+      "dong quai",
+      "angelica sinensis",
+      "dang gui",
+      "chinese angelica",
+      "tang kuei"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Traditional herb with uterine and bleeding risks",
+    "detail": "Dong quai is a traditional Chinese herb found in some tonics and teas. It is reported to have uterine-stimulating and blood-thinning effects and lacks reliable safety data in pregnancy, so it is advised against throughout. It may also increase sensitivity to sunlight and interact with anticoagulants. Avoid it during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "pennyroyal",
+    "name": "Pennyroyal",
+    "category": "food",
+    "aliases": [
+      "pennyroyal",
+      "pennyroyal tea",
+      "mentha pulegium",
+      "hedeoma pulegioides",
+      "pennyroyal oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Toxic herb; can cause miscarriage and liver harm",
+    "detail": "Pennyroyal is a herb historically misused to try to end pregnancy and is genuinely dangerous. Its oil is toxic to the liver and can be fatal to the mother, and it can cause miscarriage. It must be avoided completely during pregnancy and breastfeeding; there is no safe culinary or tea use.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "raspberry-leaf",
+    "name": "Raspberry Leaf",
+    "category": "food",
+    "aliases": [
+      "raspberry leaf",
+      "red raspberry leaf",
+      "raspberry leaf tea",
+      "rubus idaeus leaf"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "May affect the uterus; avoid early pregnancy",
+    "detail": "Red raspberry leaf tea is traditionally taken in late pregnancy to prepare for labor, but it may cause uterine contractions, so it is generally advised against in the first trimester. Evidence for benefit is weak and safety data are limited, so if used at all it is typically only in later pregnancy and with a clinicians awareness. Occasional use while breastfeeding is generally considered low risk.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "peppermint",
+    "name": "Peppermint",
+    "category": "food",
+    "aliases": [
+      "peppermint",
+      "peppermint tea",
+      "mentha piperita",
+      "peppermint oil",
+      "peppermint extract",
+      "menthol flavor"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "caution"
+    },
+    "summary": "Fine in pregnancy; large amounts may cut milk",
+    "detail": "Peppermint tea and culinary peppermint are generally considered safe in pregnancy and can ease nausea, though concentrated peppermint oil supplements are a different matter. While breastfeeding, large or frequent amounts of peppermint (and its relative spearmint) are anecdotally linked to reduced milk supply in some women, so mothers with supply concerns may want to limit strong peppermint products. Occasional cups of tea are not a problem.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger",
+    "category": "food",
+    "aliases": [
+      "ginger",
+      "ground ginger",
+      "ginger root",
+      "ginger extract",
+      "zingiber officinale",
+      "ginger tea",
+      "crystallized ginger"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Helpful for nausea in normal food amounts",
+    "detail": "Ginger is one of the better-studied remedies for pregnancy nausea and is considered safe in culinary and moderate tea amounts at all stages. Very high supplement doses are less well studied, so food and normal tea use is the sensible range. It is also considered compatible with breastfeeding.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "fennel",
+    "name": "Fennel",
+    "category": "food",
+    "aliases": [
+      "fennel",
+      "fennel seed",
+      "fennel tea",
+      "foeniculum vulgare",
+      "fennel extract",
+      "fennel oil"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Culinary use fine; avoid concentrated extracts",
+    "detail": "Fennel as a vegetable or spice is fine in pregnancy, but concentrated fennel tea, extracts, and essential oil contain estragole and have possible hormonal effects, so medicinal amounts are best avoided. During breastfeeding, fennel is a traditional galactagogue, though evidence is mixed and very high intakes are discouraged. Enjoy fennel as food while being cautious with concentrated supplements.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "sage",
+    "name": "Sage",
+    "category": "food",
+    "aliases": [
+      "sage",
+      "sage tea",
+      "salvia officinalis",
+      "sage extract",
+      "sage oil",
+      "dried sage"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Cooking amounts fine; strong sage cuts milk",
+    "detail": "Sage used to season food is safe, but concentrated sage tea, extracts, and oil contain thujone and large amounts are traditionally discouraged in pregnancy. While breastfeeding, sage is well known for reducing milk supply and is sometimes used deliberately during weaning, so mothers maintaining supply should avoid strong sage preparations. Normal culinary seasoning is not a concern.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "parsley",
+    "name": "Parsley (Concentrated)",
+    "category": "food",
+    "aliases": [
+      "parsley",
+      "parsley extract",
+      "parsley oil",
+      "petroselinum crispum",
+      "parsley juice"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Garnish fine; large medicinal amounts risky",
+    "detail": "Parsley as a garnish or normal cooking ingredient is safe, but very large medicinal doses, concentrated extracts, or parsley oil contain compounds (apiol, myristicin) that in high amounts have been linked to uterine stimulation. Practically, this means avoiding parsley supplements and juices in pregnancy rather than food-level use. Culinary parsley is fine while breastfeeding.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "nutmeg",
+    "name": "Nutmeg (Large Amounts)",
+    "category": "food",
+    "aliases": [
+      "nutmeg",
+      "ground nutmeg",
+      "myristica fragrans",
+      "mace spice",
+      "nutmeg extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Baking pinch fine; large doses are psychoactive",
+    "detail": "Nutmeg used as a baking spice in normal recipes is safe. Large amounts contain myristicin, which can be psychoactive and cause a racing heart, and such doses are discouraged in pregnancy. There is no need to avoid the pinch used in recipes; the caution applies to deliberately consuming large quantities. The same reasoning applies while breastfeeding.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "quinine-tonic",
+    "name": "Quinine (Tonic Water)",
+    "category": "food",
+    "aliases": [
+      "quinine",
+      "tonic water",
+      "indian tonic water",
+      "bitter lemon",
+      "quinine hydrochloride"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Small tonic amounts likely fine; limit intake",
+    "detail": "Quinine gives tonic water its bitter taste at levels far below medicinal doses. Occasional tonic water is generally considered low risk, but some people are sensitive to quinine and high medicinal doses have been associated with problems, so keeping intake modest is prudent in pregnancy. Only small amounts pass into breast milk, so moderate tonic use is compatible with breastfeeding.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "green-tea",
+    "name": "Green Tea",
+    "category": "food",
+    "aliases": [
+      "green tea",
+      "matcha",
+      "green tea extract",
+      "camellia sinensis",
+      "egcg"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Caffeine plus folate-absorption concern",
+    "detail": "Green tea contains caffeine that counts toward the daily limit, and matcha is more concentrated. Compounds in green tea may also interfere with folate absorption, which matters most early in pregnancy when folate protects against neural tube defects, so heavy intake is discouraged. Concentrated green tea extract supplements are a separate concern and best avoided. Moderate tea drinking is generally acceptable while breastfeeding within caffeine limits.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "yerba-mate",
+    "name": "Yerba Mate",
+    "category": "food",
+    "aliases": [
+      "yerba mate",
+      "mate",
+      "ilex paraguariensis",
+      "mate tea",
+      "yerba mate extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Caffeinated; heavy hot intake linked to cancer",
+    "detail": "Yerba mate is a caffeinated South American tea whose caffeine counts toward the pregnancy limit. Very hot and heavy long-term mate drinking has been associated with certain cancers, though this reflects extreme habitual use. Keeping intake moderate and within overall caffeine limits is the sensible approach in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "World Health Organization",
+        "url": "https://www.who.int"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "rooibos-tea",
+    "name": "Rooibos Tea",
+    "category": "food",
+    "aliases": [
+      "rooibos",
+      "rooibos tea",
+      "red bush tea",
+      "aspalathus linearis"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Caffeine-free herbal tea, generally safe",
+    "detail": "Rooibos is a naturally caffeine-free herbal tea that is widely regarded as safe in pregnancy and breastfeeding when drunk in normal amounts. It contains antioxidants and no known problematic compounds at tea-strength. As with any herbal product, keep to ordinary beverage quantities rather than concentrated extracts.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "aloe-vera-latex",
+    "name": "Aloe Vera (Whole Leaf / Latex)",
+    "category": "food",
+    "aliases": [
+      "aloe vera",
+      "aloe latex",
+      "aloe juice",
+      "whole leaf aloe",
+      "aloe barbadensis",
+      "aloe extract"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Oral aloe latex is a laxative; avoid ingesting",
+    "detail": "Aloe latex and whole-leaf aloe taken by mouth act as a strong laxative and can stimulate the uterus, so ingesting aloe drinks and supplements is advised against in pregnancy. Purified decolorized aloe gel in some drinks is lower risk, but products are often not clearly labeled. While breastfeeding, aloe latex can pass into milk and may upset the infants stomach, so oral aloe is best avoided; topical skin use is a separate, low-concern matter.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "cinnamon",
+    "name": "Cinnamon (Large Amounts)",
+    "category": "food",
+    "aliases": [
+      "cinnamon",
+      "ground cinnamon",
+      "cassia cinnamon",
+      "cinnamon extract",
+      "cinnamon oil",
+      "cinnamaldehyde"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Baking amounts fine; avoid supplement doses",
+    "detail": "Cinnamon used as a spice in food is safe throughout pregnancy. Concentrated cinnamon supplements and cinnamon oil are a different matter, and large medicinal doses are not recommended; cassia cinnamon also contains coumarin, which is best limited in high amounts. There is no need to avoid cinnamon in cooking or baking. Culinary use is fine while breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric (Curcumin Supplements)",
+    "category": "food",
+    "aliases": [
+      "turmeric",
+      "curcumin",
+      "e100",
+      "curcuma longa",
+      "turmeric extract",
+      "curcumin supplement"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Spice amounts safe; supplements less studied",
+    "detail": "Turmeric used as a cooking spice or food color (E100) is considered safe in pregnancy and breastfeeding. High-dose curcumin supplements are far more concentrated than food, have possible hormonal effects, and are not well studied in pregnancy, so supplement-level intake is best avoided. Enjoy turmeric in food while skipping concentrated capsules unless a clinician advises otherwise.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "folic-acid",
+    "name": "Folic Acid (Folate)",
+    "category": "food",
+    "aliases": [
+      "folic acid",
+      "folate",
+      "vitamin b9",
+      "folacin",
+      "pteroylglutamic acid",
+      "methylfolate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Recommended; prevents neural tube defects",
+    "detail": "Folic acid is actively recommended before and during pregnancy because it sharply reduces the risk of neural tube defects like spina bifida, with the first trimester most critical. A daily 400 microgram supplement is standard, and fortified foods add more. It is safe and beneficial at all stages, including breastfeeding.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "NHS Vitamins and Supplements in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/vitamins-supplements-and-nutrition/"
+      }
+    ]
+  },
+  {
+    "id": "iron",
+    "name": "Iron",
+    "category": "food",
+    "aliases": [
+      "iron",
+      "ferrous sulfate",
+      "ferrous fumarate",
+      "ferric iron",
+      "iron fortification",
+      "reduced iron",
+      "electrolytic iron",
+      "ferrous gluconate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Needed for increased pregnancy blood volume",
+    "detail": "Iron needs rise in pregnancy to support increased blood volume and the baby, and fortified foods and supplements help prevent anemia. It is safe and often recommended at all stages, though supplements can cause constipation. Very high one-time overdoses are dangerous, so keep supplements away from children, but dietary and fortified-food iron is beneficial in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "vitamin-d",
+    "name": "Vitamin D",
+    "category": "food",
+    "aliases": [
+      "vitamin d",
+      "vitamin d3",
+      "cholecalciferol",
+      "ergocalciferol",
+      "vitamin d2",
+      "calciferol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Recommended supplement; supports bones",
+    "detail": "Vitamin D supports calcium absorption and bone health for both mother and baby, and a daily 10 microgram (400 IU) supplement is recommended throughout pregnancy and breastfeeding in guidance such as the NHS. Fortified foods are a common source. It is safe at recommended doses; only extreme megadoses are a concern.",
+    "sources": [
+      {
+        "name": "NHS Vitamins and Supplements in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/vitamins-supplements-and-nutrition/"
+      }
+    ]
+  },
+  {
+    "id": "vitamin-c-food",
+    "name": "Vitamin C (Ascorbic Acid)",
+    "category": "food",
+    "aliases": [
+      "vitamin c",
+      "ascorbic acid",
+      "e300",
+      "l-ascorbic acid",
+      "sodium ascorbate",
+      "e301",
+      "ascorbate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Safe nutrient and common antioxidant additive",
+    "detail": "Vitamin C is essential, supports iron absorption, and is also used as the food antioxidant E300 to prevent browning and preserve freshness. Dietary and fortified amounts are safe and beneficial in pregnancy and breastfeeding. Only very high supplement megadoses are discouraged; food and additive levels are not a concern.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "vitamin-a-retinol",
+    "name": "Vitamin A (Retinol / Retinyl)",
+    "category": "food",
+    "aliases": [
+      "vitamin a",
+      "retinol",
+      "retinyl palmitate",
+      "retinyl acetate",
+      "preformed vitamin a",
+      "vitamin a palmitate"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "High preformed vitamin A can cause birth defects",
+    "detail": "Preformed vitamin A (retinol and retinyl esters), as opposed to plant beta-carotene, can cause birth defects at high doses, with the first trimester most sensitive; supplements high in retinol and vitamin-A-fortified products in large amounts should be avoided. Small amounts in a balanced diet and prenatal vitamins formulated for pregnancy are fine. Vitamin A needs are actually higher during breastfeeding, so normal intake is beneficial then.",
+    "sources": [
+      {
+        "name": "NHS Vitamins and Supplements in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/vitamins-supplements-and-nutrition/"
+      },
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "calcium-carbonate",
+    "name": "Calcium Carbonate",
+    "category": "food",
+    "aliases": [
+      "calcium carbonate",
+      "e170",
+      "calcium",
+      "chalk",
+      "calcium fortification",
+      "calcium citrate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Calcium source and antacid; safe and useful",
+    "detail": "Calcium carbonate is used to fortify foods, as the additive E170, and as an antacid for heartburn, which is common in pregnancy. Calcium needs are high in pregnancy and lactation, so it is both safe and helpful. Keep total calcium within recommended limits, but ordinary food, fortification, and occasional antacid use are fine at all stages.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "iodine",
+    "name": "Iodine",
+    "category": "food",
+    "aliases": [
+      "iodine",
+      "potassium iodide",
+      "iodized salt",
+      "iodised salt",
+      "potassium iodate",
+      "iodine fortification"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Essential for fetal brain and thyroid",
+    "detail": "Iodine is essential for thyroid hormones that drive fetal brain development, and needs increase in pregnancy and breastfeeding. Iodized salt, dairy, and seafood are key sources, and mild deficiency is common. Recommended amounts are safe and important; only very high excess intakes, such as from certain seaweed supplements, should be avoided.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "yogurt-cultures",
+    "name": "Yogurt Cultures / Probiotics",
+    "category": "food",
+    "aliases": [
+      "yogurt",
+      "yoghurt",
+      "live cultures",
+      "probiotics",
+      "lactobacillus",
+      "bifidobacterium",
+      "yogurt cultures",
+      "acidophilus",
+      "kefir cultures"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Live yogurt cultures are safe and beneficial",
+    "detail": "The live bacterial cultures in yogurt and many probiotic foods are considered safe in pregnancy and breastfeeding and provide calcium and protein when made from pasteurized milk. Pasteurized yogurt is safe even though it contains live cultures, because the milk itself was pasteurized before culturing. Probiotics have a good safety record for healthy pregnant people.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "pectin",
+    "name": "Pectin",
+    "category": "food",
+    "aliases": [
+      "pectin",
+      "e440",
+      "fruit pectin",
+      "apple pectin",
+      "citrus pectin",
+      "amidated pectin"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Natural fruit gelling fiber; safe",
+    "detail": "Pectin is a natural fiber from fruit used to set jams and thicken foods (E440). It is not absorbed and has an excellent safety record, with no reproductive concerns. It is safe throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "citric-acid",
+    "name": "Citric Acid",
+    "category": "food",
+    "aliases": [
+      "citric acid",
+      "e330",
+      "sodium citrate",
+      "e331",
+      "citrate",
+      "anhydrous citric acid"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Ubiquitous, well-tolerated acidity regulator",
+    "detail": "Citric acid occurs naturally in citrus fruit and is one of the most common food additives (E330), used for tartness and as a preservative. It is metabolized normally by the body and has no known reproductive risks. It is safe at all stages of pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "lecithin",
+    "name": "Lecithin",
+    "category": "food",
+    "aliases": [
+      "lecithin",
+      "e322",
+      "soy lecithin",
+      "sunflower lecithin",
+      "soya lecithin",
+      "phospholipids"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Common emulsifier; safe, provides choline",
+    "detail": "Lecithin (E322), usually from soy or sunflower, is a natural emulsifier in chocolate, spreads, and baked goods and is a source of choline, which supports fetal brain development. It has a long, reassuring safety record. It is safe in pregnancy and breastfeeding, and is even sometimes used to help prevent blocked milk ducts.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "xanthan-gum",
+    "name": "Xanthan Gum",
+    "category": "food",
+    "aliases": [
+      "xanthan gum",
+      "e415",
+      "xanthan"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Common thickener; safe, not absorbed",
+    "detail": "Xanthan gum (E415) is a fermentation-derived thickener widely used in gluten-free and sauce products. It passes through the gut largely undigested and has an excellent safety profile with no reproductive concerns. It is safe throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "guar-gum",
+    "name": "Guar Gum",
+    "category": "food",
+    "aliases": [
+      "guar gum",
+      "e412",
+      "guar",
+      "guaran"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Plant-fiber thickener; safe in food amounts",
+    "detail": "Guar gum (E412) is a soluble fiber from guar beans used to thicken and stabilize foods. In food amounts it is safe and well tolerated, though very large supplement doses can cause bloating. There are no reproductive concerns, and it is safe in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "sodium-alginate",
+    "name": "Sodium Alginate",
+    "category": "food",
+    "aliases": [
+      "sodium alginate",
+      "e401",
+      "alginate",
+      "alginic acid",
+      "e400",
+      "calcium alginate",
+      "e404",
+      "propylene glycol alginate",
+      "e405"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Seaweed-derived thickener; safe",
+    "detail": "Alginates (E400-E405) are gelling and thickening agents extracted from brown seaweed, used in dairy, sauces, and some medicines. They are not absorbed and have a strong safety record with no reproductive concerns. They are considered safe throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "baking-soda",
+    "name": "Baking Soda (Sodium Bicarbonate)",
+    "category": "food",
+    "aliases": [
+      "baking soda",
+      "sodium bicarbonate",
+      "e500",
+      "bicarbonate of soda",
+      "baking powder",
+      "sodium hydrogen carbonate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Leavening agent; safe in baking",
+    "detail": "Sodium bicarbonate (E500) is a leavening agent in baked goods and is safe in food amounts during pregnancy and breastfeeding. Used occasionally as an antacid it is also generally fine, though its high sodium content means it should not be taken in large medicinal doses without advice. As a baking ingredient it poses no concern.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "yeast",
+    "name": "Yeast",
+    "category": "food",
+    "aliases": [
+      "yeast",
+      "bakers yeast",
+      "brewers yeast",
+      "nutritional yeast",
+      "saccharomyces cerevisiae",
+      "yeast extract",
+      "dried yeast"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Baking and nutritional yeast are safe",
+    "detail": "Baking yeast, nutritional yeast, and yeast extract are safe in pregnancy and breastfeeding, and nutritional yeast can add B vitamins. Baking fully kills the yeast, and nutritional yeast is deactivated. Yeast extract also contributes savory flavor; only its salt content is worth keeping in perspective.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "vinegar",
+    "name": "Vinegar",
+    "category": "food",
+    "aliases": [
+      "vinegar",
+      "acetic acid",
+      "e260",
+      "white vinegar",
+      "apple cider vinegar",
+      "balsamic vinegar",
+      "malt vinegar",
+      "rice vinegar"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Culinary vinegar is safe; pick pasteurized",
+    "detail": "Vinegar and its acetic acid (E260) are safe as culinary ingredients in pregnancy and breastfeeding. Pasteurized vinegars are best; raw unfiltered vinegars with the mother are generally low risk but less controlled. Any residual alcohol in vinegar is negligible and not a concern.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "olive-oil",
+    "name": "Olive Oil",
+    "category": "food",
+    "aliases": [
+      "olive oil",
+      "extra virgin olive oil",
+      "virgin olive oil",
+      "pomace oil",
+      "evoo"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Healthy fat; encouraged in pregnancy",
+    "detail": "Olive oil is a heart-healthy unsaturated fat and a staple of the Mediterranean diet that is encouraged during pregnancy and breastfeeding. It has no safety concerns and provides vitamin E and beneficial fats. It is a good choice for cooking and dressings at every stage.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "whole-grains",
+    "name": "Whole Grains",
+    "category": "food",
+    "aliases": [
+      "whole grain",
+      "whole wheat",
+      "oats",
+      "brown rice",
+      "whole grain flour",
+      "wholemeal",
+      "quinoa",
+      "barley",
+      "whole grain oats"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Fiber, B vitamins; encouraged at all stages",
+    "detail": "Whole grains such as oats, brown rice, whole wheat, and quinoa provide fiber, B vitamins, and iron, and are encouraged throughout pregnancy and breastfeeding. Fiber also helps with the constipation that is common in pregnancy. They are a foundation of a healthy diet at every stage.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "omega-3-dha",
+    "name": "Omega-3 (DHA / EPA)",
+    "category": "food",
+    "aliases": [
+      "omega-3",
+      "dha",
+      "epa",
+      "docosahexaenoic acid",
+      "fish oil",
+      "algal oil",
+      "algae oil",
+      "omega 3 fatty acids"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Supports fetal brain and eye development",
+    "detail": "Omega-3 fats, especially DHA, support fetal brain and eye development and are encouraged in pregnancy and breastfeeding, whether from low-mercury fish or algal-oil supplements. Fish-derived oils should be from body oil rather than liver oil to avoid excess vitamin A; cod liver oil is discouraged for that reason. Algal DHA is a good vegetarian source.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "FDA Advice About Eating Fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      }
+    ]
+  },
+  {
+    "id": "gelatin",
+    "name": "Gelatin",
+    "category": "food",
+    "aliases": [
+      "gelatin",
+      "gelatine",
+      "e441",
+      "beef gelatin",
+      "pork gelatin",
+      "gelling agent gelatin"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Animal-derived gelling protein; safe",
+    "detail": "Gelatin is a protein from animal collagen used to set desserts and gummies and is safe in pregnancy and breastfeeding. It is processed and carries no infection or reproductive concerns as sold. There are no special precautions beyond ordinary dietary balance.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "agar",
+    "name": "Agar",
+    "category": "food",
+    "aliases": [
+      "agar",
+      "agar-agar",
+      "e406",
+      "agar agar",
+      "kanten"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Seaweed gelling agent; safe",
+    "detail": "Agar (E406) is a plant-based gelling agent from seaweed, used as a vegetarian alternative to gelatin. It is not absorbed and has no reproductive concerns, making it safe in pregnancy and breastfeeding. Very large amounts act as a mild laxative, which is a comfort issue only.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "maltodextrin",
+    "name": "Maltodextrin",
+    "category": "food",
+    "aliases": [
+      "maltodextrin",
+      "e1400",
+      "dextrin",
+      "corn maltodextrin"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Common starch-based carbohydrate; safe",
+    "detail": "Maltodextrin is a starch-derived carbohydrate used as a filler and thickener in many packaged foods. It is digested like other carbohydrates and has no reproductive concerns. It is safe in pregnancy and breastfeeding, though as a rapidly absorbed carbohydrate it is worth accounting for in blood-sugar management.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "mono-diglycerides",
+    "name": "Mono- and Diglycerides",
+    "category": "food",
+    "aliases": [
+      "mono and diglycerides",
+      "monoglycerides",
+      "diglycerides",
+      "e471",
+      "mono- and diglycerides of fatty acids",
+      "glycerides"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Fat-based emulsifier; safe at food levels",
+    "detail": "Mono- and diglycerides (E471) are fat-derived emulsifiers used in bread, margarine, and ice cream. The body digests them like ordinary dietary fat, and they have a long safety record with no reproductive concerns. They are considered safe in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "deli-meat",
+    "name": "Deli Meat / Cold Cuts",
+    "category": "food",
+    "aliases": [
+      "deli meat",
+      "cold cuts",
+      "lunch meat",
+      "sliced ham",
+      "sliced turkey",
+      "salami",
+      "prosciutto",
+      "bologna",
+      "sliced chicken",
+      "luncheon meat"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Listeria risk unless heated until steaming",
+    "detail": "Ready-to-eat deli meats can carry listeria, which is far more dangerous in pregnancy and can cause miscarriage, stillbirth, or newborn infection in any trimester. Heating cold cuts until steaming hot (about 74C) just before eating removes the risk. They also count as processed meats high in nitrites and salt. After delivery the listeria danger to the baby resolves, so cold cuts are fine while breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "monk-fruit",
+    "name": "Monk Fruit Extract",
+    "category": "food",
+    "aliases": [
+      "monk fruit",
+      "monk fruit extract",
+      "luo han guo",
+      "mogroside",
+      "monkfruit sweetener"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Plant sweetener generally recognized as safe",
+    "detail": "Monk fruit extract is a natural high-intensity sweetener that the FDA lists as generally recognized as safe. It is poorly absorbed and has no known reproductive concerns, so it is considered safe in pregnancy and breastfeeding. Dedicated pregnancy studies are limited, but its safety profile is reassuring at food levels.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "sorbitol",
+    "name": "Sorbitol",
+    "category": "food",
+    "aliases": [
+      "sorbitol",
+      "e420",
+      "glucitol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Sugar alcohol; large amounts loosen stools",
+    "detail": "Sorbitol (E420) is a sugar alcohol used in sugar-free gum and candies. It is safe at food levels in pregnancy and breastfeeding, with no reproductive concerns. Larger amounts have a laxative effect and can cause gas and bloating, which is a comfort issue rather than a risk.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "high-fructose-corn-syrup",
+    "name": "High-Fructose Corn Syrup",
+    "category": "food",
+    "aliases": [
+      "high-fructose corn syrup",
+      "hfcs",
+      "high fructose corn syrup",
+      "glucose-fructose syrup",
+      "corn syrup",
+      "isoglucose",
+      "fructose-glucose syrup"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Added sugar; safe but best limited",
+    "detail": "High-fructose corn syrup is a common added sugar in sodas and packaged foods. It is not toxic and has no specific reproductive risk, so it is technically safe in pregnancy and breastfeeding. However, like all added sugars it is worth limiting to help manage weight gain and blood-sugar, which matters more with the risk of gestational diabetes.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "seaweed-kelp",
+    "name": "Seaweed / Kelp",
+    "category": "food",
+    "aliases": [
+      "seaweed",
+      "kelp",
+      "nori",
+      "wakame",
+      "kombu",
+      "hijiki",
+      "kelp powder",
+      "sea vegetable"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Iodine overload risk; hijiki has arsenic",
+    "detail": "Small amounts of seaweed such as nori are fine, but some seaweeds, especially kelp and kombu, are extremely high in iodine, and too much iodine can disturb the fetal thyroid just as too little can. Hijiki additionally can contain high inorganic arsenic and is best avoided. Enjoy modest amounts of low-iodine seaweed, but avoid concentrated kelp supplements in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      }
+    ]
+  },
+  {
+    "id": "cocoa-chocolate",
+    "name": "Cocoa / Chocolate",
+    "category": "food",
+    "aliases": [
+      "cocoa",
+      "chocolate",
+      "cacao",
+      "dark chocolate",
+      "cocoa powder",
+      "cocoa solids",
+      "chocolate liquor"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "caution"
+    },
+    "summary": "Fine in moderation; contains some caffeine",
+    "detail": "Chocolate is safe in pregnancy and breastfeeding in normal amounts and is a nice treat, but it contains caffeine and the related stimulant theobromine, which count toward daily caffeine limits, especially with dark chocolate. Large quantities of dark chocolate can add up, so keep it within your overall caffeine budget. Occasional chocolate has no meaningful effect on a breastfed baby.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "energy-drinks",
+    "name": "Energy Drinks",
+    "category": "food",
+    "aliases": [
+      "energy drink",
+      "energy drinks",
+      "energy shot",
+      "caffeinated energy drink"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "High caffeine stacked with untested stimulants",
+    "detail": "Energy drinks combine high caffeine with guarana, taurine, ginseng, and other additives whose combined effects are not well studied in pregnancy, and they can easily push caffeine past safe limits. Health bodies advise pregnant people to avoid them. While breastfeeding they are best limited, both for caffeine reaching the baby and the uncertain herbal stimulants; water and food are better sources of energy.",
+    "sources": [
+      {
+        "name": "MotherToBaby Fact Sheets",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  },
+  {
+    "id": "tempeh-tofu",
+    "name": "Tofu / Tempeh (Soy Protein)",
+    "category": "food",
+    "aliases": [
+      "tofu",
+      "tempeh",
+      "soy protein",
+      "soya",
+      "soybean",
+      "edamame",
+      "soy protein isolate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Nutritious protein; whole-soy foods are safe",
+    "detail": "Whole soy foods such as tofu, tempeh, and edamame are good sources of protein and are safe in pregnancy and breastfeeding as part of a varied diet. Concern about soy is mainly theoretical and tied to very high-dose isoflavone supplements rather than ordinary soy foods. Cook tempeh and pasteurized soy products as usual; there is no need to avoid dietary soy.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "modified-starch",
+    "name": "Modified Food Starch",
+    "category": "food",
+    "aliases": [
+      "modified food starch",
+      "modified starch",
+      "modified corn starch",
+      "e1442",
+      "acetylated starch",
+      "hydroxypropyl starch"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Processed starch thickener; safe",
+    "detail": "Modified food starch is ordinary starch treated to improve its thickening and stability, used across many packaged foods. It is digested like other starch and has no reproductive concerns. It is safe in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EFSA Food Additives",
+        "url": "https://www.efsa.europa.eu/en/topics/topic/food-additives"
+      }
+    ]
+  },
+  {
+    "id": "salt-sodium",
+    "name": "Salt (Sodium Chloride)",
+    "category": "food",
+    "aliases": [
+      "salt",
+      "sodium chloride",
+      "table salt",
+      "sea salt",
+      "sodium",
+      "rock salt"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Needed, but keep intake moderate",
+    "detail": "Salt is a normal dietary need and does not need to be avoided in pregnancy; iodized salt also helps supply iodine. Very high sodium intake is worth moderating, particularly with high blood pressure or swelling, which can matter in later pregnancy. Overall, ordinary seasoning is safe at all stages, with balance the main goal.",
+    "sources": [
+      {
+        "name": "ACOG Nutrition During Pregnancy",
+        "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "raw-shellfish",
+    "name": "Raw Shellfish / Oysters",
+    "category": "food",
+    "aliases": [
+      "raw shellfish",
+      "raw oysters",
+      "raw clams",
+      "raw mussels",
+      "raw scallops",
+      "ceviche",
+      "oysters on the half shell"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Raw shellfish carries vibrio and norovirus risk",
+    "detail": "Raw and undercooked shellfish can carry vibrio bacteria, norovirus, and other pathogens that cause severe food poisoning, which is riskier in pregnancy because of a weakened immune system and the danger of dehydration. Cooked shellfish is safe and low in mercury, so the advice is to cook it thoroughly rather than avoid shellfish altogether. While breastfeeding the concern is mainly maternal illness rather than harm through milk.",
+    "sources": [
+      {
+        "name": "FDA Food",
+        "url": "https://www.fda.gov/food"
+      },
+      {
+        "name": "NHS Foods to Avoid in Pregnancy",
+        "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+      }
+    ]
+  }
+]

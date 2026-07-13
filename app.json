@@ -1,18 +1,25 @@
 {
   "expo": {
-    "name": "yuka2",
-    "slug": "yuka2",
+    "name": "Expecta",
+    "slug": "expecta",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "yuka2",
-    "userInterfaceStyle": "automatic",
+    "scheme": "expecta",
+    "userInterfaceStyle": "light",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.expecta.app",
+      "buildNumber": "1",
+      "supportsTablet": false,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Expecta uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
+      }
     },
     "android": {
+      "package": "com.expecta.app",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#FBF7F1",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
@@ -28,9 +35,15 @@
       [
         "expo-splash-screen",
         {
-          "backgroundColor": "#208AEF",
+          "backgroundColor": "#FBF7F1",
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Expecta uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
         }
       ]
     ],

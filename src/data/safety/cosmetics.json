@@ -1,0 +1,3312 @@
+[
+  {
+    "id": "retinol",
+    "name": "Retinol",
+    "category": "cosmetic",
+    "aliases": [
+      "retinol",
+      "vitamin a",
+      "vitamin a alcohol",
+      "retinyl retinoate"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Vitamin A derivative; class linked to birth defects",
+    "detail": "Retinol belongs to the retinoid family, and oral retinoids are known to cause serious birth defects. Although skin absorption from creams is low, experts advise avoiding all topical retinoids throughout pregnancy as a precaution, and risk is greatest in the first trimester when organs are forming. While breastfeeding, occasional use away from the chest is likely low risk, but discuss with your clinician first.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "retinyl-palmitate",
+    "name": "Retinyl Palmitate",
+    "category": "cosmetic",
+    "aliases": [
+      "retinyl palmitate",
+      "retinyl acetate",
+      "retinyl propionate",
+      "vitamin a palmitate",
+      "retinyl esters"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Retinoid ester; avoid like other vitamin A forms",
+    "detail": "Retinyl palmitate and related esters convert to retinoic acid in the skin, so they are grouped with other retinoids. Topical absorption is modest, but because the retinoid class is linked to birth defects, avoiding them during all of pregnancy is the standard cautious advice. During breastfeeding, limited use away from the nipple area is likely low risk; check with your clinician.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "retinaldehyde",
+    "name": "Retinaldehyde",
+    "category": "cosmetic",
+    "aliases": [
+      "retinaldehyde",
+      "retinal",
+      "retinal 0.1%"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Potent over-the-counter retinoid; avoid in pregnancy",
+    "detail": "Retinaldehyde (retinal) is one step closer to retinoic acid than retinol, making it a more potent retinoid. Even though only small amounts pass through skin, the retinoid class is avoided throughout pregnancy because of its link to birth defects. While nursing, occasional use away from the chest is likely low risk, but ask your clinician.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "granactive-retinoid",
+    "name": "Granactive Retinoid (Hydroxypinacolone Retinoate)",
+    "category": "cosmetic",
+    "aliases": [
+      "hydroxypinacolone retinoate",
+      "granactive retinoid",
+      "hpr"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Newer retinoid ester; treat like other retinoids",
+    "detail": "Hydroxypinacolone retinoate is a newer retinoic acid ester marketed as gentler, but it acts on the same retinoid pathways. There is very little pregnancy safety data, so the cautious approach is to avoid it throughout pregnancy along with all retinoids. During breastfeeding, limited use away from the chest is probably low risk; confirm with your clinician.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "tretinoin",
+    "name": "Tretinoin",
+    "category": "cosmetic",
+    "aliases": [
+      "tretinoin",
+      "retinoic acid",
+      "all-trans retinoic acid",
+      "retin-a"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Prescription retinoid; avoid throughout pregnancy",
+    "detail": "Tretinoin is a prescription-strength retinoic acid. Although skin absorption is low, case reports and its drug class have led experts to recommend stopping it before and during pregnancy, with the first trimester the most critical window. While breastfeeding it is considered low risk if kept away from the chest and the infant's skin, but use only with your clinician's guidance.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "adapalene",
+    "name": "Adapalene",
+    "category": "cosmetic",
+    "aliases": [
+      "adapalene",
+      "differin"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Retinoid acne gel; stop during pregnancy",
+    "detail": "Adapalene is a topical retinoid sold over the counter for acne. Absorption through skin is very low, but because retinoids as a class are linked to birth defects, guidelines advise avoiding it in all trimesters. During breastfeeding it is likely low risk when applied to small areas away from the chest; check with your clinician first.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "tazarotene",
+    "name": "Tazarotene",
+    "category": "cosmetic",
+    "aliases": [
+      "tazarotene",
+      "tazorac",
+      "arazlo"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Strong prescription retinoid; contraindicated",
+    "detail": "Tazarotene is a potent prescription retinoid that is contraindicated in pregnancy; its labeling requires a negative pregnancy test before starting. It absorbs through skin more than some other retinoids, so all trimesters carry concern. Because infant exposure through milk has not been well studied, the cautious course is to avoid it while breastfeeding too.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "isotretinoin",
+    "name": "Isotretinoin",
+    "category": "cosmetic",
+    "aliases": [
+      "isotretinoin",
+      "accutane",
+      "13-cis retinoic acid",
+      "isotrexin"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Causes severe birth defects; strictly avoid",
+    "detail": "Isotretinoin is a known human teratogen that causes severe birth defects and pregnancy loss, which is why the oral form is dispensed under strict pregnancy-prevention programs. Even topical formulations are avoided because no level of retinoid exposure is considered acceptable in pregnancy. It should also be avoided while breastfeeding, as it may pass into milk and affect the infant.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      }
+    ]
+  },
+  {
+    "id": "hydroquinone",
+    "name": "Hydroquinone",
+    "category": "cosmetic",
+    "aliases": [
+      "hydroquinone",
+      "1,4-dihydroxybenzene",
+      "quinol"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Skin lightener with high skin absorption",
+    "detail": "Hydroquinone is a skin-lightening agent with unusually high absorption through skin, estimated at 35 to 45 percent of the applied dose. Although no clear pattern of birth defects has been shown, that level of systemic exposure leads experts to advise avoiding it in every trimester. Data in breastfeeding are lacking, so it is best deferred or used only with clinician guidance while nursing.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      }
+    ]
+  },
+  {
+    "id": "arbutin",
+    "name": "Arbutin",
+    "category": "cosmetic",
+    "aliases": [
+      "arbutin",
+      "alpha-arbutin",
+      "beta-arbutin",
+      "bearberry extract",
+      "arctostaphylos uva-ursi extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Releases small amounts of hydroquinone in skin",
+    "detail": "Arbutin is a plant-derived brightener that can slowly release small amounts of hydroquinone in the skin. Absorption from leave-on products is low, but because of the hydroquinone connection and limited pregnancy data, caution is advised in all trimesters and while nursing. Azelaic acid or vitamin C are better-studied alternatives for dark spots.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "kojic-acid",
+    "name": "Kojic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "kojic acid",
+      "kojic dipalmitate"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Brightener with limited pregnancy safety data",
+    "detail": "Kojic acid is a fungal-derived skin brightener. Only small amounts are absorbed through skin, and no specific harm in pregnancy has been shown, but formal safety studies in pregnant or nursing people are lacking. Given the limited data, occasional low-concentration use is likely low risk, but a cautious approach favors better-studied options like azelaic acid.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "azelaic-acid",
+    "name": "Azelaic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "azelaic acid",
+      "azelaic",
+      "finacea",
+      "azelex",
+      "potassium azeloyl diglycinate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Well-studied acne/brightening choice in pregnancy",
+    "detail": "Azelaic acid is one of the preferred acne and pigmentation treatments during pregnancy. Skin absorption is low, and it occurs naturally in the body and in grains, with no signal of harm in available studies. It is also considered compatible with breastfeeding; simply avoid applying it directly to the nipple area before feeds.",
+    "sources": [
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "salicylic-acid",
+    "name": "Salicylic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "salicylic acid",
+      "bha",
+      "beta hydroxy acid",
+      "willow bark extract",
+      "salix alba bark extract",
+      "sodium salicylate"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Fine in rinse-off; skip high-strength leave-on",
+    "detail": "Salicylic acid is related to aspirin, and high oral doses of salicylates are a pregnancy concern, especially in the third trimester. Low concentrations in cleansers and rinse-off products absorb very little and are generally considered acceptable, but high-percentage leave-on products and professional peels should be avoided. While nursing, rinse-off use is low risk; avoid applying leave-on products to the chest.",
+    "sources": [
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "benzoyl-peroxide",
+    "name": "Benzoyl Peroxide",
+    "category": "cosmetic",
+    "aliases": [
+      "benzoyl peroxide",
+      "bpo",
+      "benzoyl peroxide 2.5%",
+      "benzoyl peroxide 5%",
+      "benzoyl peroxide 10%"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Acne wash considered acceptable in pregnancy",
+    "detail": "Benzoyl peroxide breaks down quickly in the skin and only about 5 percent is absorbed, then rapidly cleared. Limited use for acne is considered acceptable in all trimesters by obstetric and dermatology groups. It is also compatible with breastfeeding; just keep it off the chest area so the infant does not contact treated skin.",
+    "sources": [
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "glycolic-acid",
+    "name": "Glycolic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "glycolic acid",
+      "aha",
+      "alpha hydroxy acid",
+      "glycolic"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Low-strength AHA exfoliant is considered fine",
+    "detail": "Glycolic acid at the low concentrations found in consumer skincare penetrates only the outer skin layers, and systemic absorption is minimal. It is generally considered acceptable during pregnancy and breastfeeding. Very high-strength professional peels are a different exposure and are best deferred until after pregnancy.",
+    "sources": [
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "lactic-acid",
+    "name": "Lactic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "lactic acid",
+      "sodium lactate",
+      "ammonium lactate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentle AHA; naturally present in the body",
+    "detail": "Lactic acid is a mild alpha hydroxy acid that the body itself produces. Topical use in cleansers, lotions, and low-strength serums involves minimal absorption and is considered acceptable throughout pregnancy and breastfeeding. As with any exfoliating acid, defer high-strength professional peels.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "mandelic-acid",
+    "name": "Mandelic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "mandelic acid"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Large-molecule AHA with minimal absorption",
+    "detail": "Mandelic acid is a large-molecule alpha hydroxy acid that penetrates skin slowly and shallowly, which limits systemic exposure. Low-strength consumer products are considered acceptable in pregnancy and while nursing. High-percentage professional peels are best postponed.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "gluconolactone",
+    "name": "Gluconolactone (PHA)",
+    "category": "cosmetic",
+    "aliases": [
+      "gluconolactone",
+      "pha",
+      "polyhydroxy acid",
+      "lactobionic acid",
+      "galactose"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentlest exfoliating acid family; minimal absorption",
+    "detail": "Polyhydroxy acids such as gluconolactone are large molecules that mostly stay on the skin surface, making systemic absorption negligible. They are among the gentlest exfoliants available and are considered acceptable during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "sulfur",
+    "name": "Sulfur (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "sulfur",
+      "sulphur",
+      "colloidal sulfur"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Acne spot treatment; limited pregnancy data",
+    "detail": "Topical sulfur is a traditional acne and rosacea treatment with very low skin absorption, and no harm has been shown in pregnancy. However, dedicated safety studies are sparse, so it is listed as caution rather than safe. Occasional spot use is likely low risk in pregnancy and while nursing if kept away from the chest.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "formaldehyde",
+    "name": "Formaldehyde",
+    "category": "cosmetic",
+    "aliases": [
+      "formaldehyde",
+      "formalin",
+      "methylene glycol",
+      "formaldehyde solution",
+      "methanal",
+      "toluenesulfonamide formaldehyde resin",
+      "tosylamide formaldehyde resin"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Known carcinogen in nail and hair products",
+    "detail": "Formaldehyde is a known human carcinogen found in some nail hardeners, nail polishes, and hair-smoothing products. Exposure is mainly through inhaling fumes rather than skin absorption, and salon treatments can release significant amounts into the air. Avoid products and salon services containing it throughout pregnancy and while breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "dmdm-hydantoin",
+    "name": "DMDM Hydantoin",
+    "category": "cosmetic",
+    "aliases": [
+      "dmdm hydantoin",
+      "dimethylol dimethyl hydantoin"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Preservative that slowly releases formaldehyde",
+    "detail": "DMDM hydantoin is a preservative that works by slowly releasing small amounts of formaldehyde into the product. The amounts absorbed through skin are small, but because formaldehyde is a carcinogen and sensitizer, many people choose to minimize exposure during pregnancy and breastfeeding. Rinse-off products are lower exposure than leave-on ones.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "quaternium-15",
+    "name": "Quaternium-15",
+    "category": "cosmetic",
+    "aliases": [
+      "quaternium-15",
+      "quaternium 15"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Formaldehyde-releasing preservative",
+    "detail": "Quaternium-15 is among the strongest formaldehyde-releasing preservatives and a common cause of contact allergy. Skin absorption of released formaldehyde is low, but a cautious approach during pregnancy and nursing is to prefer products preserved another way. It has been phased out of many major brands.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "imidazolidinyl-urea",
+    "name": "Imidazolidinyl Urea",
+    "category": "cosmetic",
+    "aliases": [
+      "imidazolidinyl urea",
+      "germall 115"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Formaldehyde-releasing preservative",
+    "detail": "Imidazolidinyl urea preserves cosmetics by releasing trace formaldehyde. The released amounts are small and skin absorption is limited, but pregnant and nursing users who want to minimize formaldehyde exposure may prefer alternatives. Note this is unrelated to plain urea, the safe moisturizing ingredient.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "diazolidinyl-urea",
+    "name": "Diazolidinyl Urea",
+    "category": "cosmetic",
+    "aliases": [
+      "diazolidinyl urea",
+      "germall ii"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Formaldehyde-releasing preservative",
+    "detail": "Diazolidinyl urea is a preservative that releases more formaldehyde than most others in its class. Absorption through intact skin is low, but choosing formaldehyde-free products is a reasonable precaution in pregnancy and while breastfeeding. It is unrelated to plain moisturizing urea.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "bronopol",
+    "name": "Bronopol",
+    "category": "cosmetic",
+    "aliases": [
+      "bronopol",
+      "2-bromo-2-nitropropane-1,3-diol"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Formaldehyde-releasing preservative",
+    "detail": "Bronopol is a preservative that can break down into formaldehyde and, under some conditions, form nitrosamines. Exposure from a single rinse-off product is small, but cumulative use of leave-on products is worth minimizing during pregnancy and nursing. Look for it on labels as 2-bromo-2-nitropropane-1,3-diol.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "keratin-treatment",
+    "name": "Keratin Hair-Smoothing Treatment",
+    "category": "cosmetic",
+    "aliases": [
+      "keratin treatment",
+      "brazilian blowout",
+      "brazilian keratin treatment",
+      "hair smoothing treatment",
+      "methylene glycol"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Salon smoothing releases formaldehyde gas",
+    "detail": "Many keratin and Brazilian-style smoothing treatments contain formaldehyde or methylene glycol, which releases formaldehyde gas when heated with flat irons. The main exposure is inhalation during the lengthy salon session, which is a concern in every trimester and while nursing. Even products labeled formaldehyde-free have been found to release it; defer these treatments.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "dibutyl-phthalate",
+    "name": "Dibutyl Phthalate",
+    "category": "cosmetic",
+    "aliases": [
+      "dibutyl phthalate",
+      "dbp",
+      "di-n-butyl phthalate",
+      "butyl ester phthalate"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Endocrine-disrupting plasticizer in nail polish",
+    "detail": "Dibutyl phthalate, historically used in nail polish, is an endocrine disruptor linked in animal studies to effects on male reproductive development. Exposure through nail products and fumes is small per use but avoidable, and the developing fetus is the most sensitive to hormone-disrupting chemicals. It is banned in EU cosmetics; choose DBP-free polish while pregnant and use caution while nursing.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "diethyl-phthalate",
+    "name": "Diethyl Phthalate",
+    "category": "cosmetic",
+    "aliases": [
+      "diethyl phthalate",
+      "dep"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Phthalate used in fragrance; endocrine concern",
+    "detail": "Diethyl phthalate is the phthalate most commonly used to carry and fix fragrance in cosmetics, and it is readily absorbed through skin. Human studies have associated phthalate exposure in pregnancy with developmental effects, so a conservative approach avoids it in all trimesters. It usually hides under the word fragrance rather than being listed by name; fragrance-free products are the surest way around it.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "fragrance",
+    "name": "Fragrance / Parfum",
+    "category": "cosmetic",
+    "aliases": [
+      "fragrance",
+      "parfum",
+      "aroma",
+      "perfume",
+      "natural fragrance"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Undisclosed mixture; may carry phthalates",
+    "detail": "The single word fragrance or parfum can represent dozens of undisclosed chemicals, sometimes including phthalates used to make scent last. Skin absorption varies by ingredient, and there is no way to assess safety without knowing what is inside. During pregnancy and breastfeeding, fragrance-free products, or brands that fully disclose their scent ingredients, are the cautious choice.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "methylparaben",
+    "name": "Methylparaben",
+    "category": "cosmetic",
+    "aliases": [
+      "methylparaben",
+      "methyl paraben",
+      "e218"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Common preservative with weak estrogenic activity",
+    "detail": "Methylparaben is one of the mildest parabens and shows only very weak estrogen-like activity in lab studies. It absorbs through skin but is rapidly broken down and excreted. Regulators consider it safe at current levels, yet because parabens are debated endocrine disruptors, many pregnant and nursing users choose to limit leave-on exposure as a precaution.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "propylparaben",
+    "name": "Propylparaben",
+    "category": "cosmetic",
+    "aliases": [
+      "propylparaben",
+      "propyl paraben",
+      "e216"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Paraben with stronger endocrine-activity signal",
+    "detail": "Propylparaben shows somewhat stronger estrogen-like activity than methylparaben in laboratory studies, and it has been detected in urine and tissue after topical use. Regulators still permit it at low concentrations, but the EU has tightened limits and banned it in products for young children's diaper areas. Limiting leave-on exposure during pregnancy and nursing is a sensible precaution.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "butylparaben",
+    "name": "Butylparaben",
+    "category": "cosmetic",
+    "aliases": [
+      "butylparaben",
+      "butyl paraben",
+      "isobutylparaben",
+      "isopropylparaben"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Longer-chain paraben; strongest hormone concern",
+    "detail": "Butylparaben and its isobutyl cousin show the strongest estrogen-like activity in the paraben family, and animal studies suggest possible effects on reproductive development. It absorbs through skin, and the developing fetus is the population most sensitive to hormone-active chemicals, so avoiding it in pregnancy is the conservative call. While nursing, occasional exposure is likely low risk but worth minimizing.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "oxybenzone",
+    "name": "Oxybenzone",
+    "category": "cosmetic",
+    "aliases": [
+      "oxybenzone",
+      "benzophenone-3",
+      "bp-3",
+      "benzophenone"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "UV filter absorbed into blood; hormone concerns",
+    "detail": "Oxybenzone is a chemical sunscreen filter that FDA studies show is absorbed into the bloodstream at levels far above the agency's screening threshold, and it has been detected in amniotic fluid and breast milk. It also shows hormone-like activity in lab studies. Mineral sunscreens with zinc oxide or titanium dioxide are the preferred swap throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "octinoxate",
+    "name": "Octinoxate",
+    "category": "cosmetic",
+    "aliases": [
+      "octinoxate",
+      "ethylhexyl methoxycinnamate",
+      "octyl methoxycinnamate",
+      "omc",
+      "octylmethoxycinnamate"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Chemical UV filter with systemic absorption",
+    "detail": "Octinoxate is a chemical sunscreen filter that absorbs through skin into the bloodstream and has shown hormone-related activity in animal studies. Human evidence of harm is not established, but because well-studied mineral alternatives exist, caution is reasonable in pregnancy and while nursing. Zinc oxide or titanium dioxide sunscreens sidestep the question entirely.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "homosalate",
+    "name": "Homosalate",
+    "category": "cosmetic",
+    "aliases": [
+      "homosalate",
+      "homomenthyl salicylate"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Chemical UV filter; absorbs into bloodstream",
+    "detail": "Homosalate is a chemical sunscreen filter that FDA testing found in the bloodstream above the level that triggers extra safety review, and it has weak hormone-like activity in lab studies. Sun protection itself remains important in pregnancy, so rather than skipping sunscreen, switch to mineral filters. Caution applies across all trimesters and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "octocrylene",
+    "name": "Octocrylene",
+    "category": "cosmetic",
+    "aliases": [
+      "octocrylene"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "UV filter; absorption plus benzophenone traces",
+    "detail": "Octocrylene absorbs through skin into the bloodstream, and aging products can accumulate benzophenone, a possible carcinogen, as a breakdown product. Definitive human harm has not been shown, but mineral sunscreen filters avoid the uncertainty. Caution is advised in all trimesters and while breastfeeding, and old or expired octocrylene sunscreens should be discarded.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "avobenzone",
+    "name": "Avobenzone",
+    "category": "cosmetic",
+    "aliases": [
+      "avobenzone",
+      "butyl methoxydibenzoylmethane",
+      "parsol 1789"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "UVA filter absorbed systemically; data pending",
+    "detail": "Avobenzone is the main UVA filter in many chemical sunscreens and, like other organic filters, FDA testing found it absorbs into the bloodstream at levels requiring further safety study. It shows less hormone activity than oxybenzone, but the data gap warrants caution during pregnancy and breastfeeding. Mineral sunscreens provide UVA coverage without systemic absorption.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "octisalate",
+    "name": "Octisalate",
+    "category": "cosmetic",
+    "aliases": [
+      "octisalate",
+      "ethylhexyl salicylate",
+      "octyl salicylate"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Salicylate UV filter with systemic absorption",
+    "detail": "Octisalate is a salicylate-based chemical sunscreen filter shown by FDA testing to absorb into the bloodstream above the agency's screening threshold. No specific pregnancy harm is established, but as a systemically absorbed salicylate with incomplete data, it earns caution in all trimesters and while nursing. Mineral filters are the straightforward alternative.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "zinc-oxide",
+    "name": "Zinc Oxide",
+    "category": "cosmetic",
+    "aliases": [
+      "zinc oxide",
+      "non-nano zinc oxide",
+      "micronized zinc oxide"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Preferred mineral sunscreen in pregnancy",
+    "detail": "Zinc oxide is a mineral sunscreen filter that sits on top of the skin and is not meaningfully absorbed into the body. It is the first-choice sun protection during pregnancy and breastfeeding, and it is also used safely in diaper creams for infants. Lotion and stick formats are preferable to loose powders or sprays, which can be inhaled.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "titanium-dioxide",
+    "name": "Titanium Dioxide",
+    "category": "cosmetic",
+    "aliases": [
+      "titanium dioxide",
+      "ci 77891",
+      "tio2"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Mineral UV filter; not absorbed through skin",
+    "detail": "Titanium dioxide is a mineral sunscreen and pigment that stays on the skin surface with negligible absorption, making it a preferred UV filter during pregnancy and breastfeeding. The main caveat is inhalation: choose creams and sticks over loose powders and aerosol sprays, since inhaled fine particles are a separate lung concern.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "triclosan",
+    "name": "Triclosan",
+    "category": "cosmetic",
+    "aliases": [
+      "triclosan",
+      "tcs"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Banned-from-soap antibacterial; thyroid concern",
+    "detail": "Triclosan is an antibacterial agent the FDA removed from consumer hand soaps after makers could not show it was safe and effective. It absorbs through skin, interferes with thyroid hormone in animal studies, and has been detected in breast milk and umbilical cord blood. It still appears in some toothpastes, deodorants, and cosmetics, and is best avoided entirely in pregnancy and while nursing.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/5-things-know-about-triclosan"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "triclocarban",
+    "name": "Triclocarban",
+    "category": "cosmetic",
+    "aliases": [
+      "triclocarban",
+      "tcc",
+      "3,4,4'-trichlorocarbanilide"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Antibacterial banned from soaps; hormone activity",
+    "detail": "Triclocarban, long used in antibacterial bar soaps, was banned from consumer wash products by the FDA alongside triclosan. It absorbs through skin, shows hormone-amplifying activity in laboratory studies, and crosses to the fetus in animal models. Avoid it in every trimester and while breastfeeding; plain soap works just as well.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/consumers/consumer-updates/5-things-know-about-triclosan"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "phenoxyethanol",
+    "name": "Phenoxyethanol",
+    "category": "cosmetic",
+    "aliases": [
+      "phenoxyethanol",
+      "2-phenoxyethanol",
+      "euxyl"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "caution"
+    },
+    "summary": "Common preservative; keep off nipple area",
+    "detail": "Phenoxyethanol is one of the most widely used cosmetic preservatives, permitted at up to 1 percent, and skin absorption at that level is considered low risk in pregnancy. The specific caution is breastfeeding: the FDA once warned against a nipple cream containing it because ingestion can depress an infant's nervous system. Keep phenoxyethanol-containing products off the breast and nipple area while nursing.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "rosemary-oil",
+    "name": "Rosemary Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "rosemary oil",
+      "rosmarinus officinalis leaf oil",
+      "rosemary essential oil",
+      "rosemary extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Popular hair oil; concentrated forms concern",
+    "detail": "Rosemary as a food seasoning is fine, but concentrated rosemary essential oil has traditionally been flagged in pregnancy because large amounts may stimulate the uterus and raise blood pressure. The small diluted amounts in shampoos and scalp serums absorb little, but heavy or undiluted use is best avoided. Caution applies through pregnancy and, with less concern, during nursing.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "clary-sage-oil",
+    "name": "Clary Sage Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "clary sage oil",
+      "salvia sclarea oil",
+      "clary sage"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Traditionally used to stimulate labor; avoid",
+    "detail": "Clary sage oil is used by some midwives specifically because it is believed to encourage uterine contractions, which is exactly why it should be avoided throughout pregnancy outside professional care at term. Topical absorption of essential oils is real, especially with massage. While breastfeeding, occasional diluted use is likely low risk but data are thin.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/pregnancy/"
+      }
+    ]
+  },
+  {
+    "id": "pennyroyal-oil",
+    "name": "Pennyroyal Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "pennyroyal oil",
+      "mentha pulegium oil",
+      "pennyroyal",
+      "pulegone"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Toxic abortifacient oil; never use",
+    "detail": "Pennyroyal oil is a well-documented toxin historically misused to end pregnancies, and it has caused liver failure and death. Its active compound pulegone is dangerous whether swallowed or absorbed through skin in quantity. There is no safe use during pregnancy or breastfeeding; avoid any product containing it.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "camphor",
+    "name": "Camphor",
+    "category": "cosmetic",
+    "aliases": [
+      "camphor",
+      "camphor oil",
+      "cinnamomum camphora",
+      "camphorated oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Absorbs through skin; crosses the placenta",
+    "detail": "Camphor, found in some balms, rubs, and nail polishes, absorbs readily through skin and mucous membranes and crosses the placenta; poisonings in pregnancy have been reported. For breastfeeding families the concern extends to the infant, since camphor exposure can cause seizures in babies. The conservative course is to avoid camphor-containing products in pregnancy and while nursing.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "wintergreen-oil",
+    "name": "Wintergreen Oil (Methyl Salicylate)",
+    "category": "cosmetic",
+    "aliases": [
+      "wintergreen oil",
+      "methyl salicylate",
+      "gaultheria procumbens oil",
+      "sweet birch oil",
+      "birch oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Concentrated aspirin-like compound; avoid",
+    "detail": "Wintergreen oil is nearly pure methyl salicylate; a small bottle can contain the salicylate equivalent of dozens of aspirin tablets, and it absorbs well through skin, especially with heat or occlusion. Salicylates are a particular concern in the third trimester but are best avoided throughout pregnancy. While nursing, avoid it both for milk transfer and because residue on skin can expose the infant.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "sage-oil",
+    "name": "Sage Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "sage oil",
+      "salvia officinalis oil",
+      "dalmatian sage oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Contains thujone; can also reduce milk supply",
+    "detail": "Sage essential oil is high in thujone, a neurotoxic compound, and concentrated sage preparations have traditionally been avoided in pregnancy. During breastfeeding there is an added reason for avoidance: sage is one of the classic herbs used deliberately to dry up milk supply. Culinary sage in food is not a concern; the issue is the concentrated oil.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "eucalyptus-oil",
+    "name": "Eucalyptus Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "eucalyptus oil",
+      "eucalyptus globulus oil",
+      "eucalyptol",
+      "1,8-cineole",
+      "cineole"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Diluted use likely fine; potent if concentrated",
+    "detail": "Eucalyptus oil in well-diluted topical products is probably low risk in pregnancy, but concentrated oil is toxic if ingested and safety data for regular use are limited, so caution is sensible in all trimesters. While breastfeeding, the bigger issue is the infant: never apply eucalyptus or menthol products on or near a baby's face or chest, and keep treated skin away from the infant.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "tea-tree-oil",
+    "name": "Tea Tree Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "tea tree oil",
+      "melaleuca alternifolia leaf oil",
+      "melaleuca oil",
+      "tea tree"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Diluted spot use OK; hormone questions linger",
+    "detail": "Diluted tea tree oil for spot treating blemishes is generally considered low risk in pregnancy, but lab studies suggesting weak hormone activity and the lack of formal pregnancy studies keep it in the caution column. Undiluted oil is a skin irritant and is toxic if swallowed. While nursing, keep it off the chest so the infant does not ingest residue.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "peppermint-oil",
+    "name": "Peppermint Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "peppermint oil",
+      "mentha piperita oil",
+      "peppermint essential oil"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Small diluted amounts OK; can affect milk supply",
+    "detail": "Small, diluted amounts of peppermint oil in lip balms or foot creams are unlikely to pose a pregnancy risk, but concentrated or frequent use lacks safety data, so caution applies. While breastfeeding, peppermint and menthol have a reputation for reducing milk supply in some people, and mentholated products must be kept away from the infant's face. Use sparingly and watch supply if nursing.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "jasmine-oil",
+    "name": "Jasmine Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "jasmine oil",
+      "jasminum officinale oil",
+      "jasmine absolute",
+      "jasminum grandiflorum"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Traditionally linked to uterine stimulation",
+    "detail": "Jasmine oil is traditionally used around labor because it is believed to encourage contractions, which argues for caution with concentrated use earlier in pregnancy. Trace amounts in fine fragrance are a much smaller exposure than massage oils. While breastfeeding, jasmine flowers have historically been used to suppress lactation, so heavy use warrants caution if supply matters to you.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "cinnamon-bark-oil",
+    "name": "Cinnamon Bark Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "cinnamon bark oil",
+      "cinnamomum zeylanicum bark oil",
+      "cinnamomum cassia oil",
+      "cinnamaldehyde",
+      "cassia oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Strong irritant oil; avoid concentrated use",
+    "detail": "Cinnamon bark and cassia oils are among the most irritating essential oils on skin, and aromatherapy references have traditionally contraindicated them in pregnancy over concerns about uterine stimulation in quantity. Cinnamon flavoring in food is fine; the concern is the concentrated oil in lip plumpers, masks, and DIY blends. Use caution while nursing and keep it away from infant skin.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "clove-oil",
+    "name": "Clove Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "clove oil",
+      "eugenol",
+      "eugenia caryophyllus oil",
+      "clove bud oil"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Potent eugenol source; small dental use only",
+    "detail": "Clove oil is rich in eugenol, which is a strong skin and mucous membrane irritant and can be toxic to the liver in large amounts. Brief, tiny dental applications are unlikely to matter, but regular topical use of concentrated clove oil lacks pregnancy safety data. Caution applies in all trimesters and while nursing.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "basil-oil",
+    "name": "Basil Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "basil oil",
+      "ocimum basilicum oil",
+      "estragole",
+      "methyl chavicol"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "High-estragole oil; avoid concentrated use",
+    "detail": "Basil essential oil can be very high in estragole, a compound that caused cancers and DNA damage in animal studies, leading European regulators to discourage concentrated exposure. Eating basil is not a concern, but massage or skincare use of the oil during pregnancy is best avoided. During breastfeeding, occasional trace exposure is likely low risk but concentrated use should still be limited.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "fennel-oil",
+    "name": "Fennel Essential Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "fennel oil",
+      "foeniculum vulgare oil",
+      "sweet fennel oil",
+      "anethole"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Estrogenic oil with estragole; avoid in pregnancy",
+    "detail": "Fennel oil contains estrogen-like anethole and the animal carcinogen estragole, and European medicines regulators advise against fennel oil use in pregnancy. Although fennel tea is a folk galactagogue, the concentrated essential oil is a different exposure, and adverse events have been reported in breastfed infants of heavy fennel users. Avoid in pregnancy; use real caution while nursing.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "mugwort-oil",
+    "name": "Mugwort Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "mugwort oil",
+      "artemisia vulgaris oil",
+      "mugwort extract",
+      "artemisia oil"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Traditional emmenagogue; thujone content",
+    "detail": "Mugwort has a long history as an emmenagogue, an herb used to bring on menstruation, and its oil contains neurotoxic thujone. Both properties make it unsuitable at any point in pregnancy, whether applied to skin or used in aromatherapy. Safety data while nursing are absent, so avoidance is the prudent course there as well.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "wormwood-oil",
+    "name": "Wormwood Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "wormwood oil",
+      "artemisia absinthium oil",
+      "absinthium",
+      "thujone"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "High-thujone neurotoxic oil; never use",
+    "detail": "Wormwood oil is high in thujone, a compound that can cause seizures and was the notorious ingredient in absinthe. It is considered unsafe in pregnancy at any stage and has no established safe topical dose. Avoid entirely while pregnant or breastfeeding.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "lavender-oil",
+    "name": "Lavender Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "lavender oil",
+      "lavandula angustifolia oil",
+      "lavender essential oil",
+      "lavender extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Among the safer oils after the first trimester",
+    "detail": "Lavender is one of the most-studied essential oils and diluted topical use is widely considered acceptable in pregnancy, though many aromatherapists suggest holding off on all essential oils in the first trimester as a blanket precaution. Lab reports of weak hormone activity have not translated into demonstrated harm at cosmetic doses. Diluted use is considered fine while breastfeeding.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "ammonia",
+    "name": "Ammonia (Hair Color)",
+    "category": "cosmetic",
+    "aliases": [
+      "ammonia",
+      "ammonium hydroxide",
+      "aqua ammonia"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Hair-dye alkalizer; fumes and scalp contact",
+    "detail": "Ammonia opens the hair cuticle in permanent dyes; the exposure is mainly strong fumes plus limited scalp absorption. Studies have not shown that occasional hair coloring harms a pregnancy, but many clinicians suggest waiting until after the first trimester, using good ventilation, or choosing highlights that avoid the scalp. Chemicals from hair color are very unlikely to reach breast milk in meaningful amounts.",
+    "sources": [
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/common-health-questions/pregnancy/is-it-safe-to-use-hair-dye-when-pregnant-or-breastfeeding/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "ppd",
+    "name": "P-Phenylenediamine (PPD)",
+    "category": "cosmetic",
+    "aliases": [
+      "p-phenylenediamine",
+      "ppd",
+      "paraphenylenediamine",
+      "1,4-diaminobenzene",
+      "toluene-2,5-diamine",
+      "p-toluenediamine"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Permanent hair-dye pigment; strong sensitizer",
+    "detail": "PPD is the key pigment in most permanent hair dyes and a potent contact allergen; only small amounts absorb through the scalp during normal coloring. Research has not linked maternal hair dye use to birth defects, but the common-sense precautions are to wait until after the first trimester, patch test, ventilate, and not leave dye on longer than directed. Breastfeeding after hair coloring is considered fine.",
+    "sources": [
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/common-health-questions/pregnancy/is-it-safe-to-use-hair-dye-when-pregnant-or-breastfeeding/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "resorcinol",
+    "name": "Resorcinol",
+    "category": "cosmetic",
+    "aliases": [
+      "resorcinol",
+      "1,3-benzenediol",
+      "resorcin",
+      "2-methylresorcinol"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Hair-dye coupler with thyroid-effect signal",
+    "detail": "Resorcinol is a color coupler in many hair dyes and some acne products, and animal studies show it can interfere with thyroid function at high doses. Scalp absorption during a normal dye session is limited, and human harm has not been demonstrated, but its endocrine signal earns caution in pregnancy and while nursing. Minimizing scalp contact and frequency is a practical middle ground.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/common-health-questions/pregnancy/is-it-safe-to-use-hair-dye-when-pregnant-or-breastfeeding/"
+      }
+    ]
+  },
+  {
+    "id": "toluene",
+    "name": "Toluene",
+    "category": "cosmetic",
+    "aliases": [
+      "toluene",
+      "methylbenzene",
+      "toluol",
+      "phenylmethane"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Nail polish solvent; developmental toxin",
+    "detail": "Toluene is a solvent found in some nail polishes and salon air, and heavy occupational or abuse-level inhalation is a documented cause of birth defects and developmental harm. Painting nails occasionally is a far smaller exposure, but because the main route is the fumes you breathe, the cautious call in pregnancy is to choose toluene-free polish and ventilate well. While nursing, brief exposures are likely low risk.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "thioglycolic-acid",
+    "name": "Thioglycolic Acid (Perm/Depilatory Salts)",
+    "category": "cosmetic",
+    "aliases": [
+      "thioglycolic acid",
+      "ammonium thioglycolate",
+      "calcium thioglycolate",
+      "glyceryl thioglycolate",
+      "potassium thioglycolate",
+      "perm solution"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Perm and hair-removal chemical; limited data",
+    "detail": "Thioglycolate salts break hair bonds in permanent waves, relaxers, and depilatory creams. Some absorbs through skin, and while studies have not shown harm from occasional use in pregnancy, data are limited and scalp irritation is more likely with pregnancy's skin changes. Waiting out the first trimester and ensuring ventilation are reasonable precautions; use while breastfeeding is considered fine.",
+    "sources": [
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/common-health-questions/pregnancy/is-it-safe-to-use-hair-dye-when-pregnant-or-breastfeeding/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "persulfates",
+    "name": "Persulfates (Bleach Powder)",
+    "category": "cosmetic",
+    "aliases": [
+      "ammonium persulfate",
+      "potassium persulfate",
+      "sodium persulfate",
+      "persulfate",
+      "bleach powder"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "safe"
+    },
+    "summary": "Hair-bleach boosters; airway irritants",
+    "detail": "Persulfate salts boost hair bleach and are best known for causing asthma and airway irritation, particularly in salon workers with repeated exposure. Skin absorption is minimal; the pregnancy-relevant exposure is inhaling the powder and fumes. Occasional, well-ventilated highlights are considered low risk, especially off-scalp, and breastfeeding is not a concern.",
+    "sources": [
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/common-health-questions/pregnancy/is-it-safe-to-use-hair-dye-when-pregnant-or-breastfeeding/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "hydrogen-peroxide",
+    "name": "Hydrogen Peroxide (Hair Developer)",
+    "category": "cosmetic",
+    "aliases": [
+      "hydrogen peroxide",
+      "peroxide",
+      "developer",
+      "h2o2"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Hair developer; breaks down to water and oxygen",
+    "detail": "Hydrogen peroxide, the developer in hair color and bleach, breaks down rapidly into water and oxygen and does not build up in the body. Occasional hair processing is considered low risk in pregnancy; many people still wait until after the first trimester as a general precaution with all hair chemicals. It poses no meaningful concern for breastfeeding.",
+    "sources": [
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/common-health-questions/pregnancy/is-it-safe-to-use-hair-dye-when-pregnant-or-breastfeeding/"
+      }
+    ]
+  },
+  {
+    "id": "lead-acetate",
+    "name": "Lead Acetate",
+    "category": "cosmetic",
+    "aliases": [
+      "lead acetate",
+      "lead diacetate",
+      "progressive hair dye"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Lead compound once in gradual hair dyes; banned",
+    "detail": "Lead acetate was the active ingredient in some gradual gray-coverage hair dyes until the FDA repealed its approval because no level of lead exposure is considered safe. Lead absorbs through skin, accumulates in the body, crosses the placenta, and passes into breast milk, harming the developing brain. Discard any old progressive hair dyes and avoid imported products that may still contain it.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "minoxidil",
+    "name": "Minoxidil",
+    "category": "cosmetic",
+    "aliases": [
+      "minoxidil",
+      "rogaine",
+      "regaine",
+      "minoxidil 2%",
+      "minoxidil 5%"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "avoid"
+    },
+    "summary": "Hair-regrowth drug; avoid pregnancy and nursing",
+    "detail": "Minoxidil is a vasodilating drug applied to the scalp for hair regrowth, and it absorbs through skin. Case reports link its use in pregnancy to fetal abnormalities, and manufacturers advise against use while pregnant. It is also detectable in breast milk, so it should be avoided during breastfeeding as well.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "aluminum-chlorohydrate",
+    "name": "Aluminum Chlorohydrate (Antiperspirant)",
+    "category": "cosmetic",
+    "aliases": [
+      "aluminum chlorohydrate",
+      "aluminium chlorohydrate",
+      "aluminum zirconium tetrachlorohydrex gly",
+      "aluminum chloride",
+      "aluminium salts"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Antiperspirant salts; low absorption, mild caution",
+    "detail": "Aluminum salts plug sweat glands in antiperspirants, and only a very small fraction is absorbed through intact skin. Health agencies have not established that normal antiperspirant use harms a pregnancy, so the risk is low, but limited data and the higher-concentration prescription strengths keep it in the caution column. While nursing, avoid applying it right where an infant's mouth could contact skin.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "dihydroxyacetone",
+    "name": "Dihydroxyacetone (Self-Tanner)",
+    "category": "cosmetic",
+    "aliases": [
+      "dihydroxyacetone",
+      "dha",
+      "self-tanner",
+      "sunless tanner",
+      "erythrulose"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Self-tan lotion likely OK; avoid spray inhalation",
+    "detail": "DHA reacts only with the outermost dead skin cells, so lotion and mousse self-tanners are minimally absorbed and generally considered low risk in pregnancy. The real concern is spray tanning, where DHA can be inhaled or reach the eyes and lips, and inhalation safety has not been established. Prefer rub-on formulas over spray booths in pregnancy and while nursing.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "hydrocortisone-topical",
+    "name": "Hydrocortisone (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "hydrocortisone",
+      "hydrocortisone 1%",
+      "cortisone cream",
+      "topical steroid"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "OTC steroid cream; fine for short small-area use",
+    "detail": "Over-the-counter hydrocortisone cream used briefly on small areas is generally considered acceptable in pregnancy, as absorption is low. Concern rises with potent prescription steroids, large surface areas, or prolonged use, which have been associated with lower birthweight. While breastfeeding, keep it off the nipple area, or wipe before feeds, so the infant does not ingest it.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "NHS",
+        "url": "https://www.nhs.uk/pregnancy/"
+      }
+    ]
+  },
+  {
+    "id": "hyaluronic-acid",
+    "name": "Hyaluronic Acid",
+    "category": "cosmetic",
+    "aliases": [
+      "hyaluronic acid",
+      "sodium hyaluronate",
+      "hydrolyzed hyaluronic acid",
+      "ha"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Hydrating molecule the body already makes",
+    "detail": "Hyaluronic acid is a moisture-binding molecule that occurs naturally throughout the body. Applied to skin it is too large to be absorbed systemically and simply draws water to the surface. It is considered safe to use throughout pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "niacinamide",
+    "name": "Niacinamide",
+    "category": "cosmetic",
+    "aliases": [
+      "niacinamide",
+      "nicotinamide",
+      "vitamin b3",
+      "vitamin b-3"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Well-tolerated vitamin B3 for redness and pores",
+    "detail": "Niacinamide is a form of vitamin B3 used to calm redness, control oil, and support the skin barrier. It is well tolerated, and topical use is considered safe during pregnancy and breastfeeding. It is a popular gentle alternative to retinoids for pregnant users.",
+    "sources": [
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "vitamin-c",
+    "name": "Vitamin C (Ascorbic Acid)",
+    "category": "cosmetic",
+    "aliases": [
+      "vitamin c",
+      "ascorbic acid",
+      "l-ascorbic acid",
+      "sodium ascorbyl phosphate",
+      "magnesium ascorbyl phosphate",
+      "ascorbyl glucoside",
+      "tetrahexyldecyl ascorbate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Antioxidant brightener safe in pregnancy",
+    "detail": "Topical vitamin C is an antioxidant used for brightening and evening skin tone, and it is a well-regarded, pregnancy-safe alternative to retinoids for glow and dark spots. It is an essential nutrient, and skincare concentrations pose no known risk. It is considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "glycerin",
+    "name": "Glycerin",
+    "category": "cosmetic",
+    "aliases": [
+      "glycerin",
+      "glycerine",
+      "glycerol",
+      "propane-1,2,3-triol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Basic humectant; safe for everyone",
+    "detail": "Glycerin is a simple humectant that pulls water into the skin and is one of the most common moisturizing ingredients. It is non-toxic, occurs naturally in the body, and carries no pregnancy or breastfeeding concerns. It is considered safe throughout.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "ceramides",
+    "name": "Ceramides",
+    "category": "cosmetic",
+    "aliases": [
+      "ceramide",
+      "ceramides",
+      "ceramide np",
+      "ceramide ap",
+      "ceramide eop"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Barrier lipids identical to skin's own",
+    "detail": "Ceramides are lipids that make up much of the skin's natural barrier, and the versions in skincare mimic those the body already produces. They stay in the outer skin layers to reinforce the barrier and lock in moisture. They are considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "panthenol",
+    "name": "Panthenol (Provitamin B5)",
+    "category": "cosmetic",
+    "aliases": [
+      "panthenol",
+      "provitamin b5",
+      "dexpanthenol",
+      "d-panthenol",
+      "vitamin b5"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Soothing provitamin B5 humectant",
+    "detail": "Panthenol converts to vitamin B5 in the skin and is used to soothe, hydrate, and support healing. It is gentle and well tolerated, and dexpanthenol creams are even recommended for sore, cracked nipples during breastfeeding. It is considered safe throughout pregnancy and nursing.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "squalane",
+    "name": "Squalane",
+    "category": "cosmetic",
+    "aliases": [
+      "squalane",
+      "squalene",
+      "olive squalane",
+      "sugarcane squalane"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Lightweight emollient similar to skin's oils",
+    "detail": "Squalane is a stable, lightweight oil similar to a lipid the skin naturally produces, used to soften and moisturize. It stays on the skin surface, is non-irritating, and has no pregnancy or breastfeeding concerns. It is considered safe throughout.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "shea-butter",
+    "name": "Shea Butter",
+    "category": "cosmetic",
+    "aliases": [
+      "shea butter",
+      "butyrospermum parkii butter",
+      "karite butter"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Rich plant butter; popular for stretch marks",
+    "detail": "Shea butter is a plant-derived emollient rich in fatty acids, widely used to moisturize and soothe the itchy, stretching skin of pregnancy. It sits on the skin surface with no meaningful absorption. It is considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "aloe-vera",
+    "name": "Aloe Vera",
+    "category": "cosmetic",
+    "aliases": [
+      "aloe vera",
+      "aloe barbadensis leaf juice",
+      "aloe barbadensis leaf extract",
+      "aloe"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Topical gel is soothing and safe",
+    "detail": "Topical aloe vera gel is soothing for sunburn and irritation and is considered safe during pregnancy and breastfeeding. The caution to keep in mind is that oral aloe latex, a laxative, is not recommended when pregnant; that is a different product from the skin gel. Keep aloe products off the nipple where a baby could ingest them.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "colloidal-oatmeal",
+    "name": "Colloidal Oatmeal",
+    "category": "cosmetic",
+    "aliases": [
+      "colloidal oatmeal",
+      "avena sativa kernel flour",
+      "oat kernel flour",
+      "oat extract"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentle anti-itch skin soother",
+    "detail": "Colloidal oatmeal is finely milled oats used to calm itching and inflammation, and it is recognized by the FDA as a skin protectant. It is gentle and stays on the skin surface, making it a favorite for the itchy skin many experience in pregnancy. It is considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "petrolatum",
+    "name": "Petrolatum",
+    "category": "cosmetic",
+    "aliases": [
+      "petrolatum",
+      "petroleum jelly",
+      "white petrolatum",
+      "vaseline",
+      "soft paraffin"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Inert occlusive barrier; safe to use",
+    "detail": "Refined petrolatum is an inert occlusive that seals in moisture and is not absorbed through the skin. It is frequently recommended for chapped skin and cracked nipples during breastfeeding. It is considered safe throughout pregnancy and nursing; choose well-refined cosmetic-grade products.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "dimethicone",
+    "name": "Dimethicone",
+    "category": "cosmetic",
+    "aliases": [
+      "dimethicone",
+      "polydimethylsiloxane",
+      "silicone",
+      "cyclomethicone",
+      "dimethiconol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Inert silicone; sits on skin surface",
+    "detail": "Dimethicone is a silicone that forms a breathable film on the skin, smoothing texture and reducing moisture loss without being absorbed. It is inert and non-irritating, and it is used in products for infants. It is considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "jojoba-oil",
+    "name": "Jojoba Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "jojoba oil",
+      "simmondsia chinensis seed oil",
+      "jojoba"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentle plant emollient; safe carrier oil",
+    "detail": "Jojoba is a lightweight plant wax-ester oil similar to the skin's own sebum, used to moisturize and as a carrier for other ingredients. It is non-irritating and not systemically absorbed. It is considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "coconut-oil",
+    "name": "Coconut Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "coconut oil",
+      "cocos nucifera oil",
+      "virgin coconut oil",
+      "caprylic/capric triglyceride"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Natural moisturizer; safe including on nipples",
+    "detail": "Coconut oil is a natural emollient used to moisturize skin and hair. It is well tolerated and even recommended for soothing sore nipples during breastfeeding, since it is safe if the infant ingests a trace. It is considered safe throughout pregnancy and nursing.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "shea-cocoa-butter",
+    "name": "Cocoa Butter",
+    "category": "cosmetic",
+    "aliases": [
+      "cocoa butter",
+      "theobroma cacao seed butter",
+      "cacao butter"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Classic stretch-mark emollient; safe",
+    "detail": "Cocoa butter is a rich plant fat traditionally used on the belly during pregnancy to soothe stretching, itchy skin. It stays on the surface and is not absorbed. It is considered safe during pregnancy and breastfeeding, though it will not reliably prevent stretch marks despite the marketing.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "urea",
+    "name": "Urea",
+    "category": "cosmetic",
+    "aliases": [
+      "urea",
+      "carbamide",
+      "hydroxyethyl urea"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Moisturizing humectant made by the body",
+    "detail": "Urea is a humectant and mild exfoliant that occurs naturally in skin and helps hydrate dry, rough areas. Cosmetic concentrations are well tolerated and not a pregnancy concern. It is considered safe during pregnancy and breastfeeding, and is distinct from the formaldehyde-releasing urea preservatives.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "allantoin",
+    "name": "Allantoin",
+    "category": "cosmetic",
+    "aliases": [
+      "allantoin",
+      "aluminum dihydroxy allantoinate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentle soothing and skin-conditioning agent",
+    "detail": "Allantoin is a soothing, skin-conditioning ingredient found in many gentle moisturizers and used to calm irritation. It is non-toxic and non-irritating at cosmetic levels. It is considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "bakuchiol",
+    "name": "Bakuchiol",
+    "category": "cosmetic",
+    "aliases": [
+      "bakuchiol",
+      "psoralea corylifolia extract",
+      "babchi extract"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Retinol alternative; still limited pregnancy data",
+    "detail": "Bakuchiol is a plant-derived ingredient marketed as a natural retinol alternative, and unlike true retinoids it is not a vitamin A compound. However, it comes from a plant used in traditional medicine with little formal pregnancy safety testing, so it cannot be firmly called safe. A cautious approach favors well-studied options like vitamin C or azelaic acid in pregnancy and nursing.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "peptides",
+    "name": "Peptides",
+    "category": "cosmetic",
+    "aliases": [
+      "peptides",
+      "palmitoyl pentapeptide-4",
+      "matrixyl",
+      "copper peptides",
+      "acetyl hexapeptide-8",
+      "argireline"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Large protein fragments; minimal absorption",
+    "detail": "Cosmetic peptides are short chains of amino acids used to signal skin repair and firmness. They are generally too large to penetrate deeply, and no pregnancy concerns have been identified for topical use. They are considered a safe, gentle anti-aging option during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "methylisothiazolinone",
+    "name": "Methylisothiazolinone (MI/MCI)",
+    "category": "cosmetic",
+    "aliases": [
+      "methylisothiazolinone",
+      "methylchloroisothiazolinone",
+      "mi",
+      "mci",
+      "kathon cg"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Preservative and major contact allergen",
+    "detail": "Methylisothiazolinone and its partner methylchloroisothiazolinone are preservatives that became one of the leading causes of cosmetic allergic reactions, prompting tighter limits in leave-on products. Systemic absorption is low, so the main issue is skin sensitization rather than a documented pregnancy risk, but rinse-off or preservative-free products are the cautious pick. This applies through pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "coal-tar",
+    "name": "Coal Tar",
+    "category": "cosmetic",
+    "aliases": [
+      "coal tar",
+      "coal tar solution",
+      "pix carbonis",
+      "coal tar extract"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Psoriasis/dandruff agent; contains carcinogens",
+    "detail": "Coal tar treats psoriasis and dandruff but is a complex mixture that includes polycyclic aromatic hydrocarbons, some of which are carcinogens, and it can be absorbed through skin. Brief shampoo contact is a much smaller exposure than thick leave-on applications, but data in pregnancy are limited, so avoid it especially in the first trimester and use only sparingly if needed later. Discuss safer options with your clinician while nursing.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "salicylic-acid-peel",
+    "name": "Salicylic Acid Peel (High-Percentage)",
+    "category": "cosmetic",
+    "aliases": [
+      "salicylic acid peel",
+      "jessner peel",
+      "salicylic peel",
+      "20% salicylic acid",
+      "30% salicylic acid"
+    ],
+    "risks": {
+      "t1": "avoid",
+      "t2": "avoid",
+      "t3": "avoid",
+      "bf": "caution"
+    },
+    "summary": "Professional high-dose salicylate; defer it",
+    "detail": "High-strength salicylic acid peels deliver far more salicylate to the skin than a daily cleanser, raising systemic exposure to an aspirin-like compound that is of particular concern in the third trimester. Because low-percentage rinse-off use is the accepted middle ground, professional peels are best deferred until after pregnancy. While nursing, occasional treatment away from the chest is lower risk but discuss timing with your provider.",
+    "sources": [
+      {
+        "name": "ACOG",
+        "url": "https://www.acog.org/womens-health/faqs/skin-conditions-during-pregnancy"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "zinc-pyrithione",
+    "name": "Zinc Pyrithione",
+    "category": "cosmetic",
+    "aliases": [
+      "zinc pyrithione",
+      "pyrithione zinc",
+      "zpt"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Anti-dandruff active; limited pregnancy data",
+    "detail": "Zinc pyrithione is the active ingredient in many anti-dandruff shampoos. As a rinse-off scalp treatment, skin absorption is limited and no clear pregnancy harm is documented, but formal safety studies are lacking, so it sits at caution. Occasional use is likely low risk in pregnancy and nursing; rinse thoroughly and avoid leaving it on the skin.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "selenium-sulfide",
+    "name": "Selenium Sulfide",
+    "category": "cosmetic",
+    "aliases": [
+      "selenium sulfide",
+      "selenium sulphide",
+      "selsun"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Dandruff/tinea shampoo; use as rinse-off only",
+    "detail": "Selenium sulfide shampoo treats dandruff and fungal scalp conditions. Used as directed on the scalp and rinsed off, absorption through intact skin is minimal and it is generally considered acceptable in pregnancy, though data are limited. Avoid applying it to broken skin, and while breastfeeding keep treated skin away from the infant and rinse well.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "ketoconazole-topical",
+    "name": "Ketoconazole (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "ketoconazole",
+      "ketoconazole shampoo",
+      "nizoral",
+      "ketoconazole 1%",
+      "ketoconazole 2%"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Antifungal shampoo; topical absorption is low",
+    "detail": "Topical ketoconazole treats dandruff and fungal skin conditions, and unlike the oral form it is barely absorbed through skin. Occasional shampoo use is generally considered low risk in pregnancy, but because oral ketoconazole carries stronger warnings, the topical is listed as caution rather than safe. It is compatible with breastfeeding when kept off the nipple area.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "mineral-oil",
+    "name": "Mineral Oil",
+    "category": "cosmetic",
+    "aliases": [
+      "mineral oil",
+      "paraffinum liquidum",
+      "liquid paraffin",
+      "baby oil"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Inert occlusive moisturizer; not absorbed",
+    "detail": "Cosmetic-grade mineral oil is a refined, inert occlusive that seals moisture into the skin without being absorbed. It is widely used in baby products and is not a pregnancy or breastfeeding concern. It is considered safe throughout.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "lanolin",
+    "name": "Lanolin",
+    "category": "cosmetic",
+    "aliases": [
+      "lanolin",
+      "wool wax",
+      "wool grease",
+      "hydrous lanolin",
+      "lanolin alcohol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Emollient; recommended for sore nipples",
+    "detail": "Lanolin is a wax derived from sheep's wool, used as a rich emollient. Purified medical-grade lanolin is a standard recommendation for soothing cracked, sore nipples during breastfeeding and does not need to be wiped off before feeds. It is considered safe during pregnancy and nursing; those with a wool allergy should avoid it.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      }
+    ]
+  },
+  {
+    "id": "tocopherol",
+    "name": "Vitamin E (Tocopherol)",
+    "category": "cosmetic",
+    "aliases": [
+      "tocopherol",
+      "vitamin e",
+      "tocopheryl acetate",
+      "alpha-tocopherol",
+      "d-alpha tocopherol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Antioxidant and skin conditioner; safe topically",
+    "detail": "Topical vitamin E is an antioxidant and emollient used in moisturizers and scar products. At cosmetic concentrations it is considered safe during pregnancy and breastfeeding. It can occasionally cause contact irritation in sensitive skin, but poses no systemic concern.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "witch-hazel",
+    "name": "Witch Hazel",
+    "category": "cosmetic",
+    "aliases": [
+      "witch hazel",
+      "hamamelis virginiana extract",
+      "hamamelis water"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Soothing astringent; often used for hemorrhoids",
+    "detail": "Witch hazel is a plant-derived astringent commonly used topically, including on the pads recommended for the hemorrhoids and perineal soreness that are common around pregnancy. Topical use is considered safe in pregnancy and breastfeeding. Alcohol-heavy formulas can be drying but are not a systemic concern.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "centella-asiatica",
+    "name": "Centella Asiatica (Cica)",
+    "category": "cosmetic",
+    "aliases": [
+      "centella asiatica",
+      "cica",
+      "gotu kola extract",
+      "madecassoside",
+      "asiaticoside"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Soothing barrier-support botanical",
+    "detail": "Centella asiatica, often labeled cica, is a botanical used to calm and support the skin barrier. Topical cosmetic use is well tolerated and considered low risk in pregnancy and breastfeeding. Note that oral gotu kola supplements are a separate exposure and are not recommended while pregnant.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "green-tea-extract",
+    "name": "Green Tea Extract (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "green tea extract",
+      "camellia sinensis leaf extract",
+      "egcg",
+      "epigallocatechin gallate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Antioxidant botanical; safe on skin",
+    "detail": "Topical green tea extract is a soothing antioxidant used in many calming and anti-aging products. Applied to skin at cosmetic levels, it is considered safe during pregnancy and breastfeeding. This is distinct from concentrated oral green tea extract supplements, which carry their own cautions.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "caffeine-topical",
+    "name": "Caffeine (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "caffeine",
+      "topical caffeine",
+      "coffea arabica extract",
+      "caffeine eye cream"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Eye-cream de-puffer; tiny topical dose",
+    "detail": "Caffeine in eye creams and firming products is used to temporarily reduce puffiness, and the amount that can be absorbed through skin is a tiny fraction of what is in a cup of coffee. Topical use is considered safe in pregnancy and breastfeeding. Overall daily caffeine from all sources, mainly beverages, is what clinicians ask you to keep moderate.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "chamomile-extract",
+    "name": "Chamomile Extract (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "chamomile extract",
+      "chamomilla recutita extract",
+      "matricaria extract",
+      "bisabolol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentle soothing botanical for sensitive skin",
+    "detail": "Chamomile extract and its component bisabolol are used to calm sensitive, irritated skin. Topical cosmetic use is gentle and considered safe in pregnancy and breastfeeding. People with ragweed-family allergies may react to it, but it poses no systemic concern.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "calendula",
+    "name": "Calendula",
+    "category": "cosmetic",
+    "aliases": [
+      "calendula",
+      "calendula officinalis extract",
+      "marigold extract"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Soothing botanical balm ingredient",
+    "detail": "Calendula, or pot marigold, is a botanical used in soothing balms and diaper creams. Topical use is gentle and considered safe during pregnancy and breastfeeding, including in many nipple and baby-care products. As with any botanical, discontinue if irritation occurs.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      }
+    ]
+  },
+  {
+    "id": "castor-oil-topical",
+    "name": "Castor Oil (Topical)",
+    "category": "cosmetic",
+    "aliases": [
+      "castor oil",
+      "ricinus communis seed oil",
+      "hydrogenated castor oil"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Topical emollient safe; do not ingest to induce labor",
+    "detail": "Castor oil is a thick emollient used in lip products, brow and lash conditioners, and hair care, and topical cosmetic use is considered safe in pregnancy and breastfeeding. The important caveat is that swallowing castor oil to try to start labor is a folk practice that can cause strong cramping and dehydration and should only be considered under medical supervision. The skincare use and the labor-induction use are entirely different exposures.",
+    "sources": [
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "talc",
+    "name": "Talc",
+    "category": "cosmetic",
+    "aliases": [
+      "talc",
+      "talcum powder",
+      "cosmetic talc",
+      "magnesium silicate"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Loose powder; inhalation and purity concerns",
+    "detail": "Talc in pressed makeup poses little concern, but loose talcum powders raise two issues: the risk of inhaling fine particles, and past reports of asbestos contamination in some products. Skin absorption is not the problem; airborne exposure is. During pregnancy and nursing, prefer talc-free powders and avoid dusting loose powder near the face or a baby, and never apply powder to an infant's genital area.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "ensulizole",
+    "name": "Ensulizole",
+    "category": "cosmetic",
+    "aliases": [
+      "ensulizole",
+      "phenylbenzimidazole sulfonic acid",
+      "pbsa"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Water-soluble chemical UV filter; limited data",
+    "detail": "Ensulizole is a water-soluble chemical sunscreen filter used mainly in light daily-wear products. Like other organic UV filters it carries incomplete pregnancy safety data, so it is grouped with the chemical filters as caution. Mineral sunscreens with zinc oxide or titanium dioxide remain the preferred choice in pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/drugs"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "benzyl-alcohol",
+    "name": "Benzyl Alcohol",
+    "category": "cosmetic",
+    "aliases": [
+      "benzyl alcohol",
+      "phenylmethanol",
+      "benzenemethanol"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "caution"
+    },
+    "summary": "Common preservative; keep off nipple when nursing",
+    "detail": "Benzyl alcohol is a widely used preservative and fragrance component, and at the low levels allowed in cosmetics topical use is considered low risk in pregnancy. The reason for breastfeeding caution is historical: large amounts of benzyl alcohol given to newborns caused toxicity, so it is prudent to keep benzyl-alcohol products off the nipple area. Normal skincare exposure is otherwise minor.",
+    "sources": [
+      {
+        "name": "NIH LactMed",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "sodium-lauryl-sulfate",
+    "name": "Sodium Lauryl Sulfate (SLS/SLES)",
+    "category": "cosmetic",
+    "aliases": [
+      "sodium lauryl sulfate",
+      "sls",
+      "sodium laureth sulfate",
+      "sles",
+      "ammonium lauryl sulfate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Common foaming cleanser; not systemically absorbed",
+    "detail": "Sodium lauryl and laureth sulfate are foaming surfactants in shampoos, cleansers, and body washes. They can be drying or irritating to sensitive skin, but they are rinsed off and not absorbed into the body in any meaningful amount. They are considered safe during pregnancy and breastfeeding.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "cocamidopropyl-betaine",
+    "name": "Cocamidopropyl Betaine",
+    "category": "cosmetic",
+    "aliases": [
+      "cocamidopropyl betaine",
+      "capb"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Mild coconut-derived cleanser",
+    "detail": "Cocamidopropyl betaine is a gentle, coconut-derived surfactant used to create mild lather in cleansers and baby washes. It is a rinse-off ingredient with negligible absorption and no pregnancy or breastfeeding concern. It can occasionally cause contact allergy but is considered safe throughout.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "iron-oxides",
+    "name": "Iron Oxides",
+    "category": "cosmetic",
+    "aliases": [
+      "iron oxides",
+      "ci 77491",
+      "ci 77492",
+      "ci 77499",
+      "iron oxide pigment"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Inert mineral makeup pigments",
+    "detail": "Iron oxides are inert mineral pigments that give foundations, tinted sunscreens, and makeup their color. They sit on the skin surface, are not absorbed, and carry no pregnancy or breastfeeding concern. They are considered safe throughout.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "mica",
+    "name": "Mica",
+    "category": "cosmetic",
+    "aliases": [
+      "mica",
+      "ci 77019",
+      "potassium aluminum silicate"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Shimmer mineral; sits on skin surface",
+    "detail": "Mica is a mineral that adds shimmer and slip to makeup and skincare. It is inert, stays on the skin surface, and is not absorbed, so it poses no pregnancy or breastfeeding concern. It is considered safe throughout.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "ethylhexylglycerin",
+    "name": "Ethylhexylglycerin",
+    "category": "cosmetic",
+    "aliases": [
+      "ethylhexylglycerin",
+      "octoxyglycerin"
+    ],
+    "risks": {
+      "t1": "safe",
+      "t2": "safe",
+      "t3": "safe",
+      "bf": "safe"
+    },
+    "summary": "Gentle preservative-booster and skin conditioner",
+    "detail": "Ethylhexylglycerin is a mild preservative-booster and skin-conditioning agent used at low levels alongside other preservatives. It is well tolerated with no identified pregnancy or breastfeeding concerns. It is considered a safe alternative to more sensitizing preservatives.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      }
+    ]
+  },
+  {
+    "id": "hydroquinone-otc-brighteners",
+    "name": "Alpha Arbutin & Tranexamic Acid (Brighteners)",
+    "category": "cosmetic",
+    "aliases": [
+      "tranexamic acid",
+      "topical tranexamic acid",
+      "cysteamine",
+      "brightening serum"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Newer dark-spot actives; thin pregnancy data",
+    "detail": "Newer topical brighteners such as tranexamic acid and cysteamine are used for melasma, which itself often flares in pregnancy. Topical absorption is generally low, but pregnancy-specific safety data are limited, so they sit at caution rather than safe. Because melasma frequently fades after delivery, many clinicians suggest sun protection plus well-studied options like azelaic acid or vitamin C in the meantime.",
+    "sources": [
+      {
+        "name": "American Academy of Dermatology",
+        "url": "https://www.aad.org/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "dihydroxyacetone-spray",
+    "name": "Spray Tanning (Booth)",
+    "category": "cosmetic",
+    "aliases": [
+      "spray tan",
+      "airbrush tan",
+      "tanning booth",
+      "spray tanning"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "DHA mist can be inhaled; prefer rub-on tanner",
+    "detail": "In a spray-tan booth the active ingredient DHA is aerosolized, so it can be inhaled and reach the eyes, nose, and lips, and the safety of inhaled DHA has not been established. This makes booth spray tans a caution in pregnancy and breastfeeding, even though rub-on self-tan lotions are considered low risk. If you want color, choose a lotion or mousse over a spray.",
+    "sources": [
+      {
+        "name": "FDA",
+        "url": "https://www.fda.gov/cosmetics"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  },
+  {
+    "id": "thallium-depilatory",
+    "name": "Barium Sulfide / Strontium Sulfide Depilatories",
+    "category": "cosmetic",
+    "aliases": [
+      "barium sulfide",
+      "strontium sulfide",
+      "sulfide depilatory"
+    ],
+    "risks": {
+      "t1": "caution",
+      "t2": "caution",
+      "t3": "caution",
+      "bf": "caution"
+    },
+    "summary": "Sulfide hair removers; irritant, limited data",
+    "detail": "Sulfide-based depilatories dissolve hair quickly but are stronger irritants than thioglycolate creams and can absorb through skin if overused. Pregnancy safety data are limited, and pregnancy-related skin sensitivity raises the chance of a burn, so patch testing and short contact times matter. Thioglycolate depilatories or simple shaving are gentler options during pregnancy and nursing.",
+    "sources": [
+      {
+        "name": "EWG Skin Deep",
+        "url": "https://www.ewg.org/skindeep/"
+      },
+      {
+        "name": "MotherToBaby",
+        "url": "https://mothertobaby.org/fact-sheets/"
+      }
+    ]
+  }
+]

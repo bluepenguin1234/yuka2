@@ -1,56 +1,58 @@
-# Welcome to your Expo app 👋
+# Expecta — Pregnancy Safety Scanner
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Yuka for pregnancies.** Scan any product barcode and get a clear pregnancy or breastfeeding
+safety verdict — from clinical research, not forum threads. Verdicts adapt as pregnancy
+progresses and once nursing begins.
 
-## Get started
+> ⚕️ Expecta is informational decision support, not medical advice. See
+> [legal/medical-disclaimer.md](legal/medical-disclaimer.md).
 
-1. Install dependencies
+## What's in this repo
 
-   ```bash
-   npm install
-   ```
+| Path | What it is |
+|---|---|
+| `src/app/` | All screens (Expo Router): onboarding, scanner, verdict, history, profile, paywall, legal |
+| `src/lib/engine.ts` | The verdict engine — conservative ingredient matching + stage-aware ratings |
+| `src/data/safety/` | The proprietary safety database (food + cosmetics, 230 curated entries with clinical sources) |
+| `src/lib/products.ts` | Barcode → product lookup (Open Food Facts + Open Beauty Facts) |
+| `supabase/` | Optional backend: schema, account deletion, AI label reader (Claude) |
+| `docs/` | Build spec, App Store launch runbook, task lists, roadmap, data-source strategy |
+| `legal/` | Privacy policy, terms, medical disclaimer (host these before submission) |
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Run it (fastest path — no Mac needed)
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Scan the QR code with the **Expo Go** app on an iPhone. The full flow works in Expo Go:
+onboarding → camera scanning → verdicts → history. (Subscriptions are stubbed until the
+EAS build — see `docs/TASKS.md`.)
 
-### Other setup steps
+Try barcode `3017620422003` (Nutella) via "Type barcode" if you have nothing to scan.
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+## Test & typecheck
 
-## Learn more
+```bash
+npm test          # verdict-engine unit tests
+npm run typecheck
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## Ship it
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+The complete Windows → App Store runbook is in
+[docs/APP_STORE_LAUNCH.md](docs/APP_STORE_LAUNCH.md). The short version:
 
-## Join the community
+```bash
+npm i -g eas-cli
+eas login
+eas build --platform ios          # cloud macOS build, no Mac required
+eas submit --platform ios         # → TestFlight → App Review
+```
 
-Join our community of developers creating universal apps.
+## Where to start reading
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1. [docs/OVERVIEW.md](docs/OVERVIEW.md) — everything, in one place
+2. [docs/BUILD_SPEC.md](docs/BUILD_SPEC.md) — the full product + technical spec
+3. [docs/TASKS.md](docs/TASKS.md) — who does what to reach the App Store fastest
