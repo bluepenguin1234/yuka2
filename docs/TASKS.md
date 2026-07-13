@@ -2,6 +2,11 @@
 
 *Two lists, honestly divided. Everything not on your list, I do.*
 
+**Status 2026-07-13 (evening):** GitHub repo live (bluepenguin1234/yuka2) · GitHub Pages
+live (privacy URL: https://bluepenguin1234.github.io/yuka2/privacy.html) · EAS project
+linked (@suchanekbs/mamama) · icon set + store copy + beta kit done · DB at 308 entries.
+**The ONLY remaining blocker for TestFlight is Apple Developer enrollment (#1).**
+
 ## ✅ Already done (2026-07-13)
 
 Full app built and typechecked (scanner, verdict engine, ~240-entry cited safety DB,
