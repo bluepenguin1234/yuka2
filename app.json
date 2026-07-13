@@ -24,7 +24,10 @@
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.CAMERA"
+      ]
     },
     "web": {
       "output": "static",
@@ -43,13 +46,21 @@
       [
         "expo-camera",
         {
-          "cameraPermission": "Mamama uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
+          "cameraPermission": "Mamama uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored.",
+          "microphonePermission": false
         }
       ]
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "owner": "suchanekbs",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e87b7238-2196-422e-888d-1d5046d75188"
+      }
     }
   }
 }
