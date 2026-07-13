@@ -79,7 +79,7 @@ export default function StageSelect() {
                 style={[styles.input, !dueDateValid && styles.inputError]}
               />
               <Text style={styles.dueDateHint}>
-                With a due date, Expecta advances your trimester automatically.
+                With a due date, Mamama advances your trimester automatically.
               </Text>
             </View>
           )}

@@ -16,7 +16,7 @@ this documentation set, git repo initialized.
 | 1 | **Enroll in Apple Developer Program** ($99/yr). Recommended: as an LLC (see APP_STORE_LAUNCH.md Phase 0 — D-U-N-S takes ~5 days, start now). Individual is faster but weaker for a health app. | 15 min + wait | Everything |
 | 2 | **Create free Expo account** at expo.dev, then run `eas login` once | 5 min | Builds |
 | 3 | **Test in Expo Go**: `npm install && npx expo start`, scan QR with iPhone, run the flow, scan ~10 real products | 30 min | Confidence |
-| 4 | **Decide the name.** "Expecta" is my working name; App Store name ≤30 chars. Check name availability in App Store Connect when creating the app | 10 min | Store listing |
+| 4 | **Decide the name.** "Mamama" is my working name; App Store name ≤30 chars. Check name availability in App Store Connect when creating the app | 10 min | Store listing |
 | 5 | **Host privacy policy + terms** (fastest: enable GitHub Pages on the yuka2 repo → I've written the files in legal/) and paste URLs into App Store Connect | 15 min | Submission |
 | 6 | **Create the app record** in App Store Connect + privacy nutrition labels (exact answers written in APP_STORE_LAUNCH.md Phase 3) | 30 min | Submission |
 | 7 | **Approve screenshots + store copy** (I draft, you approve) | 15 min | Submission |

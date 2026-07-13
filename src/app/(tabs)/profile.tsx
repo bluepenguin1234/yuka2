@@ -85,7 +85,7 @@ export default function Profile() {
         <Text style={styles.sectionLabel}>Premium</Text>
         <View style={styles.card}>
           <Text style={styles.cardTitle}>
-            {profile.premium ? 'Expecta Premium — active' : 'Expecta Premium'}
+            {profile.premium ? 'Mamama Premium — active' : 'Mamama Premium'}
           </Text>
           <Text style={styles.cardBody}>
             AI label reading, safer alternatives, synced history, and new categories as they launch.
@@ -134,7 +134,7 @@ export default function Profile() {
           <LegalLink label="Medical disclaimer" onPress={() => router.push('/legal/disclaimer')} />
           <LegalLink label="Privacy policy" onPress={() => router.push('/legal/privacy')} />
           <LegalLink label="Terms of use" onPress={() => router.push('/legal/terms')} />
-          <Text style={styles.version}>Expecta 1.0.0 · data: Open Food Facts / Open Beauty Facts</Text>
+          <Text style={styles.version}>Mamama 1.0.0 · data: Open Food Facts / Open Beauty Facts</Text>
         </View>
       </ScrollView>
     </SafeAreaView>

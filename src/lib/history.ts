@@ -1,7 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import type { HistoryItem } from './types';
 
-const STORAGE_KEY = 'expecta_history_v1';
+const STORAGE_KEY = 'mamama_history_v1';
 const MAX_ITEMS = 200;
 
 export async function getHistory(): Promise<HistoryItem[]> {

@@ -33,13 +33,13 @@ eas build --platform ios --profile production
 ```
 - EAS builds on Expo's macOS VMs and **auto-creates signing credentials** — say yes to
   letting EAS manage certificates/profiles when prompted (needs the Apple Developer login).
-- Bundle ID is already set: `com.expecta.app` (change in `app.json` if you own a domain
-  and prefer e.g. `io.expecta.app` — decide BEFORE first build).
+- Bundle ID is already set: `com.mamama.app` (change in `app.json` if you own a domain
+  and prefer e.g. `io.mamama.app` — decide BEFORE first build).
 
 ## Phase 3 — App Store Connect setup
 
-1. appstoreconnect.apple.com → My Apps → **＋ New App**: iOS, name **Expecta — Pregnancy
-   Scanner** (≤30 chars), primary language EN-US, bundle ID from Phase 2, SKU `expecta-001`.
+1. appstoreconnect.apple.com → My Apps → **＋ New App**: iOS, name **Mamama — Pregnancy
+   Scanner** (≤30 chars), primary language EN-US, bundle ID from Phase 2, SKU `mamama-001`.
 2. Note the **Apple ID number** of the app → paste into `eas.json` → `submit.production.ios.ascAppId`.
 3. **App Privacy (nutrition labels)** — declare honestly:
    - Data collected: *Health & Fitness* (pregnancy stage — only if Supabase accounts are on),
@@ -47,7 +47,7 @@ eas build --platform ios --profile production
      third-party advertising. If shipping WITHOUT Supabase env vars: "Data Not Collected"
      (barcode lookups to Open Food Facts carry no identity).
 4. **Privacy policy URL** — host `legal/privacy-policy.md` (fastest: GitHub Pages on the
-   yuka2 repo, or expecta.app if you buy the domain). Also required in-app: already in
+   yuka2 repo, or mamama.app if you buy the domain). Also required in-app: already in
    Profile → legal.
 5. Age rating questionnaire: Medical/Treatment Information = "Infrequent/Mild"; 12+ typical.
 6. Category: **Health & Fitness** (primary), Medical (secondary alternative: leave empty —
@@ -55,9 +55,9 @@ eas build --platform ios --profile production
 
 ## Phase 4 — Subscriptions (can follow the free launch — see note)
 
-App Store Connect → Features → In-App Purchases → Subscription group "Expecta Premium" →
-three auto-renewable yearly products: `expecta_premium_annual_10` $9.99,
-`expecta_premium_annual_15` $14.99, `expecta_premium_annual_20` $19.99. Wire RevenueCat per
+App Store Connect → Features → In-App Purchases → Subscription group "Mamama Premium" →
+three auto-renewable yearly products: `mamama_premium_annual_10` $9.99,
+`mamama_premium_annual_15` $14.99, `mamama_premium_annual_20` $19.99. Wire RevenueCat per
 BUILD_SPEC §9, rebuild, resubmit.
 
 **Speed play (recommended): submit v1.0 free-only** (paywall hidden until
@@ -80,7 +80,7 @@ eas submit --platform ios --latest
 
 Metadata to prepare (I can draft all copy — say the word). Full conversion strategy:
 [GROWTH_PLAYBOOK.md](GROWTH_PLAYBOOK.md).
-- Title `Expecta: Pregnancy Scanner` · subtitle `Food & cosmetic safety check` (no repeated
+- Title `Mamama: Pregnancy Scanner` · subtitle `Food & cosmetic safety check` (no repeated
   words between them — every word is an ASO keyword).
 - Keyword field: `breastfeeding,nursing,ingredients,trimester,barcode,baby,safe,expecting,mom,label`.
 - Screenshots: 6.9" (1320×2868) + 6.5" (1284×2778) sets. First screenshot = verdict screen
@@ -88,7 +88,7 @@ Metadata to prepare (I can draft all copy — say the word). Full conversion str
   6-shot set). Take on-device from TestFlight; frame in Figma/Canva.
 - Description + promo text (outcome-led), support URL (GitHub Pages page is fine).
 - **App Review notes (paste-ready template):**
-  > Expecta is an informational decision-support tool for expecting and nursing mothers. It
+  > Mamama is an informational decision-support tool for expecting and nursing mothers. It
   > is not a medical device and provides no diagnosis or treatment. Verdicts summarize
   > published guidance from MotherToBaby (OTIS), the NIH Drugs and Lactation Database
   > (LactMed), ACOG, FDA, NHS and EFSA; every ingredient rating cites its sources in-app,

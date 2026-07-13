@@ -1,4 +1,4 @@
-# Expecta — Comprehensive Overview
+# Mamama — Comprehensive Overview
 
 *Everything we need moving forward, in one document. Last updated: 2026-07-13.*
 
@@ -7,9 +7,9 @@
 A mobile app ("Yuka for pregnancies") that scans a product barcode at the shelf and returns a
 clear **pregnancy / breastfeeding safety verdict with reasoning**, cross-referencing
 ingredients against clinical safety guidance. What-to-Expect forums leave a mother piecing
-answers together herself; Expecta gives the verdict at the shelf, from clinical research.
+answers together herself; Mamama gives the verdict at the shelf, from clinical research.
 
-**Working name:** Expecta (inferred from your pitch — trivially changeable in `app.json`,
+**Working name:** Mamama (inferred from your pitch — trivially changeable in `app.json`,
 one find-and-replace before submission if you want something else).
 
 ## 2. Product principles
@@ -52,12 +52,12 @@ one find-and-replace before submission if you want something else).
 
 Research finding: Yuka **forces** name+email+password signup before scanning. Apple guideline
 5.1.1 ("let people use the app without a login if it lacks significant account-based
-features") makes copying that a top rejection risk for a new app. So Expecta keeps Yuka's
+features") makes copying that a top rejection risk for a new app. So Mamama keeps Yuka's
 exact flow shape but makes the account step skippable. Same feel, compliant.
 
 Yuka's pricing (researched): **annual-only "choose your price"** — three tiers (~$10/$15/$20),
-identical features, framed as supporting independence (no ads, no data sales). Expecta adopts
-exactly this: `expecta_premium_annual_10/15/20`.
+identical features, framed as supporting independence (no ads, no data sales). Mamama adopts
+exactly this: `mamama_premium_annual_10/15/20`.
 
 Free: unlimited scanning + verdicts (trust compounds; a mother who relied on it for one baby
 pulls it out again for the next). Premium: AI label reader, alternatives, search-without-scan,

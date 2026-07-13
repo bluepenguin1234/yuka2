@@ -12,7 +12,7 @@ const STAGE_LABELS: Record<string, string> = {
   bf: 'breastfeeding',
 };
 
-const SYSTEM_PROMPT = `You are the analysis engine for Expecta, a pregnancy-safety scanner.
+const SYSTEM_PROMPT = `You are the analysis engine for Mamama, a pregnancy-safety scanner.
 You receive a photo of a product's ingredient label and the user's stage.
 Rules:
 - Transcribe the ingredient list, then assess each ingredient against published clinical

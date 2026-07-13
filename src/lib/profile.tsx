@@ -2,7 +2,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { createContext, useContext, useEffect, useMemo, useState } from 'react';
 import type { Profile, Stage } from './types';
 
-const STORAGE_KEY = 'expecta_profile_v1';
+const STORAGE_KEY = 'mamama_profile_v1';
 
 export const DEFAULT_PROFILE: Profile = {
   onboarded: false,

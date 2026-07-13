@@ -19,9 +19,9 @@ export interface Plan {
 }
 
 export const PLANS: Plan[] = [
-  { id: 'expecta_premium_annual_10', label: 'Supporter', price: '$9.99', period: 'year' },
-  { id: 'expecta_premium_annual_15', label: 'Believer', price: '$14.99', period: 'year', isDefault: true },
-  { id: 'expecta_premium_annual_20', label: 'Champion', price: '$19.99', period: 'year' },
+  { id: 'mamama_premium_annual_10', label: 'Supporter', price: '$9.99', period: 'year' },
+  { id: 'mamama_premium_annual_15', label: 'Believer', price: '$14.99', period: 'year', isDefault: true },
+  { id: 'mamama_premium_annual_20', label: 'Champion', price: '$19.99', period: 'year' },
 ];
 
 export const PREMIUM_FEATURES = [

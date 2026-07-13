@@ -1,8 +1,8 @@
-# Expecta Privacy Policy
+# Mamama Privacy Policy
 
 **Effective date: 2026-07-13**
 
-Expecta ("we," "us") is built on a simple position: your pregnancy is not a data product.
+Mamama ("we," "us") is built on a simple position: your pregnancy is not a data product.
 This policy explains what the app handles, what we store, and your choices.
 
 ## The short version
@@ -49,7 +49,7 @@ to train models and are not stored by us.
 
 ## Children
 
-Expecta is intended for adults and is not directed at children under 13.
+Mamama is intended for adults and is not directed at children under 13.
 
 ## Changes
 
@@ -59,5 +59,5 @@ be announced in the app.
 ## Contact
 
 Questions or requests (including data deletion without an account — though there's nothing
-for us to delete): **support@expecta.app** <!-- TODO: replace with the live support email
+for us to delete): **support@mamama.app** <!-- TODO: replace with the live support email
 before submission -->

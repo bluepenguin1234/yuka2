@@ -6,9 +6,9 @@ export interface LegalDoc {
 export const LEGAL_DOCS: Record<'disclaimer' | 'privacy' | 'terms', LegalDoc> = {
   disclaimer: {
     title: 'Medical disclaimer',
-    body: `Expecta is an informational tool, not a medical device and not a source of medical advice.
+    body: `Mamama is an informational tool, not a medical device and not a source of medical advice.
 
-Verdicts summarize published guidance from sources such as MotherToBaby (OTIS), the NIH Drugs and Lactation Database (LactMed), ACOG, the FDA, the NHS, and EFSA. Evidence in pregnancy and lactation is often limited, and sources sometimes disagree; where they do, Expecta deliberately shows the more cautious rating.
+Verdicts summarize published guidance from sources such as MotherToBaby (OTIS), the NIH Drugs and Lactation Database (LactMed), ACOG, the FDA, the NHS, and EFSA. Evidence in pregnancy and lactation is often limited, and sources sometimes disagree; where they do, Mamama deliberately shows the more cautious rating.
 
 A verdict of "No flags found" means nothing in the product matched a known concern in our database for your stage — it is not a guarantee of safety. A verdict of "Limited data" means we could not verify enough of the ingredient list to say anything confident.
 
@@ -29,9 +29,9 @@ If you believe you have been exposed to something harmful, contact your healthca
   },
   terms: {
     title: 'Terms of use (summary)',
-    body: `By using Expecta you agree to the full terms published at the URL on our App Store page. In short:
+    body: `By using Mamama you agree to the full terms published at the URL on our App Store page. In short:
 
-• Expecta provides informational content only (see the medical disclaimer). You retain responsibility for decisions about your health and your child's health.
+• Mamama provides informational content only (see the medical disclaimer). You retain responsibility for decisions about your health and your child's health.
 • Premium is an optional auto-renewable yearly subscription handled by Apple. It renews unless cancelled at least 24 hours before the period ends; manage it in your App Store account settings.
 • Product information is drawn from public databases and manufacturer labels which may be incomplete or out of date. Formulations change — always check the physical label.
 • We may update the safety database, verdict logic, and features over time as evidence and coverage evolve.

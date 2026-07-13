@@ -30,11 +30,11 @@ export default function Paywall() {
           <Text style={styles.closeText}>✕</Text>
         </Pressable>
 
-        <Text style={styles.kicker}>Expecta Premium</Text>
+        <Text style={styles.kicker}>Mamama Premium</Text>
         <Text style={type.title}>Pick the price that feels right</Text>
         <Text style={styles.sub}>
           Same features at every tier — one year of Premium. Your subscription funds database
-          updates and keeps Expecta independent: no ads, no selling data. Ever.
+          updates and keeps Mamama independent: no ads, no selling data. Ever.
         </Text>
 
         <View style={styles.features}>

@@ -1,10 +1,10 @@
-# Expecta — Pregnancy Safety Scanner
+# Mamama — Pregnancy Safety Scanner
 
 **Yuka for pregnancies.** Scan any product barcode and get a clear pregnancy or breastfeeding
 safety verdict — from clinical research, not forum threads. Verdicts adapt as pregnancy
 progresses and once nursing begins.
 
-> ⚕️ Expecta is informational decision support, not medical advice. See
+> ⚕️ Mamama is informational decision support, not medical advice. See
 > [legal/medical-disclaimer.md](legal/medical-disclaimer.md).
 
 ## What's in this repo

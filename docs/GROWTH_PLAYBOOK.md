@@ -1,6 +1,6 @@
 # Growth & Conversion Playbook
 
-*The four mechanics that decide whether Expecta makes money, adapted to this product.
+*The four mechanics that decide whether Mamama makes money, adapted to this product.
 v1.0 launches free-only to build trust and scan volume; this playbook drives v1.1+.*
 
 ## Mechanic 1 — The App Store page
@@ -28,7 +28,7 @@ Order of importance: screenshots → reviews → name/subtitle → icon.
 
 **Name & subtitle = ASO surface.** No repeated words between title and subtitle; every word
 a search keyword.
-- Title: `Expecta: Pregnancy Scanner` (30 chars ✓)
+- Title: `Mamama: Pregnancy Scanner` (30 chars ✓)
 - Subtitle: `Food & cosmetic safety check` (28 chars ✓ — no word repeats with title)
 - Keyword field: `breastfeeding,nursing,ingredients,trimester,barcode,baby,safe,expecting,mom,label`
   (title/subtitle words are already indexed — don't repeat them here)

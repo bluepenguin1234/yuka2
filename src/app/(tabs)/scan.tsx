@@ -64,7 +64,7 @@ export default function Scan() {
         <Text style={styles.permissionEmoji}>📷</Text>
         <Text style={type.title}>Ready to check your first product?</Text>
         <Text style={styles.permissionBody}>
-          Expecta uses the camera only to read product barcodes. Nothing is photographed or stored.
+          Mamama uses the camera only to read product barcodes. Nothing is photographed or stored.
         </Text>
         <Button label="Enable camera" onPress={requestPermission} />
         <Button label="Type a barcode instead" variant="ghost" onPress={() => setManualOpen(true)} />

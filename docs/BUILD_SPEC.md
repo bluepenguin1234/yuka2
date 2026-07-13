@@ -1,4 +1,4 @@
-# Expecta — Full Build Specification (v1.0)
+# Mamama — Full Build Specification (v1.0)
 
 *Standalone spec: an engineer or agent with only this document and the repo can continue the
 build. Status markers: ✅ built · 🔧 stubbed (wire in EAS-build phase) · 🔜 next release.*
@@ -78,7 +78,7 @@ SafetyEntry {
 ```
 
 Profile: `{onboarded, stage, dueDate?, email?, premium}` in AsyncStorage
-(`expecta_profile_v1`). History: last 200 scans (`expecta_history_v1`).
+(`mamama_profile_v1`). History: last 200 scans (`mamama_history_v1`).
 
 ## 5. Verdict engine (src/lib/engine.ts) — the heart
 
@@ -159,8 +159,8 @@ Client env: `EXPO_PUBLIC_SUPABASE_URL` + `EXPO_PUBLIC_SUPABASE_ANON_KEY` (.env, 
 
 ## 9. Monetization wiring (🔧 EAS-build phase)
 
-1. App Store Connect: create 3 auto-renewable subscriptions in one group ("Expecta Premium"):
-   `expecta_premium_annual_10/15/20` @ $9.99/$14.99/$19.99 per year.
+1. App Store Connect: create 3 auto-renewable subscriptions in one group ("Mamama Premium"):
+   `mamama_premium_annual_10/15/20` @ $9.99/$14.99/$19.99 per year.
 2. RevenueCat: free account → attach the 3 products to one "premium" entitlement.
 3. `npx expo install react-native-purchases` (requires dev build, not Expo Go).
 4. Replace the stub in `src/lib/purchases.ts`: `Purchases.configure({apiKey})`,

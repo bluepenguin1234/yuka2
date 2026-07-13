@@ -36,7 +36,7 @@ export async function fetchProduct(barcode: string): Promise<ProductLookup> {
       const timer = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
       const res = await fetch(`${source.base}${encodeURIComponent(barcode)}.json?fields=${FIELDS}`, {
         signal: controller.signal,
-        headers: { 'User-Agent': 'Expecta/1.0 (pregnancy-safety scanner; support@expecta.app)' },
+        headers: { 'User-Agent': 'Mamama/1.0 (pregnancy-safety scanner; support@mamama.app)' },
       });
       clearTimeout(timer);
       if (res.status === 404) continue;

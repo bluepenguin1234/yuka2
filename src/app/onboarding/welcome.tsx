@@ -27,7 +27,7 @@ const SLIDES = [
     key: 'stage',
     emoji: '🌱',
     title: 'Made for\nyour stage',
-    body: 'Safety shifts as pregnancy progresses and once nursing begins. Expecta adjusts every verdict to exactly where you are.',
+    body: 'Safety shifts as pregnancy progresses and once nursing begins. Mamama adjusts every verdict to exactly where you are.',
   },
   {
     key: 'trust',
@@ -58,7 +58,7 @@ export default function Welcome() {
     <LinearGradient colors={[colors.bg, colors.brandSoft]} style={styles.fill}>
       <SafeAreaView style={styles.fill}>
         <View style={styles.brandRow}>
-          <Text style={styles.brand}>expecta</Text>
+          <Text style={styles.brand}>mamama</Text>
         </View>
         <FlatList
           ref={listRef}

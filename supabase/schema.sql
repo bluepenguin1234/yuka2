@@ -1,4 +1,4 @@
--- Expecta backend schema (Supabase / Postgres)
+-- Mamama backend schema (Supabase / Postgres)
 -- Apply with: supabase db push, or paste into the SQL editor.
 -- The app works without any of this; these tables switch on accounts,
 -- cross-device sync, coverage telemetry, and OTA safety-database updates.

@@ -7,7 +7,7 @@ export function Disclaimer() {
     <View style={styles.card}>
       <Text style={styles.title}>Not medical advice</Text>
       <Text style={styles.body}>
-        Expecta summarizes published safety guidance to help you ask better questions — it is not a
+        Mamama summarizes published safety guidance to help you ask better questions — it is not a
         substitute for professional medical advice, diagnosis, or treatment. Always talk to your
         doctor, midwife, or pharmacist about products and ingredients, especially before changing
         anything about your diet, skincare, or medications.

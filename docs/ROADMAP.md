@@ -19,7 +19,7 @@ every scan either validates coverage or points at the next gap.
 ## v1.2 — Trust loop (months 2–3)
 - Safer-alternatives engine ("this moisturizer instead") — starts editorial, becomes data
 - Search without scanning (premium)
-- Share cards ("Expecta says…") sized for Instagram stories + parenting forums — the
+- Share cards ("Mamama says…") sized for Instagram stories + parenting forums — the
   organic growth mechanic: every shared verdict is an ad with a citation
 - In-app "was this verdict helpful?" → verdict-quality telemetry
 - Exit offer on "Manage subscription": questionnaire → ~$24.99/yr retention offer for
@@ -32,7 +32,7 @@ every scan either validates coverage or points at the next gap.
   now with a justification for accounts)
 - Coverage dashboards from coverage_demand → publish "most-asked products" content (SEO)
 - Healthcare partnerships: OB/midwife practices hand patients a QR code; practice-branded
-  onboarding. Positions Expecta as the thing providers recommend instead of "don't Google it"
+  onboarding. Positions Mamama as the thing providers recommend instead of "don't Google it"
 - Data licensing conversations (aggregate, anonymized category-demand insights for CPG) —
   never individual health data
 

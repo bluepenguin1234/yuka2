@@ -1,23 +1,23 @@
 {
   "expo": {
-    "name": "Expecta",
-    "slug": "expecta",
+    "name": "Mamama",
+    "slug": "mamama",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "expecta",
+    "scheme": "mamama",
     "userInterfaceStyle": "light",
     "ios": {
-      "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.expecta.app",
+      "icon": "./assets/images/icon.png",
+      "bundleIdentifier": "com.mamama.app",
       "buildNumber": "1",
       "supportsTablet": false,
       "infoPlist": {
-        "NSCameraUsageDescription": "Expecta uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
+        "NSCameraUsageDescription": "Mamama uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
       }
     },
     "android": {
-      "package": "com.expecta.app",
+      "package": "com.mamama.app",
       "adaptiveIcon": {
         "backgroundColor": "#FBF7F1",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
@@ -43,7 +43,7 @@
       [
         "expo-camera",
         {
-          "cameraPermission": "Expecta uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
+          "cameraPermission": "Mamama uses the camera only to read product barcodes so it can check ingredients for pregnancy and breastfeeding safety. No photos are taken or stored."
         }
       ]
     ],

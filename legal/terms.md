@@ -1,12 +1,12 @@
-# Expecta Terms of Use
+# Mamama Terms of Use
 
 **Effective date: 2026-07-13**
 
-By downloading or using Expecta, you agree to these terms.
+By downloading or using Mamama, you agree to these terms.
 
-## 1. What Expecta is (and isn't)
+## 1. What Mamama is (and isn't)
 
-Expecta provides informational summaries of published safety guidance for expecting and
+Mamama provides informational summaries of published safety guidance for expecting and
 nursing mothers. It is **not** a medical device and provides **no medical advice, diagnosis,
 or treatment**. The [Medical Disclaimer](medical-disclaimer.md) is part of these terms. You
 remain responsible for decisions about your health and your child's health, in consultation
@@ -28,7 +28,7 @@ your synced data.
 
 ## 4. Premium subscription
 
-Expecta Premium is an optional auto-renewable yearly subscription purchased through Apple.
+Mamama Premium is an optional auto-renewable yearly subscription purchased through Apple.
 Payment is charged to your Apple ID at confirmation of purchase. The subscription renews
 automatically unless cancelled at least 24 hours before the end of the current period; manage
 or cancel in your App Store account settings. Prices are shown in the app before purchase.
@@ -60,4 +60,4 @@ announced in the app. Continued use after changes means acceptance.
 
 ## 9. Contact
 
-**support@expecta.app** <!-- TODO: replace with the live support email before submission -->
+**support@mamama.app** <!-- TODO: replace with the live support email before submission -->

@@ -1,8 +1,8 @@
-# Expecta Medical Disclaimer
+# Mamama Medical Disclaimer
 
 **Effective date: 2026-07-13**
 
-Expecta is an informational tool. It is **not a medical device**, does not provide medical
+Mamama is an informational tool. It is **not a medical device**, does not provide medical
 advice, diagnosis, or treatment, and is not a substitute for the judgment of a qualified
 healthcare professional.
 
@@ -11,7 +11,7 @@ Verdicts shown in the app summarize published guidance from sources including Mo
 Database (LactMed), the American College of Obstetricians and Gynecologists (ACOG), the U.S.
 Food and Drug Administration (FDA), the UK National Health Service (NHS), and the European
 Food Safety Authority (EFSA). Evidence about exposures in pregnancy and lactation is often
-limited, and reputable sources sometimes disagree. Where they disagree, Expecta deliberately
+limited, and reputable sources sometimes disagree. Where they disagree, Mamama deliberately
 displays the more cautious rating.
 
 - A verdict of **"No flags found"** means no ingredient in the product matched a known
