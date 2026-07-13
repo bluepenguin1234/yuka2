@@ -4,6 +4,7 @@ import { Alert, Pressable, ScrollView, StyleSheet, Text, View } from 'react-nati
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Button } from '../../components/Button';
 import { clearHistory } from '../../lib/history';
+import { BILLING_AVAILABLE } from '../../lib/purchases';
 import { currentStage, stageLabel, useProfile } from '../../lib/profile';
 import { deleteAccount, isSupabaseConfigured, supabase } from '../../lib/supabase';
 import { colors, radius, space, type } from '../../lib/theme';
@@ -82,16 +83,24 @@ export default function Profile() {
           </Text>
         )}
 
-        <Text style={styles.sectionLabel}>Premium</Text>
-        <View style={styles.card}>
-          <Text style={styles.cardTitle}>
-            {profile.premium ? 'Mamama Premium — active' : 'Mamama Premium'}
-          </Text>
-          <Text style={styles.cardBody}>
-            AI label reading, safer alternatives, synced history, and new categories as they launch.
-          </Text>
-          <Button label="View plans" variant="secondary" onPress={() => router.push('/paywall')} />
-        </View>
+        {/* Premium stays hidden until purchases are wired (RevenueCat, v1.1).
+            A visible but non-functional purchase flow is an App Review
+            rejection risk (guideline 2.1) — v1.0 ships free-only. */}
+        {BILLING_AVAILABLE && (
+          <>
+            <Text style={styles.sectionLabel}>Premium</Text>
+            <View style={styles.card}>
+              <Text style={styles.cardTitle}>
+                {profile.premium ? 'Mamama Premium — active' : 'Mamama Premium'}
+              </Text>
+              <Text style={styles.cardBody}>
+                AI label reading, safer alternatives, synced history, and new categories as they
+                launch.
+              </Text>
+              <Button label="View plans" variant="secondary" onPress={() => router.push('/paywall')} />
+            </View>
+          </>
+        )}
 
         <Text style={styles.sectionLabel}>Account</Text>
         <View style={styles.card}>
