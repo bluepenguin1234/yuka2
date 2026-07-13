@@ -1,0 +1,952 @@
+[
+  {
+    "id": "retinyl-palmitate-supplement",
+    "name": "Vitamin A (Retinyl Palmitate, high-dose)",
+    "category": "food",
+    "aliases": ["retinyl palmitate", "retinol supplement", "preformed vitamin a", "vitamin a palmitate", "high dose vitamin a"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "caution" },
+    "summary": "High-dose preformed vitamin A is teratogenic",
+    "detail": "Preformed vitamin A (retinol/retinyl palmitate) from supplements is teratogenic at high doses, with the first trimester the most sensitive window for birth defects. The usual prenatal amount (around 770 mcg, often as beta-carotene) is fine, but standalone high-dose vitamin A supplements and cod liver oil should be avoided. Beta-carotene from food and supplements is not converted excessively and is not a concern.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Vitamin A", "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/" },
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" }
+    ]
+  },
+  {
+    "id": "vitamin-e-high-dose",
+    "name": "Vitamin E (high-dose supplement)",
+    "category": "food",
+    "aliases": ["vitamin e", "alpha-tocopherol", "tocopherol supplement", "high dose vitamin e"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "safe" },
+    "summary": "High-dose vitamin E not proven safe or beneficial",
+    "detail": "The small amount of vitamin E in a prenatal is fine, but high-dose supplements are not recommended in pregnancy. Trials combining high-dose vitamin E with vitamin C found no benefit and some signals of harm, so routine supplementation above dietary needs is discouraged. Normal dietary intake and prenatal levels are considered safe while breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Vitamin E", "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "vitamin-b6-supplement",
+    "name": "Vitamin B6 (Pyridoxine)",
+    "category": "food",
+    "aliases": ["vitamin b6", "pyridoxine", "pyridoxal", "b6 supplement"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Commonly used for morning sickness",
+    "detail": "Vitamin B6 is widely used and recommended for pregnancy nausea, typically at 10 to 25 mg a few times daily, and is considered safe in that range. Very high, prolonged doses (well above 100 mg/day) can cause reversible nerve symptoms, so stay within recommended amounts. B6 is compatible with breastfeeding, though extremely high doses may reduce milk supply.",
+    "sources": [
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" },
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "choline-supplement",
+    "name": "Choline",
+    "category": "food",
+    "aliases": ["choline", "choline bitartrate", "phosphatidylcholine"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Supports fetal brain development",
+    "detail": "Choline is an essential nutrient important for fetal brain and neural development, and many prenatal vitamins under-supply it. Intakes around 450 mg/day in pregnancy and 550 mg/day while breastfeeding are recommended and considered safe. Doses far above the tolerable upper limit (3,500 mg/day) can cause low blood pressure and a fishy body odor.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Choline", "url": "https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "fish-oil-supplement",
+    "name": "Fish Oil (EPA/DHA supplement)",
+    "category": "food",
+    "aliases": ["fish oil", "epa dha supplement", "omega-3 supplement", "algae oil dha", "prenatal dha"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Generally safe; avoid cod liver oil form",
+    "detail": "Purified fish oil or algal DHA supplements are generally considered safe and are often recommended to support fetal brain and eye development. Choose products tested for mercury and other contaminants, and avoid cod liver oil, which is high in preformed vitamin A. DHA passes into breast milk and supports infant development.",
+    "sources": [
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" },
+      { "name": "NIH Office of Dietary Supplements: Omega-3", "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "cod-liver-oil",
+    "name": "Cod Liver Oil",
+    "category": "food",
+    "aliases": ["cod liver oil", "fish liver oil"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "High preformed vitamin A content",
+    "detail": "Cod liver oil supplies omega-3s but is also high in preformed vitamin A (retinol), which is teratogenic at high doses, especially in the first trimester. A standard purified fish oil or algal DHA supplement is a safer way to get omega-3s in pregnancy. If omega-3 supplementation is desired, choose a product that is not liver-derived.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Vitamin A", "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "zinc-supplement",
+    "name": "Zinc (supplement)",
+    "category": "food",
+    "aliases": ["zinc", "zinc gluconate", "zinc picolinate", "zinc citrate"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Safe at normal doses; high doses caution",
+    "detail": "Zinc at prenatal doses (around 11 mg/day in pregnancy, 12 mg/day while breastfeeding) is safe and needed. High-dose supplements above the upper limit of 40 mg/day can interfere with copper absorption and impair immune function, so avoid megadoses. Short courses in lozenges are usually fine, but don't take high-dose zinc long-term without guidance.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Zinc", "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "selenium-supplement",
+    "name": "Selenium (supplement)",
+    "category": "food",
+    "aliases": ["selenium", "selenomethionine", "sodium selenite"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Narrow safe range; easy to overdo",
+    "detail": "Selenium is essential but has a narrow safe window; needs in pregnancy are about 60 mcg/day and the upper limit is 400 mcg/day. Most prenatal vitamins already contain enough, so additional standalone supplements risk excess. Chronic high intake (selenosis) can cause hair loss, nail changes, and nerve problems, so avoid stacking multiple selenium-containing products.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Selenium", "url": "https://ods.od.nih.gov/factsheets/Selenium-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "magnesium-glycinate",
+    "name": "Magnesium Glycinate",
+    "category": "food",
+    "aliases": ["magnesium glycinate", "magnesium bisglycinate", "chelated magnesium"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Well-tolerated magnesium form",
+    "detail": "Oral magnesium at supplemental doses is generally considered safe in pregnancy and is often used for leg cramps and constipation. Glycinate is a gentle, well-absorbed form less likely to cause diarrhea than oxide or citrate. Only very high intravenous magnesium (a hospital treatment) carries meaningful risk; ordinary oral supplements are compatible with breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Magnesium", "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "magnesium-citrate",
+    "name": "Magnesium Citrate",
+    "category": "food",
+    "aliases": ["magnesium citrate", "magnesium laxative"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Safe; can act as a laxative",
+    "detail": "Magnesium citrate at nutritional supplement doses is considered safe in pregnancy and breastfeeding. At higher doses it draws water into the bowel and acts as an osmotic laxative, which some people use short-term for constipation. Excess can cause diarrhea and dehydration, so keep to recommended amounts unless a clinician advises otherwise.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Magnesium", "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "vitamin-k2-supplement",
+    "name": "Vitamin K2 (supplement)",
+    "category": "food",
+    "aliases": ["vitamin k2", "menaquinone", "mk-7", "mk-4"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Limited pregnancy data for supplements",
+    "detail": "Vitamin K from a normal diet and prenatal vitamin is fine and important, but standalone high-dose K2 (menaquinone) supplements have little pregnancy safety data. There is no established need for extra K2 in an otherwise healthy pregnancy. Discuss with a clinician before adding a dedicated K2 product, especially if you take blood thinners.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Vitamin K", "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "vitamin-b12-supplement",
+    "name": "Vitamin B12",
+    "category": "food",
+    "aliases": ["vitamin b12", "cobalamin", "cyanocobalamin", "methylcobalamin"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Important, especially for plant-based diets",
+    "detail": "Vitamin B12 is safe and needed in pregnancy and breastfeeding, and supplementation is especially important for vegetarian and vegan mothers whose babies can otherwise become deficient. Recommended intakes are about 2.6 mcg/day in pregnancy and 2.8 mcg/day while nursing, though higher supplement doses are not harmful. B12 passes into breast milk in amounts that reflect maternal status.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Vitamin B12", "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "vitamin-b-complex",
+    "name": "Vitamin B Complex",
+    "category": "food",
+    "aliases": ["vitamin b complex", "b complex", "b vitamins"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Water-soluble B vitamins, generally safe",
+    "detail": "Standard B-complex supplements contain water-soluble vitamins that are generally safe at label doses and overlap heavily with what is in a prenatal vitamin. Avoid doubling up with a prenatal to prevent excessive B6, which at very high chronic doses can cause nerve symptoms. Occasional excess is excreted in urine, and B vitamins are compatible with breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements", "url": "https://ods.od.nih.gov/factsheets/list-all/" }
+    ]
+  },
+  {
+    "id": "biotin-high-dose",
+    "name": "Biotin (high-dose)",
+    "category": "food",
+    "aliases": ["biotin", "vitamin b7", "high dose biotin", "hair skin nails biotin"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Megadoses distort lab tests",
+    "detail": "Biotin at the amount in a prenatal vitamin (about 30 mcg) is fine, but popular high-dose hair-and-nail products (5,000 to 10,000 mcg) have no proven benefit in pregnancy. More importantly, high-dose biotin can seriously interfere with lab tests, including thyroid and hormone assays, potentially causing misdiagnosis. Stick to prenatal amounts and tell your clinician if you take extra.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Biotin", "url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/" },
+      { "name": "FDA Safety Communication: Biotin", "url": "https://www.fda.gov/medical-devices/safety-communications" }
+    ]
+  },
+  {
+    "id": "vitamin-c-supplement-high-dose",
+    "name": "Vitamin C (high-dose supplement)",
+    "category": "food",
+    "aliases": ["high dose vitamin c", "ascorbic acid supplement", "vitamin c megadose"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Normal doses fine, megadoses discouraged",
+    "detail": "Vitamin C from food and prenatal vitamins (about 85 mg/day) is safe and beneficial. Megadoses (1,000 mg or more daily) are discouraged in pregnancy because of theoretical concerns and lack of benefit, and can cause stomach upset and diarrhea. The tolerable upper limit is 2,000 mg/day; keep supplemental intake modest.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Vitamin C", "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "probiotics-supplement",
+    "name": "Probiotics (supplement)",
+    "category": "food",
+    "aliases": ["probiotics", "lactobacillus", "bifidobacterium", "probiotic supplement"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Common strains considered safe",
+    "detail": "Well-studied probiotic strains such as Lactobacillus and Bifidobacterium are generally considered safe in pregnancy and breastfeeding and are not absorbed systemically. Evidence for specific benefits is mixed, but there is no consistent signal of harm in healthy people. Women who are immunocompromised or critically ill should check with a clinician first.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Probiotics", "url": "https://www.nccih.nih.gov/health/probiotics-what-you-need-to-know" }
+    ]
+  },
+  {
+    "id": "prenatal-multivitamin",
+    "name": "Prenatal Multivitamin",
+    "category": "food",
+    "aliases": ["prenatal vitamin", "prenatal multivitamin", "prenatal supplement"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Recommended throughout pregnancy",
+    "detail": "A standard prenatal multivitamin is formulated for pregnancy and is recommended before conception, throughout pregnancy, and during breastfeeding. It supplies folic acid, iron, iodine, and other nutrients at appropriate levels. Do not take additional high-dose single vitamins on top of it without guidance, since some nutrients (like vitamin A) can be harmful in excess.",
+    "sources": [
+      { "name": "American College of Obstetricians and Gynecologists (ACOG)", "url": "https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy" }
+    ]
+  },
+  {
+    "id": "ashwagandha",
+    "name": "Ashwagandha",
+    "category": "food",
+    "aliases": ["ashwagandha", "withania somnifera", "indian ginseng", "winter cherry"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Traditionally linked to miscarriage risk",
+    "detail": "Ashwagandha is an adaptogenic herb with essentially no human safety data in pregnancy, and it has traditional use as an abortifacient with animal data suggesting uterine effects. Because of this, it is best avoided during pregnancy. There is also insufficient data during breastfeeding, so avoiding it while nursing is the cautious choice.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Ashwagandha", "url": "https://www.nccih.nih.gov/health/ashwagandha" },
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "rhodiola",
+    "name": "Rhodiola",
+    "category": "food",
+    "aliases": ["rhodiola", "rhodiola rosea", "golden root", "arctic root"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "No pregnancy safety data",
+    "detail": "Rhodiola is an adaptogen used for stress and fatigue, but it has no established safety data in pregnancy or breastfeeding. With unknown effects on the developing baby and possible hormonal activity, it is best avoided during these times. Choose better-studied approaches for energy and mood and discuss options with a clinician.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "st-johns-wort",
+    "name": "St. John's Wort",
+    "category": "food",
+    "aliases": ["st johns wort", "st. john's wort", "hypericum perforatum", "hypericum"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Avoid; drug interactions and thin data",
+    "detail": "St. John's Wort is used for low mood but has limited pregnancy safety data and interacts with many medications, including antidepressants and hormonal contraceptives. Given the availability of better-studied treatments for depression in pregnancy, it should be avoided. During breastfeeding it has been linked to infant colic, drowsiness, and fussiness, so it is also discouraged while nursing.",
+    "sources": [
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" },
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "valerian",
+    "name": "Valerian Root",
+    "category": "food",
+    "aliases": ["valerian", "valerian root", "valeriana officinalis"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "avoid" },
+    "summary": "Sleep herb with little safety data",
+    "detail": "Valerian is used for sleep and anxiety but has very little human safety data in pregnancy, and its sedative effects are not well characterized for a developing baby. Because of the uncertainty, it is best avoided, particularly in the first trimester. Safety during breastfeeding is also unstudied, so avoiding it while nursing is the cautious choice.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Valerian", "url": "https://www.nccih.nih.gov/health/valerian" }
+    ]
+  },
+  {
+    "id": "melatonin-supplement",
+    "name": "Melatonin",
+    "category": "food",
+    "aliases": ["melatonin", "melatonin supplement", "sleep hormone"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Limited data; use only with guidance",
+    "detail": "Melatonin is a hormone as well as a supplement, and long-term safety in human pregnancy is not established. Occasional short-term use is sometimes considered, but it is not recommended routinely and should only be used under clinician guidance. Because it is a hormone that passes into milk, effects on a nursing infant's sleep cycle are unknown, so caution applies while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Melatonin", "url": "https://www.nccih.nih.gov/health/melatonin-what-you-need-to-know" }
+    ]
+  },
+  {
+    "id": "echinacea",
+    "name": "Echinacea",
+    "category": "food",
+    "aliases": ["echinacea", "echinacea purpurea", "coneflower"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Short-term use studied; data still limited",
+    "detail": "Echinacea is a popular cold and immune supplement, and some studies of short-term use in pregnancy have not found a clear increase in birth defects. However, data are limited and product quality varies widely, so caution is warranted rather than blanket reassurance. Safety during breastfeeding is not well studied; use short-term at most and prefer well-labeled products.",
+    "sources": [
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" },
+      { "name": "NIH National Center for Complementary and Integrative Health: Echinacea", "url": "https://www.nccih.nih.gov/health/echinacea" }
+    ]
+  },
+  {
+    "id": "elderberry",
+    "name": "Elderberry",
+    "category": "food",
+    "aliases": ["elderberry", "sambucus", "sambucus nigra", "elder"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Cooked forms; raw plant is toxic",
+    "detail": "Elderberry syrups and lozenges are popular for immune support, but there is little formal pregnancy safety data. Raw or unripe elderberries, bark, and leaves contain cyanide-producing compounds and can cause nausea and vomiting, so only properly cooked commercial products should ever be considered. Given the thin evidence, use cautiously and briefly during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Elderberry", "url": "https://www.nccih.nih.gov/health/elderberry" }
+    ]
+  },
+  {
+    "id": "turmeric-curcumin-supplement",
+    "name": "Turmeric/Curcumin (supplement)",
+    "category": "food",
+    "aliases": ["curcumin", "turmeric supplement", "curcumin extract", "turmeric capsule"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Food amounts fine; concentrated doses caution",
+    "detail": "Turmeric as a culinary spice is considered safe in pregnancy in normal food amounts. Concentrated curcumin supplements deliver far higher doses and have limited pregnancy safety data, with theoretical hormonal and uterine-stimulating effects at high intake. Skip high-dose curcumin extracts during pregnancy and breastfeeding, and enjoy turmeric in food instead.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Turmeric", "url": "https://www.nccih.nih.gov/health/turmeric" }
+    ]
+  },
+  {
+    "id": "milk-thistle",
+    "name": "Milk Thistle",
+    "category": "food",
+    "aliases": ["milk thistle", "silymarin", "silybum marianum"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Sometimes used as galactagogue; thin data",
+    "detail": "Milk thistle (silymarin) is used for liver support and sometimes promoted to increase milk supply, but rigorous pregnancy safety data are lacking. It is generally regarded as low-toxicity, yet evidence for both safety and effectiveness is limited. Approach with caution in pregnancy, and if considering it as a galactagogue while breastfeeding, discuss with a lactation specialist.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Milk Thistle", "url": "https://www.nccih.nih.gov/health/milk-thistle" },
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "evening-primrose-oil",
+    "name": "Evening Primrose Oil",
+    "category": "food",
+    "aliases": ["evening primrose oil", "epo", "oenothera biennis"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Sometimes used late term; evidence weak",
+    "detail": "Evening primrose oil is sometimes used near term in hopes of ripening the cervix, but studies do not show clear benefit and some suggest it may prolong labor or increase complications. There is no good reason to use it early in pregnancy. If considered at all, it should only be near the due date and with a clinician's knowledge; data during breastfeeding are limited.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "red-clover",
+    "name": "Red Clover",
+    "category": "food",
+    "aliases": ["red clover", "trifolium pratense"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Phytoestrogen; avoid in pregnancy",
+    "detail": "Red clover contains isoflavone phytoestrogens that can act like estrogen in the body, and it has possible blood-thinning effects. Because of these hormonal and bleeding concerns and a lack of safety data, it should be avoided during pregnancy. Safety while breastfeeding is also unestablished, so it is best avoided while nursing.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "vitex-chasteberry",
+    "name": "Vitex (Chasteberry)",
+    "category": "food",
+    "aliases": ["vitex", "chasteberry", "chaste tree", "vitex agnus-castus", "agnus castus"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Hormone-active; avoid",
+    "detail": "Vitex affects prolactin and other reproductive hormones, which is why it is used for cycle and fertility issues, but that same activity makes it inappropriate once pregnant. It has no established pregnancy safety data and could theoretically disrupt hormonal balance. Because it can alter prolactin, it may unpredictably affect milk supply, so avoid it while breastfeeding too.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "maca",
+    "name": "Maca",
+    "category": "food",
+    "aliases": ["maca", "lepidium meyenii", "peruvian ginseng"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Root food vs concentrated extract",
+    "detail": "Maca root is eaten as a food in the Andes, but concentrated supplement extracts used for energy and libido have little pregnancy safety data and possible hormonal effects. Small culinary amounts are likely low risk, while standardized high-dose capsules are not well studied. Use caution and avoid concentrated products during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "spirulina",
+    "name": "Spirulina",
+    "category": "food",
+    "aliases": ["spirulina", "blue-green algae", "arthrospira"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Contamination risk is the main concern",
+    "detail": "Spirulina is a protein- and iron-rich algae, but products can be contaminated with heavy metals, microcystin toxins, or other blue-green algae that are unsafe. Because quality varies and pregnancy data are limited, caution is warranted and only third-party-tested products should be considered. If used while breastfeeding, choose reputable brands and keep doses modest.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "chlorella",
+    "name": "Chlorella",
+    "category": "food",
+    "aliases": ["chlorella", "green algae supplement"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Algae supplement; purity varies",
+    "detail": "Chlorella is a green algae marketed for detox and nutrition, but like other algae products it can accumulate heavy metals depending on where it is grown. Pregnancy safety data are limited, and marketed detox benefits are not well supported. Use caution, favor third-party-tested products, and discuss with a clinician before use in pregnancy or breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "moringa",
+    "name": "Moringa",
+    "category": "food",
+    "aliases": ["moringa", "moringa oleifera", "drumstick tree", "malunggay"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Leaf used as galactagogue; avoid bark/root",
+    "detail": "Moringa leaf is a traditional food and is used in some cultures as a galactagogue while breastfeeding, with small studies suggesting it may modestly help milk supply. However, the root, bark, and their extracts contain compounds with uterine-stimulating activity and should be avoided in pregnancy. Treat leaf supplements cautiously in pregnancy and reserve galactagogue use for the breastfeeding period with guidance.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "nettle-leaf",
+    "name": "Nettle Leaf",
+    "category": "food",
+    "aliases": ["nettle", "nettle leaf", "stinging nettle", "urtica dioica"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Common in pregnancy teas; data thin",
+    "detail": "Nettle leaf appears in many pregnancy teas and is valued for its mineral content, but robust safety data are lacking and some sources note theoretical uterine-stimulating effects. It is often avoided in the first trimester to be safe. Occasional use later in pregnancy and during breastfeeding is common, but treat concentrated supplements cautiously.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "dandelion-supplement",
+    "name": "Dandelion",
+    "category": "food",
+    "aliases": ["dandelion", "taraxacum officinale", "dandelion root", "dandelion leaf"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Mild diuretic; limited data",
+    "detail": "Dandelion greens are eaten as food, but concentrated root or leaf supplements act as mild diuretics and have limited pregnancy safety data. Small culinary amounts are likely low risk, while supplement doses are not well studied. Use caution, and be aware dandelion may interact with diuretics and other medications; discuss with a clinician before regular use.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "lemon-balm",
+    "name": "Lemon Balm",
+    "category": "food",
+    "aliases": ["lemon balm", "melissa officinalis", "melissa"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Calming herb with sparse data",
+    "detail": "Lemon balm is a mild calming herb often used in teas, but human pregnancy safety data are sparse. Occasional culinary or weak-tea amounts are generally considered low risk, while concentrated extracts are not well studied. It may affect thyroid activity in theory, so use cautiously and avoid high-dose supplements during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "passionflower",
+    "name": "Passionflower",
+    "category": "food",
+    "aliases": ["passionflower", "passiflora", "passiflora incarnata", "passion flower"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "caution", "bf": "caution" },
+    "summary": "Some sources cite uterine stimulation",
+    "detail": "Passionflower is used for anxiety and sleep, but some references note compounds that may stimulate the uterus, and overall pregnancy safety data are limited. Because of this, it is best avoided during pregnancy, particularly earlier on. Safety while breastfeeding is not established, so caution applies if considering it while nursing.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "kava",
+    "name": "Kava",
+    "category": "food",
+    "aliases": ["kava", "kava kava", "piper methysticum"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Liver toxicity risk; avoid",
+    "detail": "Kava is used for anxiety but carries a documented risk of serious liver injury and has central nervous system depressant effects. It should be avoided in pregnancy given the toxicity concerns and lack of safety data. Kava compounds pass into breast milk and can sedate the infant, so it is also contraindicated while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Kava", "url": "https://www.nccih.nih.gov/health/kava" },
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "yohimbe",
+    "name": "Yohimbe",
+    "category": "food",
+    "aliases": ["yohimbe", "yohimbine", "pausinystalia johimbe"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Unsafe stimulant; avoid entirely",
+    "detail": "Yohimbe is a potent stimulant sold for energy and libido that can cause dangerous rises in blood pressure and heart rate, seizures, and other serious effects even in healthy adults. It is unsafe in pregnancy and should be avoided completely. Its stimulant properties also make it inappropriate while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Yohimbe", "url": "https://www.nccih.nih.gov/health/yohimbe" }
+    ]
+  },
+  {
+    "id": "berberine",
+    "name": "Berberine",
+    "category": "food",
+    "aliases": ["berberine", "berberis", "goldenseal berberine"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Risk of newborn jaundice/kernicterus",
+    "detail": "Berberine, found in goldenseal and other plants, can cross the placenta and displace bilirubin, raising the risk of severe newborn jaundice and brain injury (kernicterus). For this reason it is specifically advised against in pregnancy. Berberine also passes into breast milk and poses the same bilirubin concern for nursing newborns, so avoid it while breastfeeding.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" },
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "cassia-cinnamon-supplement",
+    "name": "Cassia Cinnamon (supplement)",
+    "category": "food",
+    "aliases": ["cassia cinnamon", "cassia supplement", "cinnamomum cassia", "chinese cinnamon"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Coumarin content; avoid high doses",
+    "detail": "Cassia cinnamon, the common grocery variety, contains coumarin, which can be hard on the liver at high, sustained intake. Sprinkling it on food is fine, but concentrated cinnamon supplements for blood sugar deliver much larger doses with limited pregnancy safety data. Avoid high-dose cassia supplements in pregnancy and breastfeeding; ceylon cinnamon is lower in coumarin.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Cinnamon", "url": "https://www.nccih.nih.gov/health/cinnamon" }
+    ]
+  },
+  {
+    "id": "ceylon-cinnamon-supplement",
+    "name": "Ceylon Cinnamon (supplement)",
+    "category": "food",
+    "aliases": ["ceylon cinnamon", "true cinnamon", "cinnamomum verum", "cinnamon capsule"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Lower coumarin, but supplement data thin",
+    "detail": "Ceylon (true) cinnamon is much lower in coumarin than cassia, making it a safer choice if cinnamon is desired. Even so, concentrated cinnamon supplements used for blood sugar have limited pregnancy safety data and are not established as safe or effective in pregnancy. Culinary amounts are fine; approach high-dose supplements cautiously during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Cinnamon", "url": "https://www.nccih.nih.gov/health/cinnamon" }
+    ]
+  },
+  {
+    "id": "fenugreek",
+    "name": "Fenugreek",
+    "category": "food",
+    "aliases": ["fenugreek", "trigonella foenum-graecum", "methi"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Popular galactagogue; caution in pregnancy",
+    "detail": "Fenugreek is a common culinary spice and one of the most widely used galactagogues to boost milk supply after birth. In pregnancy, however, higher supplement doses have possible uterine-stimulating effects and are best avoided, especially early on; food-level amounts in cooking are low risk. While breastfeeding it is commonly used but can cause maternal and infant GI upset and a maple-syrup body odor, so use with caution and watch the baby.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" },
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" }
+    ]
+  },
+  {
+    "id": "blessed-thistle",
+    "name": "Blessed Thistle",
+    "category": "food",
+    "aliases": ["blessed thistle", "cnicus benedictus", "holy thistle"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Galactagogue; avoid during pregnancy",
+    "detail": "Blessed thistle is often combined with fenugreek as a breastfeeding galactagogue, though evidence for supply benefit is weak. In pregnancy it is traditionally avoided due to possible uterine effects and lack of safety data. During breastfeeding it is used short-term, but data are limited, so use cautiously and with lactation guidance.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "goats-rue",
+    "name": "Goat's Rue",
+    "category": "food",
+    "aliases": ["goats rue", "goat's rue", "galega officinalis", "french lilac"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "caution" },
+    "summary": "Galactagogue; avoid in pregnancy",
+    "detail": "Goat's rue is used as a galactagogue and is related to compounds behind the diabetes drug metformin, but the raw plant can cause low blood sugar and toxicity. It should be avoided in pregnancy given the lack of safety data and hypoglycemia risk. During breastfeeding it is used in commercial supplements, but data are limited, so use caution and choose reputable products.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "brewers-yeast",
+    "name": "Brewer's Yeast",
+    "category": "food",
+    "aliases": ["brewers yeast", "brewer's yeast", "saccharomyces cerevisiae supplement"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "safe", "bf": "safe" },
+    "summary": "Nutritional yeast; used to support supply",
+    "detail": "Brewer's yeast is a nutritional supplement rich in B vitamins and is popularly used by breastfeeding mothers, including in lactation cookies, though evidence for a milk-supply benefit is anecdotal. It is generally considered safe in pregnancy and breastfeeding as a food-type supplement. Some people experience gas or bloating; it is inactive yeast and not the same as an active infection risk.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" }
+    ]
+  },
+  {
+    "id": "saw-palmetto",
+    "name": "Saw Palmetto",
+    "category": "food",
+    "aliases": ["saw palmetto", "serenoa repens"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Hormone-active; avoid",
+    "detail": "Saw palmetto affects hormone pathways (it is used for prostate and hair concerns) and has anti-androgenic activity that could theoretically interfere with normal fetal development. It has no pregnancy safety data and should be avoided. Given its hormonal activity and lack of nursing data, avoid it while breastfeeding as well.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Saw Palmetto", "url": "https://www.nccih.nih.gov/health/saw-palmetto" }
+    ]
+  },
+  {
+    "id": "tribulus",
+    "name": "Tribulus Terrestris",
+    "category": "food",
+    "aliases": ["tribulus", "tribulus terrestris", "puncture vine"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Hormonal effects; animal data concerning",
+    "detail": "Tribulus is marketed for libido and testosterone and has hormonal activity, with animal studies suggesting possible developmental effects at higher exposures. It has no human pregnancy safety data and should be avoided. Its hormonal activity also makes it inappropriate while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "horny-goat-weed",
+    "name": "Horny Goat Weed",
+    "category": "food",
+    "aliases": ["horny goat weed", "epimedium", "yin yang huo"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Hormone-active libido herb; avoid",
+    "detail": "Horny goat weed (epimedium) is used for libido and has estrogen-like activity with essentially no pregnancy safety data. Because of its hormonal effects and unknown risks, it should be avoided during pregnancy. It is likewise not recommended while breastfeeding due to the lack of safety information.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "holy-basil-tulsi",
+    "name": "Holy Basil (Tulsi)",
+    "category": "food",
+    "aliases": ["holy basil", "tulsi", "ocimum sanctum", "ocimum tenuiflorum"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Some animal data suggest reproductive effects",
+    "detail": "Holy basil (tulsi) is used as an adaptogen, but some animal studies suggest anti-fertility and possible uterine effects, and human pregnancy data are lacking. Because of this, concentrated tulsi supplements are best avoided, particularly in the first trimester; occasional culinary or weak-tea use is lower risk. Safety while breastfeeding is not established, so use caution.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "schisandra",
+    "name": "Schisandra",
+    "category": "food",
+    "aliases": ["schisandra", "schizandra", "schisandra chinensis", "five flavor berry"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "caution", "bf": "caution" },
+    "summary": "Traditionally uterine-stimulating",
+    "detail": "Schisandra is an adaptogenic berry traditionally noted to stimulate the uterus, which is why it has historically been reserved for use around labor rather than earlier in pregnancy. With limited modern safety data, it is best avoided during most of pregnancy. Safety during breastfeeding is unstudied, so caution applies.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "astragalus",
+    "name": "Astragalus",
+    "category": "food",
+    "aliases": ["astragalus", "astragalus membranaceus", "huang qi"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Immune herb; limited safety data",
+    "detail": "Astragalus is used in traditional medicine for immune support, but human pregnancy safety data are limited and quality of commercial products varies. Without good evidence of safety, caution is appropriate during pregnancy. Effects on a nursing infant are unknown, so it is also best used cautiously, if at all, while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: Astragalus", "url": "https://www.nccih.nih.gov/health/astragalus" }
+    ]
+  },
+  {
+    "id": "reishi-mushroom",
+    "name": "Reishi Mushroom",
+    "category": "food",
+    "aliases": ["reishi", "reishi mushroom", "ganoderma lucidum", "lingzhi"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Possible blood-thinning; thin data",
+    "detail": "Reishi is a medicinal mushroom used for immune and stress support, but concentrated extracts have limited pregnancy safety data and may have mild blood-thinning effects. Culinary mushroom amounts are low risk, while high-dose supplements are not well studied in pregnancy. Use caution, especially near delivery or if you take anticoagulants, and while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "cordyceps",
+    "name": "Cordyceps",
+    "category": "food",
+    "aliases": ["cordyceps", "cordyceps sinensis", "cordyceps militaris"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Adaptogen mushroom; no pregnancy data",
+    "detail": "Cordyceps is a fungus marketed for energy and athletic performance, with possible immune-modulating and hormonal effects and essentially no human pregnancy safety data. Given the uncertainty, it is best used cautiously or avoided during pregnancy. Effects on nursing infants are unknown, so caution applies while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "garcinia-cambogia",
+    "name": "Garcinia Cambogia",
+    "category": "food",
+    "aliases": ["garcinia cambogia", "hydroxycitric acid", "hca", "malabar tamarind"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Weight-loss product; avoid",
+    "detail": "Garcinia cambogia is a weight-loss supplement that has been linked to liver injury, and weight-loss supplements as a class are not appropriate during pregnancy. Deliberate weight loss and unstudied metabolic ingredients should be avoided while pregnant. It is likewise not recommended while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" },
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" }
+    ]
+  },
+  {
+    "id": "green-coffee-bean-extract",
+    "name": "Green Coffee Bean Extract",
+    "category": "food",
+    "aliases": ["green coffee bean extract", "chlorogenic acid supplement", "green coffee extract"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Weight-loss stimulant with caffeine",
+    "detail": "Green coffee bean extract is a weight-loss supplement that contains caffeine and concentrated chlorogenic acids, with little safety data in pregnancy. It combines the concerns of stimulant exposure and deliberate weight loss, neither of which is appropriate in pregnancy. Avoid it while breastfeeding as well due to caffeine and lack of data.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "5-htp",
+    "name": "5-HTP",
+    "category": "food",
+    "aliases": ["5-htp", "5 htp", "5-hydroxytryptophan", "griffonia simplicifolia"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Affects serotonin; avoid",
+    "detail": "5-HTP is a serotonin precursor sold for mood and sleep, but it can raise serotonin unpredictably and has no pregnancy safety data, with a theoretical risk of interacting with antidepressants. Because safer, better-studied options exist for mood in pregnancy, it should be avoided. It is also not recommended while breastfeeding due to unknown infant effects.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "dhea-supplement",
+    "name": "DHEA",
+    "category": "food",
+    "aliases": ["dhea", "dehydroepiandrosterone", "prasterone"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "Steroid hormone; avoid",
+    "detail": "DHEA is a steroid hormone that the body converts into androgens and estrogens, and taking it during pregnancy could disrupt normal hormonal balance and fetal development. It should be avoided during pregnancy. As a hormone with unknown transfer and infant effects, it is also not recommended while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health: DHEA", "url": "https://www.nccih.nih.gov/health/dhea" }
+    ]
+  },
+  {
+    "id": "bilberry-supplement",
+    "name": "Bilberry",
+    "category": "food",
+    "aliases": ["bilberry", "vaccinium myrtillus", "european blueberry"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Berry food fine; extract data thin",
+    "detail": "Bilberry fruit is a food and is low risk in normal amounts, but concentrated bilberry extracts used for eye and circulation support have limited pregnancy safety data and may affect blood sugar. Culinary berry amounts are fine, while high-dose standardized extracts are best used cautiously. The same caution applies while breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "matcha-tea",
+    "name": "Matcha",
+    "category": "food",
+    "aliases": ["matcha", "matcha tea", "matcha green tea powder"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Concentrated green tea; watch caffeine",
+    "detail": "Matcha is powdered green tea, and because the whole leaf is consumed it delivers more caffeine per serving than brewed green tea, often 60 to 70 mg per cup. Keep total daily caffeine under about 200 mg across all sources in pregnancy. Green tea compounds can also modestly reduce folate absorption, so avoid overdoing it and space it apart from your prenatal vitamin.",
+    "sources": [
+      { "name": "American College of Obstetricians and Gynecologists (ACOG)", "url": "https://www.acog.org/womens-health/faqs/moderate-caffeine-consumption-during-pregnancy" }
+    ]
+  },
+  {
+    "id": "oolong-tea",
+    "name": "Oolong Tea",
+    "category": "food",
+    "aliases": ["oolong tea", "oolong", "wulong tea"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Caffeinated true tea; moderate intake",
+    "detail": "Oolong is a true tea (Camellia sinensis) with caffeine roughly between green and black tea, around 30 to 50 mg per cup. It counts toward the recommended limit of about 200 mg of caffeine per day in pregnancy. Moderate intake is generally acceptable; be mindful when combining it with coffee or other caffeinated drinks and while breastfeeding.",
+    "sources": [
+      { "name": "American College of Obstetricians and Gynecologists (ACOG)", "url": "https://www.acog.org/womens-health/faqs/moderate-caffeine-consumption-during-pregnancy" }
+    ]
+  },
+  {
+    "id": "white-tea",
+    "name": "White Tea",
+    "category": "food",
+    "aliases": ["white tea", "silver needle tea", "bai hao"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Lightly caffeinated true tea",
+    "detail": "White tea is a minimally processed true tea with caffeine typically lower than green or black tea but still present. It counts toward the roughly 200 mg daily caffeine limit in pregnancy. Moderate consumption is generally acceptable; keep an eye on total caffeine from all sources during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "American College of Obstetricians and Gynecologists (ACOG)", "url": "https://www.acog.org/womens-health/faqs/moderate-caffeine-consumption-during-pregnancy" }
+    ]
+  },
+  {
+    "id": "chai-tea",
+    "name": "Chai Tea",
+    "category": "food",
+    "aliases": ["chai", "chai tea", "masala chai", "spiced black tea"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Black tea base plus spices",
+    "detail": "Chai is black tea blended with spices, so it carries the caffeine of black tea (around 40 to 70 mg per cup) that counts toward the 200 mg daily limit in pregnancy. The spice blend (cinnamon, cardamom, ginger, cloves) is fine in normal culinary tea amounts. Watch total caffeine, especially with concentrated cafe chai lattes, during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "American College of Obstetricians and Gynecologists (ACOG)", "url": "https://www.acog.org/womens-health/faqs/moderate-caffeine-consumption-during-pregnancy" }
+    ]
+  },
+  {
+    "id": "honeybush-tea",
+    "name": "Honeybush Tea",
+    "category": "food",
+    "aliases": ["honeybush", "honeybush tea", "cyclopia"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Caffeine-free but little pregnancy data",
+    "detail": "Honeybush is a naturally caffeine-free South African herbal tea, similar to rooibos, and is often considered a gentle choice. However, formal pregnancy and breastfeeding safety data are limited, so it is reasonable to enjoy it occasionally rather than in large daily amounts. As with most herbal teas, moderation is the cautious approach.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "lemon-ginger-tea",
+    "name": "Lemon Ginger Tea",
+    "category": "food",
+    "aliases": ["lemon ginger tea", "ginger lemon tea"],
+    "risks": { "t1": "safe", "t2": "safe", "t3": "caution", "bf": "safe" },
+    "summary": "Ginger helps nausea; keep amounts modest",
+    "detail": "Lemon ginger tea is widely used for morning sickness, and ginger in typical tea amounts is considered helpful and low risk for nausea. Keep ginger intake moderate (studies support up to about 1 gram of ginger per day) and be a little more mindful near term because of ginger's mild blood-thinning effect. It is compatible with breastfeeding in normal amounts.",
+    "sources": [
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" }
+    ]
+  },
+  {
+    "id": "dandelion-tea",
+    "name": "Dandelion Tea",
+    "category": "food",
+    "aliases": ["dandelion tea", "dandelion root tea", "roasted dandelion"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Mild diuretic herbal tea",
+    "detail": "Dandelion tea, brewed from the leaf or roasted root, acts as a mild diuretic and has limited formal pregnancy safety data. Occasional weak-tea use is likely low risk, but regular or strong consumption is not well studied. It may interact with diuretics and some medications, so use cautiously in pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "senna-tea",
+    "name": "Senna Tea (Smooth Move)",
+    "category": "food",
+    "aliases": ["senna", "senna tea", "smooth move", "senna laxative tea", "cassia senna"],
+    "risks": { "t1": "avoid", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Stimulant laxative; use only if advised",
+    "detail": "Senna is a stimulant laxative found in teas like Smooth Move, and strong or prolonged use can cause cramping, dehydration, and electrolyte loss. Bulk-forming fiber and osmotic laxatives are preferred first-line for constipation in pregnancy. Short-term senna is sometimes used under medical advice, but avoid routine use; small amounts pass into milk and can loosen the infant's stool.",
+    "sources": [
+      { "name": "NIH LactMed", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501922/" },
+      { "name": "MotherToBaby Fact Sheets", "url": "https://mothertobaby.org/fact-sheets/" }
+    ]
+  },
+  {
+    "id": "creatine-supplement",
+    "name": "Creatine",
+    "category": "food",
+    "aliases": ["creatine", "creatine monohydrate"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Promising but human data still limited",
+    "detail": "Creatine is a well-studied sports supplement in non-pregnant adults, and there is emerging research interest in its role in pregnancy, but human safety and dosing data specific to pregnancy are still limited. It is not established as recommended, so it should be used cautiously and ideally discussed with a clinician. Data during breastfeeding are also limited.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Dietary Supplements for Exercise", "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "collagen-peptides",
+    "name": "Collagen Peptides",
+    "category": "food",
+    "aliases": ["collagen", "collagen peptides", "hydrolyzed collagen", "collagen powder"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Protein source; watch for contaminants",
+    "detail": "Collagen peptides are essentially a protein supplement and are likely low risk in pregnancy, but they are not tightly regulated and some products have been found to contain heavy metals or unlisted additives. Choose third-party-tested brands and treat added ingredients (herbs, high-dose vitamins) with caution. Plain, tested collagen is generally reasonable during breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements", "url": "https://ods.od.nih.gov/factsheets/list-all/" }
+    ]
+  },
+  {
+    "id": "whey-protein-powder",
+    "name": "Whey Protein Powder",
+    "category": "food",
+    "aliases": ["whey protein", "whey protein powder", "protein shake whey"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Plain whey ok; check the full label",
+    "detail": "Whey protein itself is a dairy-derived protein and is generally reasonable in pregnancy to help meet protein needs. The main caution is added ingredients in many powders, such as high-dose vitamins, herbs, sweeteners, or stimulants, plus possible heavy-metal contamination. Choose a simple, third-party-tested product and read the full label; plain whey is compatible with breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements", "url": "https://ods.od.nih.gov/factsheets/list-all/" }
+    ]
+  },
+  {
+    "id": "plant-protein-powder",
+    "name": "Plant Protein Powder",
+    "category": "food",
+    "aliases": ["plant protein", "pea protein", "vegan protein powder", "hemp protein"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Heavy-metal contamination concern",
+    "detail": "Plant-based protein powders (pea, rice, hemp) can help meet protein needs but have repeatedly tested higher for heavy metals like lead and cadmium than other protein sources. Choose third-party-tested products and avoid blends with added herbs or high-dose nutrients. Use in moderation and favor whole-food protein where possible during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements", "url": "https://ods.od.nih.gov/factsheets/list-all/" }
+    ]
+  },
+  {
+    "id": "bcaa-supplement",
+    "name": "BCAAs",
+    "category": "food",
+    "aliases": ["bcaa", "bcaas", "branched chain amino acids", "leucine isoleucine valine"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Isolated amino acids; little pregnancy data",
+    "detail": "Branched-chain amino acid supplements are used by athletes, but concentrated isolated amino acids have little pregnancy safety data and are not needed if protein intake is adequate. Getting protein from food or a simple tested protein source is preferable. Use caution and discuss with a clinician before taking BCAA products in pregnancy or breastfeeding.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Dietary Supplements for Exercise", "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/" }
+    ]
+  },
+  {
+    "id": "pre-workout-supplement",
+    "name": "Pre-Workout Supplement",
+    "category": "food",
+    "aliases": ["pre-workout", "pre workout", "preworkout powder", "pump supplement"],
+    "risks": { "t1": "avoid", "t2": "avoid", "t3": "avoid", "bf": "avoid" },
+    "summary": "High stimulant blends; avoid",
+    "detail": "Pre-workout formulas typically combine high-dose caffeine with other stimulants and unstudied proprietary blends, sometimes exceeding safe caffeine limits in a single scoop. The stimulant load and unknown ingredients make them inappropriate in pregnancy. They are also not recommended while breastfeeding due to high caffeine and other actives passing into milk.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Dietary Supplements for Exercise", "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/" },
+      { "name": "American College of Obstetricians and Gynecologists (ACOG)", "url": "https://www.acog.org/womens-health/faqs/moderate-caffeine-consumption-during-pregnancy" }
+    ]
+  },
+  {
+    "id": "l-theanine",
+    "name": "L-Theanine",
+    "category": "food",
+    "aliases": ["l-theanine", "theanine", "l theanine"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Calming amino acid; supplement data thin",
+    "detail": "L-theanine is an amino acid found naturally in tea and is taken as a supplement for calm focus. Amounts naturally present in a cup of tea are low risk, but concentrated supplement doses have little pregnancy safety data. Use caution with standalone supplements during pregnancy and breastfeeding, and rely mainly on the small amounts in tea.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "apple-cider-vinegar-gummies",
+    "name": "Apple Cider Vinegar Gummies",
+    "category": "food",
+    "aliases": ["apple cider vinegar gummies", "acv gummies", "apple cider vinegar supplement"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Culinary vinegar fine; supplements unproven",
+    "detail": "Apple cider vinegar used in cooking or salad dressing is fine in pregnancy, but concentrated ACV supplements and gummies are unproven and may include added ingredients or high sugar. Unpasteurized ACV theoretically carries a small contamination risk, so pasteurized products are preferable. There is no established benefit to ACV supplements; use culinary vinegar instead during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "glucomannan",
+    "name": "Glucomannan",
+    "category": "food",
+    "aliases": ["glucomannan", "konjac fiber", "konjac root"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Fiber supplement; choking/appetite concern",
+    "detail": "Glucomannan is a soluble fiber from konjac root marketed for appetite and blood sugar, and it swells substantially with water, posing a choking or obstruction risk if taken with too little fluid. It is often sold for weight loss, which is not a pregnancy goal. Dietary fiber from food is preferred; use caution and take with plenty of water if used at all during pregnancy and breastfeeding.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "l-arginine-supplement",
+    "name": "L-Arginine",
+    "category": "food",
+    "aliases": ["l-arginine", "arginine", "l arginine supplement"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Sometimes used clinically; self-dosing caution",
+    "detail": "L-arginine is an amino acid that is sometimes studied or used under medical supervision for certain pregnancy complications, but it can affect blood pressure and should not be self-prescribed. Over-the-counter high-dose products are not standardized and can cause low blood pressure or GI upset. Only use L-arginine in pregnancy or breastfeeding under clinician guidance.",
+    "sources": [
+      { "name": "NIH National Center for Complementary and Integrative Health", "url": "https://www.nccih.nih.gov/health/herbsataglance" }
+    ]
+  },
+  {
+    "id": "iodine-supplement",
+    "name": "Iodine (standalone supplement)",
+    "category": "food",
+    "aliases": ["iodine supplement", "potassium iodide", "kelp iodine tablet"],
+    "risks": { "t1": "caution", "t2": "caution", "t3": "caution", "bf": "caution" },
+    "summary": "Needed, but too much harms thyroid",
+    "detail": "Iodine is essential in pregnancy for fetal brain development, and prenatal vitamins typically supply about 150 mcg, which is appropriate. Standalone high-dose iodine or kelp supplements can overshoot and disrupt the thyroid of both mother and baby, so excess is as much a concern as deficiency. Stay near recommended intakes (about 220 mcg in pregnancy, 290 mcg while breastfeeding) rather than megadosing.",
+    "sources": [
+      { "name": "NIH Office of Dietary Supplements: Iodine", "url": "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/" }
+    ]
+  }
+]

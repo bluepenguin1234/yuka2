@@ -12,7 +12,7 @@ export const COMMON_SAFE: string[] = [  'water', 'aqua', 'carbonated water', 'sp
   'corn flour', 'cornmeal', 'oat flour', 'semolina', 'wheat', 'oats', 'rolled oats',
   'rice', 'brown rice', 'corn', 'barley', 'rye', 'quinoa', 'millet', 'buckwheat',
   'milk', 'whole milk', 'skim milk', 'milk powder', 'skimmed milk powder',
-  'cream', 'butter', 'buttermilk', 'yogurt', 'cheese', 'whey', 'whey protein',
+  'cream', 'butter', 'buttermilk', 'yogurt', 'cheese', 'whey',
   'casein', 'lactose', 'milk protein',
   'egg', 'eggs', 'egg white', 'egg yolk', 'whole egg',
   'olive oil', 'sunflower oil', 'canola oil', 'rapeseed oil', 'vegetable oil',
@@ -45,7 +45,7 @@ export const COMMON_SAFE: string[] = [  'water', 'aqua', 'carbonated water', 'sp
   'coconut', 'coconut milk', 'coconut water', 'shredded coconut',
   'green beans', 'lentils', 'chickpeas', 'black beans', 'kidney beans', 'beans',
   'zinc', 'magnesium', 'potassium chloride', 'calcium', 'calcium citrate',
-  'vitamin b12', 'vitamin b6', 'thiamine', 'riboflavin', 'niacin', 'biotin',
-  'vitamin e', 'tocopherol', 'mixed tocopherols', 'vitamin k',
+  'vitamin b12', 'vitamin b6', 'thiamine', 'riboflavin', 'niacin',
+  'tocopherol', 'mixed tocopherols', 'vitamin k',
   'glycerin', 'glycerol', 'sorbitol',
 ];

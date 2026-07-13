@@ -3,6 +3,7 @@ import type { SafetyEntry } from '../lib/types';
 import { COMMON_SAFE } from './common-safe';
 import cosmetics from './safety/cosmetics.json';
 import food from './safety/food.json';
+import supplements from './safety/supplements.json';
 
 /**
  * The proprietary safety database, bundled with the app so verdicts work
@@ -14,6 +15,7 @@ import food from './safety/food.json';
 
 export const SAFETY_ENTRIES: SafetyEntry[] = [
   ...(food as SafetyEntry[]),
+  ...(supplements as SafetyEntry[]),
   ...(cosmetics as SafetyEntry[]),
 ];
 

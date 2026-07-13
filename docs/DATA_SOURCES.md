@@ -62,6 +62,7 @@ That compounding curation, not the scanner, is the defensible asset.
 
 - `src/data/safety/food.json` — 112 food ingredients & additives incl. E-numbers
 - `src/data/safety/cosmetics.json` — 118 cosmetic/INCI entries
+- `src/data/safety/supplements.json` — 78 supplement & herbal-tea entries (added same day: prenatal-dose vitamins, herbals, galactagogues, teas)
 - `src/data/common-safe.ts` — ~150 benign coverage-only names (zero verdict weight)
 - `src/data/product-rules.ts` — product-level: alcohol, energy drinks, unpasteurized
 - Known soft spots (flagged during curation, worth a clinician pass): essential-oil

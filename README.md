@@ -13,7 +13,7 @@ progresses and once nursing begins.
 |---|---|
 | `src/app/` | All screens (Expo Router): onboarding, scanner, verdict, history, profile, paywall, legal |
 | `src/lib/engine.ts` | The verdict engine — conservative ingredient matching + stage-aware ratings |
-| `src/data/safety/` | The proprietary safety database (food + cosmetics, 230 curated entries with clinical sources) |
+| `src/data/safety/` | The proprietary safety database (food + cosmetics, 308 curated entries with clinical sources) |
 | `src/lib/products.ts` | Barcode → product lookup (Open Food Facts + Open Beauty Facts) |
 | `supabase/` | Optional backend: schema, account deletion, AI label reader (Claude) |
 | `docs/` | Build spec, App Store launch runbook, task lists, roadmap, data-source strategy |

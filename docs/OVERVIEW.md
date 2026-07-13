@@ -33,7 +33,7 @@ one find-and-replace before submission if you want something else).
   → scanner-first tabs (History · Scan · Profile)
 - Barcode scanning (EAN-13/8, UPC-A/E) + manual barcode entry
 - Product lookup: Open Food Facts + Open Beauty Facts (millions of products, free APIs)
-- Verdict engine with 230-entry curated safety database (food additives, E-numbers,
+- Verdict engine with 308-entry curated safety database (food additives, E-numbers,
   cosmetic/INCI ingredients), stage-specific ratings, cited sources
 - Product-level rules (alcoholic beverages, energy drinks, unpasteurized products)
 - History (on-device), profile/stage management, paywall UI (Yuka-style

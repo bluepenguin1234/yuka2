@@ -111,7 +111,7 @@ automatically as pregnancy progresses.**
 
 ## 6. Safety database (src/data/safety/)
 
-230 curated entries (food.json + cosmetics.json), generated with clinical caution rules and
+308 curated entries (food.json + cosmetics.json), generated with clinical caution rules and
 schema-validated. Curation rules (also for all future entries):
 - Conservative on conflict — encode the stronger warning.
 - Real source URLs only; org topic pages when deep links are uncertain.
