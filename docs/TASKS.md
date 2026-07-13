@@ -40,10 +40,13 @@ the only thing between this repo and TestFlight.
 - Write the TestFlight beta-tester welcome email + feedback form
 
 **EAS-build phase**
-- Wire RevenueCat end-to-end (purchases.ts is pre-structured for it)
+- Wire RevenueCat end-to-end (purchases.ts is pre-structured for it) + RevenueCat Paywalls
+  remote A/B (pricing models in GROWTH_PLAYBOOK.md)
+- Build the v1.1 conversion onboarding (12-screen quiz funnel) + PostHog funnel wiring
 - Build the AI label-reader UI on the existing `analyze-label` function
+- Add the native review prompt (3rd-scan trigger) + stage-change notifications
 - Configure Expo Updates for OTA JS fixes
-- Screenshot framing assets
+- Screenshot set with 3D pop-out mockups (first-shot spec in GROWTH_PLAYBOOK.md)
 
 **After launch**
 - Weekly coverage_demand review → new DB entries

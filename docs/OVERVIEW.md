@@ -80,6 +80,7 @@ synced unlimited history, early-access categories.
 | [APP_STORE_LAUNCH.md](APP_STORE_LAUNCH.md) | Step-by-step Windows → App Store runbook |
 | [TASKS.md](TASKS.md) | Claude-can-do vs Brian-must-do, ordered for fastest launch |
 | [ROADMAP.md](ROADMAP.md) | v1.1+ — AI, forums/Instagram trust loop, APAC, healthcare |
+| [GROWTH_PLAYBOOK.md](GROWTH_PLAYBOOK.md) | Conversion mechanics: store page, onboarding funnel, paywall, retention |
 | [DATA_SOURCES.md](DATA_SOURCES.md) | Where safety evidence comes from, how coverage grows |
 | [yuka-appstore-research.md](yuka-appstore-research.md) | Raw research: Yuka flow, review guidelines, EAS |
 | [../legal/](../legal/) | Privacy policy, terms, medical disclaimer (need hosting) |

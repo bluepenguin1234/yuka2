@@ -78,11 +78,15 @@ eas submit --platform ios --latest
 
 ## Phase 6 — Submission
 
-Metadata to prepare (I can draft all copy — say the word):
-- Screenshots: 6.9" (1320×2868) + 6.5" (1284×2778) sets — scanner, verdict (one avoid, one
-  ok), stage select, history. Take on-device from TestFlight; frame in Figma/Canva.
-- Description, keywords (`pregnancy, breastfeeding, scanner, ingredients, safety, food,
-  cosmetics, nursing, trimester, baby`), promo text, support URL (GitHub Pages page is fine).
+Metadata to prepare (I can draft all copy — say the word). Full conversion strategy:
+[GROWTH_PLAYBOOK.md](GROWTH_PLAYBOOK.md).
+- Title `Expecta: Pregnancy Scanner` · subtitle `Food & cosmetic safety check` (no repeated
+  words between them — every word is an ASO keyword).
+- Keyword field: `breastfeeding,nursing,ingredients,trimester,barcode,baby,safe,expecting,mom,label`.
+- Screenshots: 6.9" (1320×2868) + 6.5" (1284×2778) sets. First screenshot = verdict screen
+  with the verdict badge popping out 3D-style + outcome caption (see playbook for the full
+  6-shot set). Take on-device from TestFlight; frame in Figma/Canva.
+- Description + promo text (outcome-led), support URL (GitHub Pages page is fine).
 - **App Review notes (paste-ready template):**
   > Expecta is an informational decision-support tool for expecting and nursing mothers. It
   > is not a medical device and provides no diagnosis or treatment. Verdicts summarize

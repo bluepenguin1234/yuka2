@@ -4,10 +4,15 @@
 Scanner + verdicts + stage-awareness + history. Free. The goal is trust and scan volume:
 every scan either validates coverage or points at the next gap.
 
-## v1.1 — Premium (weeks 2–4)
-- RevenueCat subscriptions (choose-your-price annual, Yuka model)
+## v1.1 — Premium + conversion machine (weeks 2–4)
+- RevenueCat subscriptions via RevenueCat Paywalls (remote A/B: choose-your-price annual vs
+  $49.99/yr + 7-day trial — see GROWTH_PLAYBOOK.md)
+- Conversion onboarding: ~12-screen outcome-led funnel with a frictionless 3-screen quiz,
+  instrumented end-to-end with PostHog (75%+ reach-paywall target)
 - AI label reader (photo → Claude vision → structured verdict; backend already written) —
   the premium hero feature and the answer to "no barcode" products
+- Native review prompt after the 3rd successful scan (expo-store-review)
+- Stage-change push notifications ("your trimester changed — so did your verdicts")
 - Expo Updates for OTA fixes; OTA safety-DB refresh from `safety_ingredients`
 - App icon/splash refinement, dark mode
 
@@ -17,6 +22,8 @@ every scan either validates coverage or points at the next gap.
 - Share cards ("Expecta says…") sized for Instagram stories + parenting forums — the
   organic growth mechanic: every shared verdict is an ad with a citation
 - In-app "was this verdict helpful?" → verdict-quality telemetry
+- Exit offer on "Manage subscription": questionnaire → ~$24.99/yr retention offer for
+  non-annual subscribers (disclosed to App Review; see GROWTH_PLAYBOOK.md)
 - Supplements & prenatal-vitamin category; teas category (top forum topic)
 
 ## v2 — Moat deepening (months 3–6)

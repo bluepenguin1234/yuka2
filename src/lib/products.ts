@@ -70,7 +70,9 @@ interface RawIngredient {
 function flattenIngredients(list: RawIngredient[] | undefined, out: string[] = []): string[] {
   if (!Array.isArray(list)) return out;
   for (const item of list) {
-    const label = String(item?.text || item?.id || '')
+    // Prefer the taxonomy id ("en:sugar") over the label text: labels come in
+    // the package's language (e.g. "Sucre"), ids are language-neutral English.
+    const label = String(item?.id || item?.text || '')
       .replace(/^[a-z]{2}:/, '')
       .replace(/-/g, ' ')
       .trim();
